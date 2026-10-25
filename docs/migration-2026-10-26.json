@@ -1,0 +1,889 @@
+{
+  "date": "2026-10-26",
+  "source_commit": "24bf59788604aca2b6904fc4b1990c5856e0880e",
+  "pdf_count": 147,
+  "files": [
+    {
+      "old_path": "ALS/Collaborative Filtering for Implicit Feedback Datasets.pdf",
+      "new_path": "library/recommender-systems/collaborative-filtering/Collaborative Filtering for Implicit Feedback Datasets.pdf",
+      "git_blob_sha": "1633bbea67c3d6ced6929ab9f5dae17e8f05832f",
+      "topic": "recommender-systems"
+    },
+    {
+      "old_path": "ALS/Large-Scale Parallel Collaborative Filtering for the Netflix Prize.pdf",
+      "new_path": "library/recommender-systems/collaborative-filtering/Large-Scale Parallel Collaborative Filtering for the Netflix Prize.pdf",
+      "git_blob_sha": "3460e0344891338a3e830507cfd0f96e82bda555",
+      "topic": "recommender-systems"
+    },
+    {
+      "old_path": "ALS/实时推荐算法文档.pdf",
+      "new_path": "library/recommender-systems/collaborative-filtering/实时推荐算法文档.pdf",
+      "git_blob_sha": "20cd1a18a903b101c6d4bfeaf44423c9ec5162ef",
+      "topic": "recommender-systems"
+    },
+    {
+      "old_path": "Applications/A Survey of Emerging Approaches to Spam Filtering, Caruana, 2012.pdf",
+      "new_path": "library/applications/general/A Survey of Emerging Approaches to Spam Filtering, Caruana, 2012.pdf",
+      "git_blob_sha": "57723b2e38631b2d326e1604d181cc255fbf1555",
+      "topic": "applications"
+    },
+    {
+      "old_path": "Applications/A Survey of Online Failure Prediction Methods.pdf",
+      "new_path": "library/applications/general/A Survey of Online Failure Prediction Methods.pdf",
+      "git_blob_sha": "a55b9831abd7b3dbb5da19035976003d128009a3",
+      "topic": "applications"
+    },
+    {
+      "old_path": "Applications/Ambient Intelligence_ A Survey.pdf",
+      "new_path": "library/applications/general/Ambient Intelligence_ A Survey.pdf",
+      "git_blob_sha": "b717ec846c2f4d033c72f97c48b81889f298c192",
+      "topic": "applications"
+    },
+    {
+      "old_path": "Applications/Anomaly Detection_ A Survey.pdf",
+      "new_path": "library/data-mining/anomaly-detection/Anomaly Detection_ A Survey.pdf",
+      "git_blob_sha": "5a9d78fff48322dd84cb43a609e58131c913ee35",
+      "topic": "data-mining"
+    },
+    {
+      "old_path": "Applications/Mining Data Streams_ A Review.pdf",
+      "new_path": "library/data-mining/data-streams/Mining Data Streams_ A Review.pdf",
+      "git_blob_sha": "6c3c8eb945d04d3aa3ebdf4adde481442a731827",
+      "topic": "data-mining"
+    },
+    {
+      "old_path": "Applications/Workflow Mining_ A Survey of Issues and Approaches.pdf",
+      "new_path": "library/data-mining/process-mining/Workflow Mining_ A Survey of Issues and Approaches.pdf",
+      "git_blob_sha": "3e0cf56dcab7cbbc6ad4591923f4bd66be878849",
+      "topic": "data-mining"
+    },
+    {
+      "old_path": "Biology/A Review of Feature Selection in Bioinformatics.pdf",
+      "new_path": "library/applications/bioinformatics/A Review of Feature Selection in Bioinformatics.pdf",
+      "git_blob_sha": "28afd5be464f5e112ec4909a53b6378522b47ddf",
+      "topic": "applications"
+    },
+    {
+      "old_path": "Biology/Bioinformatics - An Introduction for Computer Scientists.pdf",
+      "new_path": "library/applications/bioinformatics/Bioinformatics - An Introduction for Computer Scientists.pdf",
+      "git_blob_sha": "22d104fa5c646b0f2a39d6b8e0b26eb167aeeb19",
+      "topic": "applications"
+    },
+    {
+      "old_path": "Biology/Chemoinformatics - An Introduction for Computer Scientists.pdf",
+      "new_path": "library/applications/bioinformatics/Chemoinformatics - An Introduction for Computer Scientists.pdf",
+      "git_blob_sha": "93bbb88ae9d0fcbc59788e54727486b0d55441bc",
+      "topic": "applications"
+    },
+    {
+      "old_path": "Biology/Computational Challenges in Systems Biology.pdf",
+      "new_path": "library/applications/bioinformatics/Computational Challenges in Systems Biology.pdf",
+      "git_blob_sha": "ae5d2addfe741f3879f2e826d61cb39de5f2a538",
+      "topic": "applications"
+    },
+    {
+      "old_path": "Biology/Computational Epigenetics.pdf",
+      "new_path": "library/applications/bioinformatics/Computational Epigenetics.pdf",
+      "git_blob_sha": "e20800da9783957c53b5d713b66caab11da1f12d",
+      "topic": "applications"
+    },
+    {
+      "old_path": "Biology/Computational Systems Biology.pdf",
+      "new_path": "library/applications/bioinformatics/Computational Systems Biology.pdf",
+      "git_blob_sha": "07b3acbaa28d36400b6d582901d41b78e1f9b608",
+      "topic": "applications"
+    },
+    {
+      "old_path": "Biology/Machine Learning in Bioinformatics_ A Brief Survey and Recommendations for Practitioners.pdf",
+      "new_path": "library/applications/bioinformatics/Machine Learning in Bioinformatics_ A Brief Survey and Recommendations for Practitioners.pdf",
+      "git_blob_sha": "9f9c417a737a413a0f4fa7d8d837f4f5c94455ce",
+      "topic": "applications"
+    },
+    {
+      "old_path": "Biology/Molecular Biology for Computer Scientists.pdf",
+      "new_path": "library/applications/bioinformatics/Molecular Biology for Computer Scientists.pdf",
+      "git_blob_sha": "e370fa19b32803d97a9d932aa87f2478b3df19ef",
+      "topic": "applications"
+    },
+    {
+      "old_path": "Biology/Progress and Challenges in Protein Structure Prediction.pdf",
+      "new_path": "library/applications/bioinformatics/Progress and Challenges in Protein Structure Prediction.pdf",
+      "git_blob_sha": "5e5ff89dc7c3c88d00ed989e9f7fdcb3af8d9910",
+      "topic": "applications"
+    },
+    {
+      "old_path": "Biology/Protein Structure Prediction and Structural Genomics.pdf",
+      "new_path": "library/applications/bioinformatics/Protein Structure Prediction and Structural Genomics.pdf",
+      "git_blob_sha": "a90c5b2b2a3142800e1710b6bac97428dea7f6ba",
+      "topic": "applications"
+    },
+    {
+      "old_path": "Biology/Recent Developments and Future Directions in Computational Genomics.pdf",
+      "new_path": "library/applications/bioinformatics/Recent Developments and Future Directions in Computational Genomics.pdf",
+      "git_blob_sha": "19c7c84f6a6a0a91a0f7124492ee803da9993216",
+      "topic": "applications"
+    },
+    {
+      "old_path": "Biology/Support Vector Machines in Bioinformatics_ a Survey.pdf",
+      "new_path": "library/applications/bioinformatics/Support Vector Machines in Bioinformatics_ a Survey.pdf",
+      "git_blob_sha": "8f7ce1fe7b56b816b40b8812be42188b59e373b3",
+      "topic": "applications"
+    },
+    {
+      "old_path": "Classification/Supervised Machine Learning_ A Review of Classification Techniques.pdf",
+      "new_path": "library/classical-ml/classification/Supervised Machine Learning_ A Review of Classification Techniques.pdf",
+      "git_blob_sha": "2f552f38367fab89edde9c5e1b13a38e2266b67d",
+      "topic": "classical-ml"
+    },
+    {
+      "old_path": "Clustering/A Survey of Fuzzy Clustering.pdf",
+      "new_path": "library/classical-ml/clustering/A Survey of Fuzzy Clustering.pdf",
+      "git_blob_sha": "a2bcd6a560eae295da0302449792acca63326754",
+      "topic": "classical-ml"
+    },
+    {
+      "old_path": "Clustering/A Survey_ Clustering Ensembles Techniques.pdf",
+      "new_path": "library/classical-ml/clustering/A Survey_ Clustering Ensembles Techniques.pdf",
+      "git_blob_sha": "27369b9a8d91133ed3a8f64648e1f087a15b403b",
+      "topic": "classical-ml"
+    },
+    {
+      "old_path": "Clustering/A Tutorial on Spectral Clustering.pdf",
+      "new_path": "library/classical-ml/clustering/A Tutorial on Spectral Clustering.pdf",
+      "git_blob_sha": "7d9e398d3f2e6d27b00bcb82b3de890a4cc0a3d0",
+      "topic": "classical-ml"
+    },
+    {
+      "old_path": "Clustering/Clustering Methods.pdf",
+      "new_path": "library/classical-ml/clustering/Clustering Methods.pdf",
+      "git_blob_sha": "aa937c79e380de22c280f2ba0393890e70055ff6",
+      "topic": "classical-ml"
+    },
+    {
+      "old_path": "Clustering/Clustering Stability_ An Overview.pdf",
+      "new_path": "library/evaluation/clustering-validation/Clustering Stability_ An Overview.pdf",
+      "git_blob_sha": "f39e491909eab36df8aa52ebc182deb056ab0c47",
+      "topic": "evaluation"
+    },
+    {
+      "old_path": "Clustering/Clustering in Life Sciences.pdf",
+      "new_path": "library/applications/bioinformatics/Clustering in Life Sciences.pdf",
+      "git_blob_sha": "9a34a2f9d3f5ae63401f52a97891bdeaa33f3135",
+      "topic": "applications"
+    },
+    {
+      "old_path": "Clustering/Clustering of Time Series Data - A Survey.pdf",
+      "new_path": "library/data-mining/time-series/Clustering of Time Series Data - A Survey.pdf",
+      "git_blob_sha": "ccb9f00babbd8306ae48595c593c78c31040c9f9",
+      "topic": "data-mining"
+    },
+    {
+      "old_path": "Clustering/Computational Epigenetics_ The New Scientific Paradigm.pdf",
+      "new_path": "library/applications/bioinformatics/Computational Epigenetics_ The New Scientific Paradigm.pdf",
+      "git_blob_sha": "6a52c48b34682c01494162eed201f07bf106e313",
+      "topic": "applications"
+    },
+    {
+      "old_path": "Clustering/Data Clustering_ 50 Years Beyond K-Means.pdf",
+      "new_path": "library/classical-ml/clustering/Data Clustering_ 50 Years Beyond K-Means.pdf",
+      "git_blob_sha": "517bdcbb79f18a462914de2bcfc7307a9dc46be5",
+      "topic": "classical-ml"
+    },
+    {
+      "old_path": "Clustering/Data Clustering_ A Review.pdf",
+      "new_path": "library/classical-ml/clustering/Data Clustering_ A Review.pdf",
+      "git_blob_sha": "5fd1b81ceb3bed5c8ecb8c0cb1c7dd64b76c8523",
+      "topic": "classical-ml"
+    },
+    {
+      "old_path": "Clustering/On Clustering Validation Techniques.pdf",
+      "new_path": "library/evaluation/clustering-validation/On Clustering Validation Techniques.pdf",
+      "git_blob_sha": "48a0048e1003068649e00a9156e201d8a9f5b215",
+      "topic": "evaluation"
+    },
+    {
+      "old_path": "Clustering/Parallel Clustering Algorithms_ A Survey.pdf",
+      "new_path": "library/classical-ml/clustering/Parallel Clustering Algorithms_ A Survey.pdf",
+      "git_blob_sha": "375ced2998674aec814dce2b57dae3f5fb91c3d6",
+      "topic": "classical-ml"
+    },
+    {
+      "old_path": "Clustering/Recent Advances in Clustering_ A Brief Survey.pdf",
+      "new_path": "library/classical-ml/clustering/Recent Advances in Clustering_ A Brief Survey.pdf",
+      "git_blob_sha": "8b978862168f261ce31e869334a417f59c60632b",
+      "topic": "classical-ml"
+    },
+    {
+      "old_path": "Clustering/Subspace Clustering for High Dimensional Data_ A Review.pdf",
+      "new_path": "library/classical-ml/clustering/Subspace Clustering for High Dimensional Data_ A Review.pdf",
+      "git_blob_sha": "064a13ece90db3f56460fd9006aa8287c929d2d2",
+      "topic": "classical-ml"
+    },
+    {
+      "old_path": "Clustering/Survey of Clustering Algorithms.pdf",
+      "new_path": "library/classical-ml/clustering/Survey of Clustering Algorithms.pdf",
+      "git_blob_sha": "ee135086c882f7327e21fd62f1e955e572b077c8",
+      "topic": "classical-ml"
+    },
+    {
+      "old_path": "Clustering/Survey of Clustering Data Mining Techniques.pdf",
+      "new_path": "library/classical-ml/clustering/Survey of Clustering Data Mining Techniques.pdf",
+      "git_blob_sha": "5e305931e3f1f43aeb450f15cfe580836aeb9b07",
+      "topic": "classical-ml"
+    },
+    {
+      "old_path": "Clustering/Unsupervised and Semi-supervised Clustering_ a Brief Survey.pdf",
+      "new_path": "library/classical-ml/clustering/Unsupervised and Semi-supervised Clustering_ a Brief Survey.pdf",
+      "git_blob_sha": "188d5a6aae09e953247eef2c7a38bf3572241303",
+      "topic": "classical-ml"
+    },
+    {
+      "old_path": "Clustering/XML Data Clustering_ An Overview.pdf",
+      "new_path": "library/classical-ml/clustering/XML Data Clustering_ An Overview.pdf",
+      "git_blob_sha": "dd7947588a749865f76e4f775bac28ee9c4598ea",
+      "topic": "classical-ml"
+    },
+    {
+      "old_path": "Computer Vision/A Comparative Study of Palmprint Recognition Algorithms.pdf",
+      "new_path": "library/computer-vision/surveys/A Comparative Study of Palmprint Recognition Algorithms.pdf",
+      "git_blob_sha": "f34e2bbdd07bfac5501ea704a21b98feecb09363",
+      "topic": "computer-vision"
+    },
+    {
+      "old_path": "Computer Vision/Context Based Object Categorization_ A Critical Survey.pdf",
+      "new_path": "library/computer-vision/surveys/Context Based Object Categorization_ A Critical Survey.pdf",
+      "git_blob_sha": "89c4965acb0ade7b719744435b87c7afc5a317db",
+      "topic": "computer-vision"
+    },
+    {
+      "old_path": "Computer Vision/Detecting Faces in Images_ A Survey.pdf",
+      "new_path": "library/computer-vision/surveys/Detecting Faces in Images_ A Survey.pdf",
+      "git_blob_sha": "f97a7c9f59e244dce67328e57cab7257d76646d4",
+      "topic": "computer-vision"
+    },
+    {
+      "old_path": "Computer Vision/Human Activity Analysis_ A Review.pdf",
+      "new_path": "library/computer-vision/surveys/Human Activity Analysis_ A Review.pdf",
+      "git_blob_sha": "466f9903a33d1bcac9c8da9c412bc784b059b6b8",
+      "topic": "computer-vision"
+    },
+    {
+      "old_path": "Computer Vision/Object tracking_ A Survey.pdf",
+      "new_path": "library/computer-vision/surveys/Object tracking_ A Survey.pdf",
+      "git_blob_sha": "de191953d810fc688f500d1b69d597f35610af02",
+      "topic": "computer-vision"
+    },
+    {
+      "old_path": "Computer Vision/Pedestrian Detection_ An Evaluation of the State of the Art.pdf",
+      "new_path": "library/computer-vision/surveys/Pedestrian Detection_ An Evaluation of the State of the Art.pdf",
+      "git_blob_sha": "669fad35adf35180d03165ae9608f95008163382",
+      "topic": "computer-vision"
+    },
+    {
+      "old_path": "Computer Vision/Subspace Methods for Face Recognition.pdf",
+      "new_path": "library/computer-vision/surveys/Subspace Methods for Face Recognition.pdf",
+      "git_blob_sha": "0514e5f02e9a263e0e41e3a1bf4766fb68da3e20",
+      "topic": "computer-vision"
+    },
+    {
+      "old_path": "Databases/A Survey of Schema-based Matching Approaches.pdf",
+      "new_path": "library/data-mining/data-management/A Survey of Schema-based Matching Approaches.pdf",
+      "git_blob_sha": "70ac201a23a0717104b673324049b47001c9bf9a",
+      "topic": "data-mining"
+    },
+    {
+      "old_path": "Databases/Data Fusion.pdf",
+      "new_path": "library/data-mining/data-management/Data Fusion.pdf",
+      "git_blob_sha": "d6fab7f88fd7d17a6bbd0d8461333274e11162a4",
+      "topic": "data-mining"
+    },
+    {
+      "old_path": "Databases/Duplicate Record Detection_ A Survey.pdf",
+      "new_path": "library/data-mining/data-management/Duplicate Record Detection_ A Survey.pdf",
+      "git_blob_sha": "10da5e91f11f4d23b88c5df5c485cc60240b14c9",
+      "topic": "data-mining"
+    },
+    {
+      "old_path": "Databases/Overview of Record Linkage and Current Research Directions.pdf",
+      "new_path": "library/data-mining/data-management/Overview of Record Linkage and Current Research Directions.pdf",
+      "git_blob_sha": "ef41123794c10dfb32363efc3fcecc3a2d6de50f",
+      "topic": "data-mining"
+    },
+    {
+      "old_path": "Dimension Reduction/A Survey of Dimension Reduction Techniques.pdf",
+      "new_path": "library/classical-ml/feature-selection/A Survey of Dimension Reduction Techniques.pdf",
+      "git_blob_sha": "5a1b1b616b12e4284ca1ccc502ce6216efe5a165",
+      "topic": "classical-ml"
+    },
+    {
+      "old_path": "Dimension Reduction/A Survey of Manifold-Based Learning Methods.pdf",
+      "new_path": "library/classical-ml/feature-selection/A Survey of Manifold-Based Learning Methods.pdf",
+      "git_blob_sha": "413f1b31ae68b8a03c2ea0ba60e973f4691f6fd5",
+      "topic": "classical-ml"
+    },
+    {
+      "old_path": "Dimension Reduction/An Introduction to Variable and Feature Selection.pdf",
+      "new_path": "library/classical-ml/feature-selection/An Introduction to Variable and Feature Selection.pdf",
+      "git_blob_sha": "1164e50d51f41fe74e10a2d4f61fbdc1bcc8f660",
+      "topic": "classical-ml"
+    },
+    {
+      "old_path": "Dimension Reduction/Dimension Reduction_ A Guided Tour.pdf",
+      "new_path": "library/classical-ml/feature-selection/Dimension Reduction_ A Guided Tour.pdf",
+      "git_blob_sha": "65427325c0ab6af3db96c37781df6dffd06ab3f0",
+      "topic": "classical-ml"
+    },
+    {
+      "old_path": "Dimension Reduction/Dimensionality Reduction_ A Comparative Review.pdf",
+      "new_path": "library/classical-ml/feature-selection/Dimensionality Reduction_ A Comparative Review.pdf",
+      "git_blob_sha": "fa1f4d2d078d89ecba67094d67bd1e73b4b9fc8f",
+      "topic": "classical-ml"
+    },
+    {
+      "old_path": "Dimension Reduction/Toward Integrating Feature Selection Algorithms for Classification and Clustering.pdf",
+      "new_path": "library/classical-ml/feature-selection/Toward Integrating Feature Selection Algorithms for Classification and Clustering.pdf",
+      "git_blob_sha": "91770397e8f94ba14ac2af351003a80aee0d4872",
+      "topic": "classical-ml"
+    },
+    {
+      "old_path": "Economics/Auctions and Bidding_ A Guide for Computer Scientists.pdf",
+      "new_path": "library/applications/economics/Auctions and Bidding_ A Guide for Computer Scientists.pdf",
+      "git_blob_sha": "162da6ae55e837b900fc6a1774f1a72b5149584f",
+      "topic": "applications"
+    },
+    {
+      "old_path": "Economics/Computational Finance.pdf",
+      "new_path": "library/applications/economics/Computational Finance.pdf",
+      "git_blob_sha": "6afc98259296f015b4c026effe1d027badfd7091",
+      "topic": "applications"
+    },
+    {
+      "old_path": "Economics/Computational Sustainability.pdf",
+      "new_path": "library/applications/economics/Computational Sustainability.pdf",
+      "git_blob_sha": "704ba5f97aade2d5d2bae074d3067005bfef8335",
+      "topic": "applications"
+    },
+    {
+      "old_path": "Game Theory/Computer Poker_ A Review.pdf",
+      "new_path": "library/reinforcement-learning/games/Computer Poker_ A Review.pdf",
+      "git_blob_sha": "f95960fa1e5c9fe488c15509eaf39c6488de4ac2",
+      "topic": "reinforcement-learning"
+    },
+    {
+      "old_path": "Graphical Models/An Introduction to Variational Methods for Graphical Models.pdf",
+      "new_path": "library/foundations/probabilistic-models/An Introduction to Variational Methods for Graphical Models.pdf",
+      "git_blob_sha": "902f9eaa68a4be49d426d62536c599d0ff45689b",
+      "topic": "foundations"
+    },
+    {
+      "old_path": "Learning Theory/Introduction to Statistical Learning Theory.pdf",
+      "new_path": "library/foundations/learning-theory/Introduction to Statistical Learning Theory.pdf",
+      "git_blob_sha": "24241eaf4d82f1a817ce82bc7a255759c8a01200",
+      "topic": "foundations"
+    },
+    {
+      "old_path": "Machine Learning/A Few Useful Things to Know about Machine Learning.pdf",
+      "new_path": "library/classical-ml/general/A Few Useful Things to Know about Machine Learning.pdf",
+      "git_blob_sha": "bf7b50fa10e743bba9f2737f73d3fbafd154feb7",
+      "topic": "classical-ml"
+    },
+    {
+      "old_path": "Machine Learning/A Survey of Interestingness Measures for Knowledge Discovery.pdf",
+      "new_path": "library/data-mining/pattern-mining/A Survey of Interestingness Measures for Knowledge Discovery.pdf",
+      "git_blob_sha": "592895b4839db6b83e74ad12a431fcb5cd478ebe",
+      "topic": "data-mining"
+    },
+    {
+      "old_path": "Machine Learning/A Survey on Wavelet Applications in Data Mining.pdf",
+      "new_path": "library/data-mining/general/A Survey on Wavelet Applications in Data Mining.pdf",
+      "git_blob_sha": "0c76f76bea6c2400f99d58eae14d65a00832f81d",
+      "topic": "data-mining"
+    },
+    {
+      "old_path": "Machine Learning/A Tutorial on Bayesian Nonparametric Models.pdf",
+      "new_path": "library/foundations/probabilistic-models/A Tutorial on Bayesian Nonparametric Models.pdf",
+      "git_blob_sha": "9cd75bb5aea4b8dfd8f0301114626dcf80a5f6b6",
+      "topic": "foundations"
+    },
+    {
+      "old_path": "Machine Learning/A Tutorial on the Cross-Entropy Method.pdf",
+      "new_path": "library/foundations/optimization/A Tutorial on the Cross-Entropy Method.pdf",
+      "git_blob_sha": "feb0300b5e54da32884245fc7e4e02103b6310e2",
+      "topic": "foundations"
+    },
+    {
+      "old_path": "Machine Learning/Decision Forests for Classification, Regression, Density Estimation, Manifold Learning and Semi-Supervised Learning.pdf",
+      "new_path": "library/classical-ml/ensemble-learning/Decision Forests for Classification, Regression, Density Estimation, Manifold Learning and Semi-Supervised Learning.pdf",
+      "git_blob_sha": "938ddfdd639ab75751809a48934858e4355a9d8b",
+      "topic": "classical-ml"
+    },
+    {
+      "old_path": "Machine Learning/Interestingness Measures for Data Mining_ A Survey.pdf",
+      "new_path": "library/data-mining/pattern-mining/Interestingness Measures for Data Mining_ A Survey.pdf",
+      "git_blob_sha": "f23217a6f6e1d7aa357b551d84eaba328f2b0409",
+      "topic": "data-mining"
+    },
+    {
+      "old_path": "Machine Learning/Semi-Supervised Learning Literature Survey.pdf",
+      "new_path": "library/classical-ml/semi-supervised-learning/Semi-Supervised Learning Literature Survey.pdf",
+      "git_blob_sha": "e580f9f95d9e7e425783b6bf3a45fc31acdbdf01",
+      "topic": "classical-ml"
+    },
+    {
+      "old_path": "Machine Learning/Survey on Frequent Pattern Mining.pdf",
+      "new_path": "library/data-mining/pattern-mining/Survey on Frequent Pattern Mining.pdf",
+      "git_blob_sha": "41eb2f8e911a4730699314c6c60348c95aad33eb",
+      "topic": "data-mining"
+    },
+    {
+      "old_path": "Machine Learning/The Boosting Approach to Machine Learning_ An Overview.pdf",
+      "new_path": "library/classical-ml/ensemble-learning/The Boosting Approach to Machine Learning_ An Overview.pdf",
+      "git_blob_sha": "20aa373e1ac851d24fdcda3ec74f020d1963cf91",
+      "topic": "classical-ml"
+    },
+    {
+      "old_path": "Machine Learning/Top 10 Algorithms in Data Mining.pdf",
+      "new_path": "library/classical-ml/general/Top 10 Algorithms in Data Mining.pdf",
+      "git_blob_sha": "742e47c7c8dadd1071fd4789173c602e7ffaf218",
+      "topic": "classical-ml"
+    },
+    {
+      "old_path": "Mathematics/Topology and Data.pdf",
+      "new_path": "library/foundations/mathematics/Topology and Data.pdf",
+      "git_blob_sha": "c6700663928cb4917f686c19534ccee0523be04e",
+      "topic": "foundations"
+    },
+    {
+      "old_path": "Multi-armed Bandit/Regret Analysis of Stochastic and Nonstochastic Multi-armed Bandit Problems.pdf",
+      "new_path": "library/reinforcement-learning/bandits/Regret Analysis of Stochastic and Nonstochastic Multi-armed Bandit Problems.pdf",
+      "git_blob_sha": "66f3beb06c31668a3ebed56f5269e76d54499f23",
+      "topic": "reinforcement-learning"
+    },
+    {
+      "old_path": "Natural Computing/A Survey of Evolutionary Algorithms for Data Mining and Knowledge Discovery.pdf",
+      "new_path": "library/classical-ml/evolutionary-computing/A Survey of Evolutionary Algorithms for Data Mining and Knowledge Discovery.pdf",
+      "git_blob_sha": "dba5b3e6de4779b40c377159695c1052ba075d5d",
+      "topic": "classical-ml"
+    },
+    {
+      "old_path": "Natural Computing/Artificial Immune Systems.pdf",
+      "new_path": "library/classical-ml/evolutionary-computing/Artificial Immune Systems.pdf",
+      "git_blob_sha": "57515be0e5e52c7fc4f2901e536ec1ebbd4325da",
+      "topic": "classical-ml"
+    },
+    {
+      "old_path": "Natural Computing/Data Mining in Soft Computing Framework_ A Survey.pdf",
+      "new_path": "library/classical-ml/evolutionary-computing/Data Mining in Soft Computing Framework_ A Survey.pdf",
+      "git_blob_sha": "ebe36cac4bda2612c87d22b3c47530945784aafc",
+      "topic": "classical-ml"
+    },
+    {
+      "old_path": "Natural Computing/Neural Networks for Classification_ A Survey.pdf",
+      "new_path": "library/deep-learning/neural-networks/Neural Networks for Classification_ A Survey.pdf",
+      "git_blob_sha": "8c627f2565a3a758f6ef639b40abe800fa1012f2",
+      "topic": "deep-learning"
+    },
+    {
+      "old_path": "Natural Computing/Reservoir Computing Approaches to Recurrent Neural Network Training.pdf",
+      "new_path": "library/deep-learning/neural-networks/Reservoir Computing Approaches to Recurrent Neural Network Training.pdf",
+      "git_blob_sha": "cebce04abfe36e81eb9ec18881464f8d6bc99d78",
+      "topic": "deep-learning"
+    },
+    {
+      "old_path": "Natural Language Processing/A Survey of Named Entity Recognition and Classification.pdf",
+      "new_path": "library/nlp/surveys/A Survey of Named Entity Recognition and Classification.pdf",
+      "git_blob_sha": "72ddd3ab534351da1ee793f7ab420d7f5097052a",
+      "topic": "nlp"
+    },
+    {
+      "old_path": "Natural Language Processing/A Survey on Sentiment Detection of Reviews.pdf",
+      "new_path": "library/nlp/surveys/A Survey on Sentiment Detection of Reviews.pdf",
+      "git_blob_sha": "bda57fdf6eff9849b2b7dc18572a9798824ba386",
+      "topic": "nlp"
+    },
+    {
+      "old_path": "Natural Language Processing/Adaptive Information Extraction.pdf",
+      "new_path": "library/nlp/surveys/Adaptive Information Extraction.pdf",
+      "git_blob_sha": "0e43b20c352211762bb5196e3e0019e6f86beab1",
+      "topic": "nlp"
+    },
+    {
+      "old_path": "Natural Language Processing/Comprehensive Review of Opinion Summarization.pdf",
+      "new_path": "library/nlp/surveys/Comprehensive Review of Opinion Summarization.pdf",
+      "git_blob_sha": "83af881bd822b5c089c8bd1f1e22172873f5508d",
+      "topic": "nlp"
+    },
+    {
+      "old_path": "Natural Language Processing/Information Extraction.pdf",
+      "new_path": "library/nlp/surveys/Information Extraction.pdf",
+      "git_blob_sha": "bd40ebacf07dc0a8bc538f3d5abbabde16ed3081",
+      "topic": "nlp"
+    },
+    {
+      "old_path": "Natural Language Processing/Machine Learning in Automated Text Categorization.pdf",
+      "new_path": "library/nlp/surveys/Machine Learning in Automated Text Categorization.pdf",
+      "git_blob_sha": "90204b3ffcf55befe180640b64b3c272083f8e02",
+      "topic": "nlp"
+    },
+    {
+      "old_path": "Natural Language Processing/Machine Transliteration Survey.pdf",
+      "new_path": "library/nlp/surveys/Machine Transliteration Survey.pdf",
+      "git_blob_sha": "63ef0748eb95d6f90cd7c50981811d0192dc56e7",
+      "topic": "nlp"
+    },
+    {
+      "old_path": "Natural Language Processing/Ontology Learning From Text_ A Look Back And Into The Future.pdf",
+      "new_path": "library/nlp/surveys/Ontology Learning From Text_ A Look Back And Into The Future.pdf",
+      "git_blob_sha": "225dcbfd0ccfcc9e57c760f0fda2ac80e61fccc2",
+      "topic": "nlp"
+    },
+    {
+      "old_path": "Natural Language Processing/Opinion Mining and Sentiment Analysis.pdf",
+      "new_path": "library/nlp/surveys/Opinion Mining and Sentiment Analysis.pdf",
+      "git_blob_sha": "c101e9ed46701536d6b7bb9ee3e5812c253d4bf1",
+      "topic": "nlp"
+    },
+    {
+      "old_path": "Natural Language Processing/Probabilistic Topic Models.pdf",
+      "new_path": "library/nlp/surveys/Probabilistic Topic Models.pdf",
+      "git_blob_sha": "ccb1198b1ace18567c400030513a7c97f34d5f8d",
+      "topic": "nlp"
+    },
+    {
+      "old_path": "Natural Language Processing/Statistical Machine Translation.pdf",
+      "new_path": "library/nlp/surveys/Statistical Machine Translation.pdf",
+      "git_blob_sha": "263e9cbd3be2aeb86a65db9cfdbd0aba8167c02e",
+      "topic": "nlp"
+    },
+    {
+      "old_path": "Natural Language Processing/Survey of Text Clustering.pdf",
+      "new_path": "library/nlp/surveys/Survey of Text Clustering.pdf",
+      "git_blob_sha": "d15077ad89f708f7464bcdff55191d8613bfb882",
+      "topic": "nlp"
+    },
+    {
+      "old_path": "Natural Language Processing/Topic Models.pdf",
+      "new_path": "library/nlp/surveys/Topic Models.pdf",
+      "git_blob_sha": "325a74c27269a90c1d98753a0e7e9ae2d1a81847",
+      "topic": "nlp"
+    },
+    {
+      "old_path": "Natural Language Processing/Translation Techniques in Cross-Language Information Retrieval.pdf",
+      "new_path": "library/nlp/surveys/Translation Techniques in Cross-Language Information Retrieval.pdf",
+      "git_blob_sha": "90ed7a3d6dab6758b9ae52b5e60bee0448ed6388",
+      "topic": "nlp"
+    },
+    {
+      "old_path": "Natural Language Processing/Web Mining Research_ A Survey.pdf",
+      "new_path": "library/data-mining/web-mining/Web Mining Research_ A Survey.pdf",
+      "git_blob_sha": "61bdaaf5cbf7587e5ca26bd7c08719d83385444c",
+      "topic": "data-mining"
+    },
+    {
+      "old_path": "Natural Language Processing/Word Sense Desambiguation_ A Survey.pdf",
+      "new_path": "library/nlp/surveys/Word Sense Desambiguation_ A Survey.pdf",
+      "git_blob_sha": "895b26bdeb444ac82fc204f4a7ff70b9276c053a",
+      "topic": "nlp"
+    },
+    {
+      "old_path": "Networks/A Survey of Statistical Network Models.pdf",
+      "new_path": "library/graph-learning/network-analysis/A Survey of Statistical Network Models.pdf",
+      "git_blob_sha": "514a2038df98c1efbd1b9a3d1db2844b5752e964",
+      "topic": "graph-learning"
+    },
+    {
+      "old_path": "Networks/Communities in Networks.pdf",
+      "new_path": "library/graph-learning/network-analysis/Communities in Networks.pdf",
+      "git_blob_sha": "044eb51dbd62a54b4e31ad953e5148b40650dd5f",
+      "topic": "graph-learning"
+    },
+    {
+      "old_path": "Networks/Community Detection in Graphs.pdf",
+      "new_path": "library/graph-learning/network-analysis/Community Detection in Graphs.pdf",
+      "git_blob_sha": "7fe0c0de0d1b7daac963be5d54bc522ab828056f",
+      "topic": "graph-learning"
+    },
+    {
+      "old_path": "Networks/Comparing Community Structure Identification.pdf",
+      "new_path": "library/graph-learning/network-analysis/Comparing Community Structure Identification.pdf",
+      "git_blob_sha": "08b08912a8f91e8294c1866dccd97d896bc3a93b",
+      "topic": "graph-learning"
+    },
+    {
+      "old_path": "Networks/Detecting Community Structure in Networks.pdf",
+      "new_path": "library/graph-learning/network-analysis/Detecting Community Structure in Networks.pdf",
+      "git_blob_sha": "f3b8f97a73003c8d26b5b79555001bfbe741a6d7",
+      "topic": "graph-learning"
+    },
+    {
+      "old_path": "Networks/Graph Clustering.pdf",
+      "new_path": "library/graph-learning/network-analysis/Graph Clustering.pdf",
+      "git_blob_sha": "8c29321d134b5c999f3f431adf4aa2a0f96c822f",
+      "topic": "graph-learning"
+    },
+    {
+      "old_path": "Networks/Graph Mining_ Laws, Generators, and Algorithms.pdf",
+      "new_path": "library/graph-learning/network-analysis/Graph Mining_ Laws, Generators, and Algorithms.pdf",
+      "git_blob_sha": "54df1b3b65d31a3b6d9bbc104f1e58c85e8adfc2",
+      "topic": "graph-learning"
+    },
+    {
+      "old_path": "Networks/Link Mining_ A New Data Mining Challenge.pdf",
+      "new_path": "library/graph-learning/network-analysis/Link Mining_ A New Data Mining Challenge.pdf",
+      "git_blob_sha": "9ac182c74bca19199c585b9fd40cb155872b3038",
+      "topic": "graph-learning"
+    },
+    {
+      "old_path": "Networks/Link Mining_ A Survey.pdf",
+      "new_path": "library/graph-learning/network-analysis/Link Mining_ A Survey.pdf",
+      "git_blob_sha": "34090ee2f91d26f0921ce12ad4f4a4fcd2e55800",
+      "topic": "graph-learning"
+    },
+    {
+      "old_path": "On-Line Learning/On-Line Algorithms in Machine Learning.pdf",
+      "new_path": "library/classical-ml/online-learning/On-Line Algorithms in Machine Learning.pdf",
+      "git_blob_sha": "44d3db4a3855b66983846c3895b1290afc9cfd4e",
+      "topic": "classical-ml"
+    },
+    {
+      "old_path": "Others/A Survey of Very Large-Scale Neighborhood Search Techniques.pdf",
+      "new_path": "library/foundations/optimization/A Survey of Very Large-Scale Neighborhood Search Techniques.pdf",
+      "git_blob_sha": "41dc55eb2e4345f46e615c3e40c2ed4f5bb1ab23",
+      "topic": "foundations"
+    },
+    {
+      "old_path": "Planning and Scheduling/A Review of Machine Learning for Automated Planning.pdf",
+      "new_path": "library/reinforcement-learning/planning/A Review of Machine Learning for Automated Planning.pdf",
+      "git_blob_sha": "3f19b61587b15a536105c5db252d15cdcafc356b",
+      "topic": "reinforcement-learning"
+    },
+    {
+      "old_path": "Probabilistic Models/An Introduction to Conditional Random Fields.pdf",
+      "new_path": "library/foundations/probabilistic-models/An Introduction to Conditional Random Fields.pdf",
+      "git_blob_sha": "b47fa241e1e3388161545321c9e7a6c434a58751",
+      "topic": "foundations"
+    },
+    {
+      "old_path": "Probabilistic/An Introduction to MCMC for Machine Learning.pdf",
+      "new_path": "library/foundations/probabilistic-models/An Introduction to MCMC for Machine Learning.pdf",
+      "git_blob_sha": "31c39087a890a8526b0eb3e962274b924de564d3",
+      "topic": "foundations"
+    },
+    {
+      "old_path": "Probabilistic/Approximate Policy Iteration_ A Survey and Some New Methods.pdf",
+      "new_path": "library/reinforcement-learning/policy-learning/Approximate Policy Iteration_ A Survey and Some New Methods.pdf",
+      "git_blob_sha": "2de8bb365b95daa8d7c8c58ac5f815ac9061f1e2",
+      "topic": "reinforcement-learning"
+    },
+    {
+      "old_path": "Randomized Algorithms/Randomized Algorithms for Matrices and Data.pdf",
+      "new_path": "library/foundations/randomized-algorithms/Randomized Algorithms for Matrices and Data.pdf",
+      "git_blob_sha": "9be7f7b57c6bbc2b1a7909f1a0e3a62bc0d03669",
+      "topic": "foundations"
+    },
+    {
+      "old_path": "Ray/CIEL中文翻译.pdf",
+      "new_path": "library/ml-systems/distributed-computing/CIEL中文翻译.pdf",
+      "git_blob_sha": "7b623095d8e73ad206ea4add2ccd7585e0ed9b5c",
+      "topic": "ml-systems"
+    },
+    {
+      "old_path": "Ray/Ray,A Distributed Framework for Emerging AI Applications.pdf",
+      "new_path": "library/ml-systems/distributed-computing/Ray,A Distributed Framework for Emerging AI Applications.pdf",
+      "git_blob_sha": "cb23254c2137c0a45c003d3d27516c326ccc3020",
+      "topic": "ml-systems"
+    },
+    {
+      "old_path": "Ray/Ray论文中文翻译.pdf",
+      "new_path": "library/ml-systems/distributed-computing/Ray论文中文翻译.pdf",
+      "git_blob_sha": "d978f1c37a2b55f83d5083095440bc406d320528",
+      "topic": "ml-systems"
+    },
+    {
+      "old_path": "Ray/Real-Time Machine Learning The Missing Pieces.pdf",
+      "new_path": "library/ml-systems/distributed-computing/Real-Time Machine Learning The Missing Pieces.pdf",
+      "git_blob_sha": "6cefd13bb97e84c058b57a7b27be591ec1154225",
+      "topic": "ml-systems"
+    },
+    {
+      "old_path": "Ray/Real-Time Machine Learning中文翻译.pdf",
+      "new_path": "library/ml-systems/distributed-computing/Real-Time Machine Learning中文翻译.pdf",
+      "git_blob_sha": "265372eb509867b18c711924c668c03ef96d44a5",
+      "topic": "ml-systems"
+    },
+    {
+      "old_path": "Ray/Scaling distributed machine learning with the parameter server.pdf",
+      "new_path": "library/ml-systems/distributed-computing/Scaling distributed machine learning with the parameter server.pdf",
+      "git_blob_sha": "2312fc432fd460fe4ad273434e6e8cf5735b788b",
+      "topic": "ml-systems"
+    },
+    {
+      "old_path": "Ray/ciel.pdf",
+      "new_path": "library/ml-systems/distributed-computing/ciel.pdf",
+      "git_blob_sha": "2e755e683d33a2fdb6ce9b4ed99b5f4116dfa0f4",
+      "topic": "ml-systems"
+    },
+    {
+      "old_path": "Ray/tensorflow.pdf",
+      "new_path": "library/ml-systems/distributed-computing/tensorflow.pdf",
+      "git_blob_sha": "ed0be9848bd3362a2768229199d061981c90c75e",
+      "topic": "ml-systems"
+    },
+    {
+      "old_path": "Ray/tensorflow中文翻译.pdf",
+      "new_path": "library/ml-systems/distributed-computing/tensorflow中文翻译.pdf",
+      "git_blob_sha": "584e21d3fab72f48d3985779742073a60045092d",
+      "topic": "ml-systems"
+    },
+    {
+      "old_path": "Ray/用参数服务器扩展分布式机器学习.pdf",
+      "new_path": "library/ml-systems/distributed-computing/用参数服务器扩展分布式机器学习.pdf",
+      "git_blob_sha": "36459429463ee2e85781ea0848f12c39cd34a66e",
+      "topic": "ml-systems"
+    },
+    {
+      "old_path": "Recommender Systems/A Survey of Collaborative Filtering Techniques.pdf",
+      "new_path": "library/recommender-systems/surveys/A Survey of Collaborative Filtering Techniques.pdf",
+      "git_blob_sha": "30f63c347317a49949cb841c33fd62bd836b94e7",
+      "topic": "recommender-systems"
+    },
+    {
+      "old_path": "Recommender Systems/Matrix Factorization Techniques for Recommender Systems.pdf",
+      "new_path": "library/recommender-systems/surveys/Matrix Factorization Techniques for Recommender Systems.pdf",
+      "git_blob_sha": "d7b24861d1b1a7e447a82e04320c71a0a0f04feb",
+      "topic": "recommender-systems"
+    },
+    {
+      "old_path": "Recommender Systems/Recent advances in Personalized Recommender Systems.pdf",
+      "new_path": "library/recommender-systems/surveys/Recent advances in Personalized Recommender Systems.pdf",
+      "git_blob_sha": "023256224153e7ca9aaf41b4795eaa00d9e1d269",
+      "topic": "recommender-systems"
+    },
+    {
+      "old_path": "Regression/Ensemble Approaches for Regression_ a Survey.pdf",
+      "new_path": "library/classical-ml/regression/Ensemble Approaches for Regression_ a Survey.pdf",
+      "git_blob_sha": "93ba06581d0666c196723e3bf37773175d9edac5",
+      "topic": "classical-ml"
+    },
+    {
+      "old_path": "Reinforcement Learning/A Survey of Reinforcement Learning in Relational Domains.pdf",
+      "new_path": "library/reinforcement-learning/surveys/A Survey of Reinforcement Learning in Relational Domains.pdf",
+      "git_blob_sha": "b7c019ed3d401f4b89d4a3b45826a126039e38c8",
+      "topic": "reinforcement-learning"
+    },
+    {
+      "old_path": "Reinforcement Learning/Reinforcement Learning_ A Survey.pdf",
+      "new_path": "library/reinforcement-learning/surveys/Reinforcement Learning_ A Survey.pdf",
+      "git_blob_sha": "5713eeadbe6ad4a39395c5ab0c0e22ca86e1162b",
+      "topic": "reinforcement-learning"
+    },
+    {
+      "old_path": "Rule Learning/Algorithms for Association Rule Mining - A General Survey and Comparison.pdf",
+      "new_path": "library/data-mining/pattern-mining/Algorithms for Association Rule Mining - A General Survey and Comparison.pdf",
+      "git_blob_sha": "f1d3238d490142cff996c11928c586298fffa5bf",
+      "topic": "data-mining"
+    },
+    {
+      "old_path": "Rule Learning/Association Mining.pdf",
+      "new_path": "library/data-mining/pattern-mining/Association Mining.pdf",
+      "git_blob_sha": "0ac394bb781d921186a9b7eed999dab1765c7b48",
+      "topic": "data-mining"
+    },
+    {
+      "old_path": "Testing/Controlled Experiments on the Web_ Survey and Practical Guide.pdf",
+      "new_path": "library/evaluation/experimentation/Controlled Experiments on the Web_ Survey and Practical Guide.pdf",
+      "git_blob_sha": "6974a7e891947c60d6774b066a487e1772ee60c1",
+      "topic": "evaluation"
+    },
+    {
+      "old_path": "Time Series/A Review on Time Series Data Mining.pdf",
+      "new_path": "library/data-mining/time-series/A Review on Time Series Data Mining.pdf",
+      "git_blob_sha": "188e4188430c085db736ee7e9bb0bf7355993ce0",
+      "topic": "data-mining"
+    },
+    {
+      "old_path": "Time Series/Discrete Wavelet Transform-Based Time Series Analysis and Mining.pdf",
+      "new_path": "library/data-mining/time-series/Discrete Wavelet Transform-Based Time Series Analysis and Mining.pdf",
+      "git_blob_sha": "755cf19d602e496dc4e3b7a015f7ebd6b4ff4a50",
+      "topic": "data-mining"
+    },
+    {
+      "old_path": "Time Series/Time-Series Data Mining.pdf",
+      "new_path": "library/data-mining/time-series/Time-Series Data Mining.pdf",
+      "git_blob_sha": "558475b849be4c868d819d1afbf9f77c9747fd4b",
+      "topic": "data-mining"
+    },
+    {
+      "old_path": "Transfer Learning/A Survey on Transfer Learning.pdf",
+      "new_path": "library/classical-ml/transfer-learning/A Survey on Transfer Learning.pdf",
+      "git_blob_sha": "7ebbf79ac51f8694319ecffac64a0a413bfe0152",
+      "topic": "classical-ml"
+    },
+    {
+      "old_path": "Web Mining/A Survey of Web Clustering Engines.pdf",
+      "new_path": "library/data-mining/web-mining/A Survey of Web Clustering Engines.pdf",
+      "git_blob_sha": "00e6751e31951a403217a531cd654ec83f686c33",
+      "topic": "data-mining"
+    },
+    {
+      "old_path": "Web Mining/A Survey of Web Metrics.pdf",
+      "new_path": "library/data-mining/web-mining/A Survey of Web Metrics.pdf",
+      "git_blob_sha": "a9dee0096c396826762f9b644ff5118df3c4e981",
+      "topic": "data-mining"
+    },
+    {
+      "old_path": "Web Mining/A Taxonomy of Sequential Pattern Mining Algorithms.pdf",
+      "new_path": "library/data-mining/web-mining/A Taxonomy of Sequential Pattern Mining Algorithms.pdf",
+      "git_blob_sha": "31537c6329e58786a805bb5d62cf1a76be4f44cd",
+      "topic": "data-mining"
+    },
+    {
+      "old_path": "Web Mining/An Overview of Web Data Clustering Practices.pdf",
+      "new_path": "library/data-mining/web-mining/An Overview of Web Data Clustering Practices.pdf",
+      "git_blob_sha": "677d45ec96910d9a4b497ab689488f13d8cb5e29",
+      "topic": "data-mining"
+    },
+    {
+      "old_path": "Web Mining/Data Mining for Hypertext_ A Tutorial Survey.pdf",
+      "new_path": "library/data-mining/web-mining/Data Mining for Hypertext_ A Tutorial Survey.pdf",
+      "git_blob_sha": "fc3c0e4eb6f17e2ca723e788cbf04e473cd2c08a",
+      "topic": "data-mining"
+    },
+    {
+      "old_path": "Web Mining/Mining Interesting Knowledge from Weblogs_ A Survey.pdf",
+      "new_path": "library/data-mining/web-mining/Mining Interesting Knowledge from Weblogs_ A Survey.pdf",
+      "git_blob_sha": "a8d53346aa8654093a71046956659bc494eae6a2",
+      "topic": "data-mining"
+    },
+    {
+      "old_path": "Web Mining/Web Page Classification_ Features and Algorithms.pdf",
+      "new_path": "library/data-mining/web-mining/Web Page Classification_ Features and Algorithms.pdf",
+      "git_blob_sha": "25e434f120fc6322cf5292c1fdf20e7bba5a22b1",
+      "topic": "data-mining"
+    },
+    {
+      "old_path": "active learning/Active Learning Literature Survey, Settles, 2010.pdf",
+      "new_path": "library/classical-ml/active-learning/Active Learning Literature Survey, Settles, 2010.pdf",
+      "git_blob_sha": "683ff0f6f87508d2aef735032bc6ac368c6d4f54",
+      "topic": "classical-ml"
+    },
+    {
+      "old_path": "active learning/Two Faces of Active Learning, Dasgupta, 2011.pdf",
+      "new_path": "library/classical-ml/active-learning/Two Faces of Active Learning, Dasgupta, 2011.pdf",
+      "git_blob_sha": "f3858506a6b50d8a0b674cd63bd95f7784ebb7fe",
+      "topic": "classical-ml"
+    },
+    {
+      "old_path": "deep learning/Representation Learning_ A Review and New Perspectives.pdf",
+      "new_path": "library/deep-learning/representation-learning/Representation Learning_ A Review and New Perspectives.pdf",
+      "git_blob_sha": "575273027d1450fdbd8d3be521a320bdf2806cc1",
+      "topic": "deep-learning"
+    },
+    {
+      "old_path": "kernel methods/Kernels for Vector-Valued Functions_ a Review.pdf",
+      "new_path": "library/classical-ml/kernel-methods/Kernels for Vector-Valued Functions_ a Review.pdf",
+      "git_blob_sha": "4708dbd687b600468a5b2637cab8ac2b0a337cea",
+      "topic": "classical-ml"
+    }
+  ]
+}

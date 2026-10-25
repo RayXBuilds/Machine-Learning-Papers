@@ -1,4 +1,4 @@
-> 历史索引：保留 2018 年最后一次内容提交时的 README 原文，供旧条目检索。标题、年份和分类尚未逐项重新核实；目录与 PDF 的对应关系以仓库文件树为准。新版入口见 [首页](../README.md)，新增论文见 [精选阅读索引](classics.md)。
+> 历史索引：保留 2018 年最后一次内容提交时的 README 原文，供旧条目检索。标题、年份和分类尚未逐项重新核实；PDF 已在 2026-10-26 按主题迁移，旧路径见 [完整对照](migration.md)，现有资料见 [历史 PDF 目录](../library/README.md)。新版入口见 [首页](../README.md)，新增论文见 [精选阅读索引](classics.md)。
 
 # Machine-Learning-Papers
 Machine Learning Classic Papers（机器学习经典论文）

@@ -6,7 +6,13 @@
 
 ## 论文与文章导读
 
-尚无独立导读；下方历史资料可作为后续整理起点。
+- [Temperature Scaling · 概率校准基础](2017-temperature-scaling.md)
+- [MOVAL · 无标签目标域性能估计](2026-moval.md)
+- [LAPE · 局部特征空间残差校准](2026-lape.md)
+
+建议从 Temperature Scaling 入门，再比较 MOVAL 的性能估计与 LAPE 的局部校准。
+
+相关主题：[S-EDL 的语义校准](../nlp/2026-s-edl.md)（主文件在 NLP，不重复计数）。
 
 ## 历史 PDF
 

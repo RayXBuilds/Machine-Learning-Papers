@@ -23,7 +23,7 @@ This README provides an English overview. Reading guides, topic indexes, daily r
 | [Classical Machine Learning](papers/classical-ml/README.md) | Classification, regression, ensembles, clustering, feature selection, active/online/transfer learning | 2 | 34 |
 | [Deep Learning & Representation Learning](papers/deep-learning/README.md) | Network training, optimization, self-supervised representations, neural network fundamentals | 4 | 3 |
 | [Computer Vision](papers/computer-vision/README.md) | Image classification, detection, tracking, visual encoders | 3 | 7 |
-| [Natural Language Processing & Large Language Models](papers/nlp/README.md) | Text, sequences, language models, retrieval augmentation, adaptation, alignment | 7 | 15 |
+| [Natural Language Processing & Large Language Models](papers/nlp/README.md) | Text, sequences, language models, retrieval augmentation, adaptation, alignment | 8 | 15 |
 | [Generative Models](papers/generative-models/README.md) | VAEs, GANs, diffusion models | 4 | 0 |
 | [Multimodal Learning](papers/multimodal/README.md) | Image–text alignment and cross-modal representations | 1 | 0 |
 | [Reinforcement Learning & Decision-Making](papers/reinforcement-learning/README.md) | Policy and value learning, bandits, planning | 3 | 6 |
@@ -32,9 +32,9 @@ This README provides an English overview. Reading guides, topic indexes, daily r
 | [Machine Learning Systems](papers/ml-systems/README.md) | Distributed training, computing frameworks, parameter servers | 0 | 10 |
 | [Data Mining & Data Management](papers/data-mining/README.md) | Time series, data streams, patterns and rules, web mining, entity matching | 0 | 25 |
 | [Domain Applications](papers/applications/README.md) | Bioinformatics, finance, sustainability, business applications | 0 | 20 |
-| [Evaluation & Experimental Methods](papers/evaluation/README.md) | Experimental design, A/B testing, validation, metrics | 0 | 3 |
+| [Evaluation & Experimental Methods](papers/evaluation/README.md) | Experimental design, A/B testing, validation, metrics | 3 | 3 |
 
-Snapshot as of the October 26, 2026 reorganization: **26 independent reading guides and 147 archived PDFs**. The PDFs include translations and technical documents, so the file count does not represent 147 distinct papers. Indexes and counts are maintained as new entries are added.
+As of October 26, 2026: **30 independent reading guides and 147 archived PDFs**. The PDFs include translations and technical documents, so the file count does not represent 147 distinct papers. Indexes and counts are maintained as new entries are added.
 
 ## Repository layout
 
@@ -59,6 +59,8 @@ PDF paths have changed. The [migration guide](docs/migration.md) provides a comp
 <a id="maintenance"></a>
 
 ## Ongoing maintenance
+
+Latest additions: [October 26, 2026 · Calibration and reliable evaluation](docs/daily/2026/10/2026-10-26.md) — four papers, including three submitted within the past seven days and one foundational paper.
 
 A Codex automation runs daily at **11:00 Beijing time (Asia/Shanghai, UTC+8)** to search for, verify, and select up to five machine learning papers or technical articles. New guides are stored by topic and linked from the [daily records](docs/daily/README.md). No empty record is created when there are no suitable additions. Scheduling is handled by the Codex task; this repository does not currently contain a GitHub Actions scheduler.
 

@@ -14,6 +14,8 @@
 - [LoRA](2021-lora.md)
 - [InstructGPT](2022-instructgpt.md)
 
+- [S-EDL · 大语言模型语义校准](2026-s-edl.md)
+
 ## 历史 PDF
 
 [浏览本主题历史资料（15 份）](../../library/nlp/README.md)。

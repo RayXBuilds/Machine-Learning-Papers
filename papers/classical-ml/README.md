@@ -9,6 +9,8 @@
 - [Random Forests](2001-random-forests.md)
 - [XGBoost](2016-xgboost.md)
 
+- [Support-vector networks](1995-support-vector-networks.md)
+
 ## 历史 PDF
 
 [浏览本主题历史资料（34 份）](../../library/classical-ml/README.md)。

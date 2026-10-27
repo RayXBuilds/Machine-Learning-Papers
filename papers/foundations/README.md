@@ -6,7 +6,7 @@
 
 ## 论文与文章导读
 
-尚无独立导读；下方历史资料可作为后续整理起点。
+- [Maximum Likelihood from Incomplete Data Via the EM Algorithm](1977-em-algorithm.md)
 
 ## 历史 PDF
 

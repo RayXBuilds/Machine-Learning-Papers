@@ -2,11 +2,11 @@
 
 [全部主题](../README.md) · [首页](../../README.md)
 
-范围：生物信息、金融、可持续发展、业务应用。交叉主题只保留一个主文件，在其他目录中链接。
+范围：机器人、生物信息、金融、可持续发展、业务应用。交叉主题只保留一个主文件，在其他目录中链接。
 
 ## 论文与文章导读
 
-尚无独立导读；下方历史资料可作为后续整理起点。
+- [Learning Robot Behavior Priors from Non-Robotic Synthetic Data](2026-synthetic-robot-priors.md)
 
 ## 历史 PDF
 

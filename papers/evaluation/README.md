@@ -14,6 +14,10 @@
 
 相关主题：[S-EDL 的语义校准](../nlp/2026-s-edl.md)（主文件在 NLP，不重复计数）。
 
+- [Do AI Scientists Know What's New?](2026-claimnov.md)
+
+- [What Carries Forward? Pretraining Disclosure Across Language Model Releases](2026-pretraining-disclosure.md)
+
 ## 历史 PDF
 
 [浏览本主题历史资料（3 份）](../../library/evaluation/README.md)。

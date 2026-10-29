@@ -11,6 +11,8 @@
 
 - [Support-vector networks](1995-support-vector-networks.md)
 
+- [A Decision-Theoretic Generalization of On-Line Learning and an Application to Boosting](1997-adaboost.md)
+
 ## 历史 PDF
 
 [浏览本主题历史资料（34 份）](../../library/classical-ml/README.md)。

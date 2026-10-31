@@ -13,6 +13,7 @@
 - [What Carries Forward? Pretraining Disclosure Across Language Model Releases](2026-pretraining-disclosure.md)
 - [DocXEval: A Systematic Evaluation of Explainability in Multimodal Document Understanding](2026-docxeval.md)
 - [Where Should the Evaluation Budget Go in LLM-Driven Agent Scaffold Evolution?](2026-evalalloc.md)
+- [Efficient Evaluation of LLM Performance with Statistical Guarantees · FAQ](2026-factorized-active-querying.md)
 
 建议从 Temperature Scaling 入门，再比较 MOVAL 的性能估计与 LAPE 的局部校准。
 

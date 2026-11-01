@@ -20,7 +20,7 @@ This README provides an English overview. Reading guides, topic indexes, daily r
 | Topic | Scope | Reading guides | Archived PDFs |
 | --- | --- | ---: | ---: |
 | [Mathematics, Learning Theory & Probabilistic Models](papers/foundations/README.md) | Learning theory, optimization, probabilistic inference, graphical models | 1 | 9 |
-| [Classical Machine Learning](papers/classical-ml/README.md) | Classification, regression, ensembles, clustering, feature selection, active/online/transfer learning | 4 | 34 |
+| [Classical Machine Learning](papers/classical-ml/README.md) | Classification, regression, ensembles, clustering, feature selection, active/online/transfer learning | 5 | 34 |
 | [Deep Learning & Representation Learning](papers/deep-learning/README.md) | Network training, optimization, self-supervised representations, neural network fundamentals | 4 | 3 |
 | [Computer Vision](papers/computer-vision/README.md) | Image classification, detection, tracking, human motion, visual encoders | 4 | 7 |
 | [Natural Language Processing & Large Language Models](papers/nlp/README.md) | Text, sequences, language models, retrieval augmentation, adaptation, alignment | 8 | 15 |
@@ -34,7 +34,7 @@ This README provides an English overview. Reading guides, topic indexes, daily r
 | [Domain Applications](papers/applications/README.md) | Robotics, bioinformatics, finance, sustainability, business applications | 1 | 20 |
 | [Evaluation & Experimental Methods](papers/evaluation/README.md) | Experimental design, A/B testing, validation, metrics | 8 | 3 |
 
-As of October 31, 2026: **41 independent reading guides and 147 archived PDFs**. The PDFs include translations and technical documents, so the file count does not represent 147 distinct papers. Indexes and counts are maintained as new entries are added.
+As of November 1, 2026: **42 independent reading guides and 147 archived PDFs**. The PDFs include translations and technical documents, so the file count does not represent 147 distinct papers. Indexes and counts are maintained as new entries are added.
 
 ## Repository layout
 
@@ -60,7 +60,7 @@ PDF paths have changed. The [migration guide](docs/migration.md) provides a comp
 
 ## Ongoing maintenance
 
-Latest additions: [October 31, 2026 · Statistical evaluation and reinforcement learning frameworks](docs/daily/2026/10/2026-10-31.md) — two new guides: one preprint first submitted and one preprint revised within the past seven days.
+Latest additions: [November 1, 2026 · Interpretable tabular prediction](docs/daily/2026/11/2026-11-01.md) — one new guide to a preprint first submitted within the past seven days.
 
 A Codex automation runs daily at **11:00 Beijing time (Asia/Shanghai, UTC+8)** to search for, verify, and select up to five machine learning papers or technical articles. New guides are stored by topic and linked from the [daily records](docs/daily/README.md). No empty record is created when there are no suitable additions. Scheduling is handled by the Codex task; this repository does not currently contain a GitHub Actions scheduler.
 

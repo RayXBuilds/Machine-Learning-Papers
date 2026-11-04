@@ -32,9 +32,9 @@ This README provides an English overview. Reading guides, topic indexes, daily r
 | [Machine Learning Systems](papers/ml-systems/README.md) | Distributed training, computing frameworks, parameter servers | 1 | 10 |
 | [Data Mining & Data Management](papers/data-mining/README.md) | Time series, data streams, patterns and rules, web mining, entity matching | 1 | 25 |
 | [Domain Applications](papers/applications/README.md) | Robotics, bioinformatics, finance, sustainability, business applications | 1 | 20 |
-| [Evaluation & Experimental Methods](papers/evaluation/README.md) | Experimental design, A/B testing, validation, metrics | 9 | 3 |
+| [Evaluation & Experimental Methods](papers/evaluation/README.md) | Experimental design, A/B testing, validation, metrics | 10 | 3 |
 
-As of November 3, 2026: **44 independent reading guides and 147 archived PDFs**. The PDFs include translations and technical documents, so the file count does not represent 147 distinct papers. Indexes and counts are maintained as new entries are added.
+As of November 4, 2026: **45 independent reading guides and 147 archived PDFs**. The PDFs include translations and technical documents, so the file count does not represent 147 distinct papers. Indexes and counts are maintained as new entries are added.
 
 ## Repository layout
 
@@ -60,7 +60,7 @@ PDF paths have changed. The [migration guide](docs/migration.md) provides a comp
 
 ## Ongoing maintenance
 
-Latest additions: [November 3, 2026 · Temporal pattern imbalance](docs/daily/2026/11/2026-11-03.md) — one new guide to a preprint first submitted within the past seven days.
+Latest additions: [November 4, 2026 · Discrimination, calibration, and ranking metrics](docs/daily/2026/11/2026-11-04.md) — one new guide to a preprint first submitted within the past seven days.
 
 A Codex automation runs daily at **11:00 Beijing time (Asia/Shanghai, UTC+8)** to search for, verify, and select up to five machine learning papers or technical articles. New guides are stored by topic and linked from the [daily records](docs/daily/README.md). No empty record is created when there are no suitable additions. Scheduling is handled by the Codex task; this repository does not currently contain a GitHub Actions scheduler.
 

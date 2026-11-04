@@ -15,6 +15,7 @@
 - [Where Should the Evaluation Budget Go in LLM-Driven Agent Scaffold Evolution?](2026-evalalloc.md)
 - [Efficient Evaluation of LLM Performance with Statistical Guarantees · FAQ](2026-factorized-active-querying.md)
 - [Judged in Company · 批量评分的上下文干扰](2026-judged-in-company.md)
+- [Discrimination, Calibration, and Ranking: A Unified Matrix Framework](2026-discrimination-calibration-ranking.md)
 
 建议从 Temperature Scaling 入门，再比较 MOVAL 的性能估计与 LAPE 的局部校准。
 

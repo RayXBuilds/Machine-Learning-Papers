@@ -12,11 +12,11 @@
 | [生成模型](generative-models/README.md) | VAE、GAN、扩散模型 | 4 | 0 |
 | [多模态学习](multimodal/README.md) | 图文对齐与跨模态表示 | 1 | 0 |
 | [强化学习与决策](reinforcement-learning/README.md) | 策略/价值学习、Bandit、规划 | 3 | 6 |
-| [图学习与网络分析](graph-learning/README.md) | 图神经网络、社区发现、链接挖掘 | 1 | 9 |
+| [图学习与网络分析](graph-learning/README.md) | 图神经网络、社区发现、链接挖掘 | 2 | 9 |
 | [推荐系统](recommender-systems/README.md) | 协同过滤、矩阵分解、ALS、神经推荐 | 1 | 6 |
 | [机器学习系统](ml-systems/README.md) | 分布式训练、计算框架、参数服务器 | 1 | 10 |
 | [数据挖掘与数据管理](data-mining/README.md) | 时序、流数据、模式/规则、Web、实体匹配 | 1 | 25 |
 | [领域应用](applications/README.md) | 机器人、生物信息、金融、可持续发展、业务应用 | 1 | 20 |
 | [评估与实验方法](evaluation/README.md) | 实验设计、A/B 测试、验证与指标 | 10 | 3 |
 
-截至 2026-11-04：45 篇独立导读；历史 PDF 数量保持 147 份。交叉主题链接不重复计数。
+截至 2026-11-05：46 篇独立导读；历史 PDF 数量保持 147 份。交叉主题链接不重复计数。

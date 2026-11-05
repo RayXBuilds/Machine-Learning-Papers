@@ -7,6 +7,7 @@
 ## 论文与文章导读
 
 - [GCN](2017-gcn.md)
+- [A Living Leaderboard for Graph Machine Learning](2026-living-graph-leaderboard.md)
 
 ## 历史 PDF
 

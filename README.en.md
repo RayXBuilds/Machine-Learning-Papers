@@ -28,13 +28,13 @@ This README provides an English overview. Reading guides, topic indexes, daily r
 | [Multimodal Learning](papers/multimodal/README.md) | Image–text alignment and cross-modal representations | 1 | 0 |
 | [Reinforcement Learning & Decision-Making](papers/reinforcement-learning/README.md) | Policy and value learning, bandits, planning | 3 | 6 |
 | [Graph Learning & Network Analysis](papers/graph-learning/README.md) | Graph neural networks, community detection, link mining | 2 | 9 |
-| [Recommender Systems](papers/recommender-systems/README.md) | Collaborative filtering, matrix factorization, ALS, neural recommendation | 1 | 6 |
+| [Recommender Systems](papers/recommender-systems/README.md) | Collaborative filtering, matrix factorization, ALS, neural recommendation | 2 | 6 |
 | [Machine Learning Systems](papers/ml-systems/README.md) | Distributed training, computing frameworks, parameter servers | 1 | 10 |
 | [Data Mining & Data Management](papers/data-mining/README.md) | Time series, data streams, patterns and rules, web mining, entity matching | 1 | 25 |
 | [Domain Applications](papers/applications/README.md) | Robotics, bioinformatics, finance, sustainability, business applications | 1 | 20 |
 | [Evaluation & Experimental Methods](papers/evaluation/README.md) | Experimental design, A/B testing, validation, metrics | 10 | 3 |
 
-As of November 5, 2026: **46 independent reading guides and 147 archived PDFs**. The PDFs include translations and technical documents, so the file count does not represent 147 distinct papers. Indexes and counts are maintained as new entries are added.
+As of November 6, 2026: **47 independent reading guides and 147 archived PDFs**. The PDFs include translations and technical documents, so the file count does not represent 147 distinct papers. Indexes and counts are maintained as new entries are added.
 
 ## Repository layout
 
@@ -60,7 +60,7 @@ PDF paths have changed. The [migration guide](docs/migration.md) provides a comp
 
 ## Ongoing maintenance
 
-Latest additions include one new guide to a preprint first submitted within the past seven days. [November 5, 2026 · Graph learning benchmarks and a living leaderboard](docs/daily/2026/11/2026-11-05.md)
+Latest additions include one new guide to a paper first submitted to arXiv within the past seven days. [November 6, 2026 · Dataset recommendation in scholarly graphs](docs/daily/2026/11/2026-11-06.md)
 
 A Codex automation runs daily at **11:00 Beijing time (Asia/Shanghai, UTC+8)** to search for, verify, and select up to five machine learning papers or technical articles. New guides are stored by topic and linked from the [daily records](docs/daily/README.md). No empty record is created when there are no suitable additions. Scheduling is handled by the Codex task; this repository does not currently contain a GitHub Actions scheduler.
 

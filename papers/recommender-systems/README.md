@@ -6,6 +6,8 @@
 
 ## 论文与文章导读
 
+- [MM-SAN · 学术图谱中的数据集推荐](2026-mm-san.md)
+
 - [Neural Collaborative Filtering](2017-ncf.md)
 
 ## 历史 PDF

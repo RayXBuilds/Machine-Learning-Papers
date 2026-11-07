@@ -6,6 +6,7 @@
 
 ## 论文与文章导读
 
+- [Hinted Scaling Laws · 提示辅助的性能外推](2026-hinted-scaling-laws.md)
 - [Temperature Scaling · 概率校准基础](2017-temperature-scaling.md)
 - [MOVAL · 无标签目标域性能估计](2026-moval.md)
 - [LAPE · 局部特征空间残差校准](2026-lape.md)

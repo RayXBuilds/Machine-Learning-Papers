@@ -6,6 +6,7 @@
 
 ## 论文与文章导读
 
+- [Online Class Posteriors · 离散扩散的后验估计与逻辑引导](2026-online-class-posteriors.md)
 - [VAE](2013-vae.md)
 - [GAN](2014-gan.md)
 - [DDPM](2020-ddpm.md)

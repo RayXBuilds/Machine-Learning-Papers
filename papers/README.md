@@ -9,7 +9,7 @@
 | [深度学习与表征学习](deep-learning/README.md) | 网络训练、优化、自监督表征、神经网络基础 | 4 | 3 |
 | [计算机视觉](computer-vision/README.md) | 图像分类、检测、跟踪、人体运动、视觉编码器 | 4 | 7 |
 | [自然语言处理与大语言模型](nlp/README.md) | 文本、序列、语言模型、检索增强、适配与对齐 | 8 | 15 |
-| [生成模型](generative-models/README.md) | VAE、GAN、扩散模型 | 4 | 0 |
+| [生成模型](generative-models/README.md) | VAE、GAN、扩散模型 | 5 | 0 |
 | [多模态学习](multimodal/README.md) | 图文对齐与跨模态表示 | 1 | 0 |
 | [强化学习与决策](reinforcement-learning/README.md) | 策略/价值学习、Bandit、规划 | 3 | 6 |
 | [图学习与网络分析](graph-learning/README.md) | 图神经网络、社区发现、链接挖掘 | 2 | 9 |
@@ -19,4 +19,4 @@
 | [领域应用](applications/README.md) | 机器人、生物信息、金融、可持续发展、业务应用 | 1 | 20 |
 | [评估与实验方法](evaluation/README.md) | 实验设计、A/B 测试、验证与指标 | 11 | 3 |
 
-截至 2026-11-07：48 篇独立导读；历史 PDF 数量保持 147 份。交叉主题链接不重复计数。
+截至 2026-11-08：49 篇独立导读；历史 PDF 数量保持 147 份。交叉主题链接不重复计数。

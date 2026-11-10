@@ -21,18 +21,18 @@
 | [传统机器学习](papers/classical-ml/README.md) | 分类、回归、集成、聚类、特征选择、主动/在线/迁移学习 | 5 | 34 |
 | [深度学习与表征学习](papers/deep-learning/README.md) | 网络训练、优化、自监督表征、神经网络基础 | 5 | 3 |
 | [计算机视觉](papers/computer-vision/README.md) | 图像分类、检测、跟踪、人体运动、视觉编码器 | 4 | 7 |
-| [自然语言处理与大语言模型](papers/nlp/README.md) | 文本、序列、语言模型、检索增强、适配与对齐 | 8 | 15 |
+| [自然语言处理与大语言模型](papers/nlp/README.md) | 文本、序列、语言模型、检索增强、适配与对齐 | 9 | 15 |
 | [生成模型](papers/generative-models/README.md) | VAE、GAN、扩散模型 | 5 | 0 |
 | [多模态学习](papers/multimodal/README.md) | 图文对齐与跨模态表示 | 1 | 0 |
 | [强化学习与决策](papers/reinforcement-learning/README.md) | 策略/价值学习、Bandit、规划 | 3 | 6 |
 | [图学习与网络分析](papers/graph-learning/README.md) | 图神经网络、社区发现、链接挖掘 | 2 | 9 |
 | [推荐系统](papers/recommender-systems/README.md) | 协同过滤、矩阵分解、ALS、神经推荐 | 2 | 6 |
-| [机器学习系统](papers/ml-systems/README.md) | 分布式训练、计算框架、参数服务器 | 1 | 10 |
+| [机器学习系统](papers/ml-systems/README.md) | 分布式训练、计算框架、参数服务器 | 2 | 10 |
 | [数据挖掘与数据管理](papers/data-mining/README.md) | 时序、流数据、模式/规则、Web、实体匹配 | 1 | 25 |
 | [领域应用](papers/applications/README.md) | 机器人、生物信息、金融、可持续发展、业务应用 | 1 | 20 |
 | [评估与实验方法](papers/evaluation/README.md) | 实验设计、A/B 测试、验证与指标 | 11 | 3 |
 
-截至 2026-11-10：50 篇独立导读、147 份历史 PDF。PDF 包含译文与技术资料，不代表 147 篇独立论文。后续收录同步维护目录和数量。
+截至 2026-11-10：52 篇独立导读、147 份历史 PDF。PDF 包含译文与技术资料，不代表 147 篇独立论文。后续收录同步维护目录和数量。
 
 ## 存放方式
 
@@ -58,7 +58,7 @@ docs/migration.md                     旧文件路径对照
 
 ## 持续维护
 
-最新收录新增 1 篇近七日首发预印本导读。[2026-11-10 · 表征不变性与预测结构](docs/daily/2026/11/2026-11-10.md)
+今日累计新增 3 篇近七日首次提交至 arXiv 的论文导读。[2026-11-10 · 表征学习、检索与推理加速](docs/daily/2026/11/2026-11-10.md)
 
 每天北京时间 11:00 由 Codex 自动任务检索、核实并精选最多 5 篇机器学习论文或技术文章。新增内容按主题存放，并登记到[每日收录](docs/daily/README.md)。没有合格新增时不生成空记录。此计划由 Codex 任务执行，仓库本身未配置 GitHub Actions 定时器。
 

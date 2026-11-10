@@ -15,6 +15,7 @@
 - [InstructGPT](2022-instructgpt.md)
 
 - [S-EDL · 大语言模型语义校准](2026-s-edl.md)
+- [DUMP tokens · 检索表征前缀训练](2026-dump-retrieval-prefix-tokens.md)
 
 ## 历史 PDF
 

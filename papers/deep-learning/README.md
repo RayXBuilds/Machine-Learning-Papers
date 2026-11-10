@@ -11,6 +11,8 @@
 - [Batch Normalization](2015-batch-normalization.md)
 - [SimCLR](2020-simclr.md)
 
+- [EARL · 表征不变性与预测结构](2026-earl-invariance-before-structure.md)
+
 ## 历史 PDF
 
 [浏览本主题历史资料（3 份）](../../library/deep-learning/README.md)。

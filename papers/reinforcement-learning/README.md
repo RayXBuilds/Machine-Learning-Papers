@@ -9,6 +9,7 @@
 - [DQN](2015-dqn.md)
 - [PPO](2017-ppo.md)
 - [Soft Actor-Critic](2018-sac.md)
+- [Massively Parallel Safe RL · 安全强化学习的并行训练](2026-massively-parallel-safe-rl.md)
 
 相关主题：[Jaxnasium · 跨环境强化学习框架](../ml-systems/2026-jaxnasium.md)（主文件在机器学习系统，不重复计数）。
 

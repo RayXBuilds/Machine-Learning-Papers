@@ -6,6 +6,7 @@
 
 ## 论文与文章导读
 
+- [CAELUM · 语义预测集的覆盖上限](2026-caelum.md)
 - [Hinted Scaling Laws · 提示辅助的性能外推](2026-hinted-scaling-laws.md)
 - [Temperature Scaling · 概率校准基础](2017-temperature-scaling.md)
 - [MOVAL · 无标签目标域性能估计](2026-moval.md)

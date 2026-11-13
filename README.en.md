@@ -31,10 +31,10 @@ This README provides an English overview. Reading guides, topic indexes, daily r
 | [Recommender Systems](papers/recommender-systems/README.md) | Collaborative filtering, matrix factorization, ALS, neural recommendation | 2 | 6 |
 | [Machine Learning Systems](papers/ml-systems/README.md) | Distributed training, computing frameworks, parameter servers | 2 | 10 |
 | [Data Mining & Data Management](papers/data-mining/README.md) | Time series, data streams, patterns and rules, web mining, entity matching | 1 | 25 |
-| [Domain Applications](papers/applications/README.md) | Robotics, bioinformatics, finance, sustainability, business applications | 1 | 20 |
+| [Domain Applications](papers/applications/README.md) | Robotics, bioinformatics, finance, sustainability, business applications | 2 | 20 |
 | [Evaluation & Experimental Methods](papers/evaluation/README.md) | Experimental design, A/B testing, validation, metrics | 12 | 3 |
 
-As of November 12, 2026: **54 independent reading guides and 147 archived PDFs**. The PDFs include translations and technical documents, so the file count does not represent 147 distinct papers. Indexes and counts are maintained as new entries are added.
+As of November 13, 2026: **55 independent reading guides and 147 archived PDFs**. The PDFs include translations and technical documents, so the file count does not represent 147 distinct papers. Indexes and counts are maintained as new entries are added.
 
 ## Repository layout
 
@@ -60,7 +60,7 @@ PDF paths have changed. The [migration guide](docs/migration.md) provides a comp
 
 ## Ongoing maintenance
 
-Latest additions include one guide to a paper first submitted to arXiv within the past seven days. [November 12, 2026 · Coverage limits of semantic prediction sets](docs/daily/2026/11/2026-11-12.md)
+Latest additions include one guide to a paper first submitted to arXiv within the past seven days. [November 13, 2026 · Semantic pairing for remote sensing pretraining](docs/daily/2026/11/2026-11-13.md)
 
 A Codex automation runs daily at **11:00 Beijing time (Asia/Shanghai, UTC+8)** to search for, verify, and select up to five machine learning papers or technical articles. New guides are stored by topic and linked from the [daily records](docs/daily/README.md). No empty record is created when there are no suitable additions. Scheduling is handled by the Codex task; this repository does not currently contain a GitHub Actions scheduler.
 

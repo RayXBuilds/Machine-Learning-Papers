@@ -6,6 +6,8 @@
 
 ## 论文与文章导读
 
+- [Relaxing Cross-Modal Correspondence for Multimodal Remote Sensing Pretraining](2026-sempair.md)
+
 - [Learning Robot Behavior Priors from Non-Robotic Synthetic Data](2026-synthetic-robot-priors.md)
 
 ## 历史 PDF

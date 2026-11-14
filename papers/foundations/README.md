@@ -6,6 +6,8 @@
 
 ## 论文与文章导读
 
+- [A Matching Lower Bound for Online Smooth Calibration](2026-online-smooth-calibration-lower-bound.md)
+
 - [Maximum Likelihood from Incomplete Data Via the EM Algorithm](1977-em-algorithm.md)
 
 ## 历史 PDF

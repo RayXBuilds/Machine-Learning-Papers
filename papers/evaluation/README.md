@@ -6,6 +6,8 @@
 
 ## 论文与文章导读
 
+- [Auditing AI peer reviewers · 审稿错误检出与误报](2026-auditing-ai-peer-reviewers.md)
+
 - [Revisiting Elliptic++ · 时间泄漏与评估重建](2026-elliptic-leakage.md)
 
 - [CAELUM · 语义预测集的覆盖上限](2026-caelum.md)

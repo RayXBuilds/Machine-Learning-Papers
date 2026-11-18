@@ -6,6 +6,8 @@
 
 ## 论文与文章导读
 
+- [φ-PICT · 磁流体控制与可微仿真](2026-phipict.md)
+
 - [Relaxing Cross-Modal Correspondence for Multimodal Remote Sensing Pretraining](2026-sempair.md)
 
 - [Learning Robot Behavior Priors from Non-Robotic Synthetic Data](2026-synthetic-robot-priors.md)

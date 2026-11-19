@@ -6,6 +6,8 @@
 
 ## 论文与文章导读
 
+- [High-dimensional transfer learning with unaligned ordinal responses](2026-unaligned-ordinal-transfer.md)
+
 - [Random Forests](2001-random-forests.md)
 - [XGBoost](2016-xgboost.md)
 

@@ -6,6 +6,8 @@
 
 ## 论文与文章导读
 
+- [Series-wise Cross-validation for Global Time Series Forecasting](2026-series-wise-cross-validation.md)
+
 - [IMRouter · 时序模式不平衡与专家路由](2026-imrouter.md)
 
 ## 历史 PDF

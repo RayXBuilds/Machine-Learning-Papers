@@ -21,6 +21,8 @@ updated: 2026-11-21
 - 原始来源：[RSS 2025 书目](https://roboticsproceedings.org/rss21/p010.html) · [arXiv 版本记录](https://arxiv.org/abs/2410.24164)。
 - 官方代码：已核对[作者项目仓库](https://github.com/Physical-Intelligence/openpi)。
 
+- 仓库内 PDF：[打开全文](../../pdfs/applications/2025-pi-zero.pdf)（arXiv 2410.24164v4）。
+
 ## 解决的问题
 
 语言指令对应连续、多步且可能有多种解的机器人动作，怎样由视觉语言表示生成这些动作？

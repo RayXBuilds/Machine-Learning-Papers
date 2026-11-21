@@ -9,8 +9,13 @@
     "sha256": "353c37df34458f12f969b14dfd8b77175b727b9cddea7bb891759beddeefe1be"
   },
   "papers/applications/2025-pi-zero.md": {
-    "source_url": "https://roboticsproceedings.org/rss21/p010.html",
-    "reason": "文件下载或版本核验中"
+    "path": "pdfs/applications/2025-pi-zero.pdf",
+    "source_url": "https://arxiv.org/pdf/2410.24164",
+    "retrieved": "2026-11-21",
+    "version": "arXiv 2410.24164v4",
+    "pages": 17,
+    "bytes": 7893845,
+    "sha256": "fbdfba56258bdbd220207ba63410c6c943e43a73e97a7a5a47ca0bc74204f821"
   },
   "papers/applications/2026-phipict.md": {
     "path": "pdfs/applications/2026-phipict.pdf",
@@ -229,12 +234,22 @@
     "sha256": "1b490443925c72a2b7c770f90dd797e248729ae34a57e1abfe9ed36751c4cc5b"
   },
   "papers/computer-vision/2023-segment-anything.md": {
-    "source_url": "https://openaccess.thecvf.com/content/ICCV2023/html/Kirillov_Segment_Anything_ICCV_2023_paper.html",
-    "reason": "文件下载或版本核验中"
+    "path": "pdfs/computer-vision/2023-segment-anything.pdf",
+    "source_url": "https://openaccess.thecvf.com/content/ICCV2023/papers/Kirillov_Segment_Anything_ICCV_2023_paper.pdf",
+    "retrieved": "2026-11-21",
+    "version": "CVF 会议论文集版",
+    "pages": 12,
+    "bytes": 10985226,
+    "sha256": "77992e7a518edcaf5200a750299b98f99de051066f7c1dac357e6baf8ce068bb"
   },
   "papers/computer-vision/2025-perception-encoder.md": {
-    "source_url": "https://proceedings.neurips.cc/paper_files/paper/2025/hash/57bc0a850255e2041341bf74c7e2b9fa-Abstract-Conference.html",
-    "reason": "文件下载或版本核验中"
+    "path": "pdfs/computer-vision/2025-perception-encoder.pdf",
+    "source_url": "https://proceedings.neurips.cc/paper_files/paper/2025/file/57bc0a850255e2041341bf74c7e2b9fa-Paper-Conference.pdf",
+    "retrieved": "2026-11-21",
+    "version": "会议论文集版（proceedings.neurips.cc）",
+    "pages": 54,
+    "bytes": 7357835,
+    "sha256": "93fc083e9441a7a6d676570a7116b8b14b268bb0cd7a1eb89cc8c42cc1e27be5"
   },
   "papers/computer-vision/2026-pact.md": {
     "path": "pdfs/computer-vision/2026-pact.pdf",
@@ -480,8 +495,13 @@
     "sha256": "8ea98738a1b1d2e2b8c5f53ec48850600bdc194fce313adb37295fa45a76b7cb"
   },
   "papers/evaluation/2026-docxeval.md": {
-    "source_url": "https://arxiv.org/abs/2610.36929",
-    "reason": "文件下载或版本核验中"
+    "path": "pdfs/evaluation/2026-docxeval.pdf",
+    "source_url": "https://arxiv.org/pdf/2610.36929v1",
+    "retrieved": "2026-11-21",
+    "version": "arXiv 2610.36929v1",
+    "pages": 53,
+    "bytes": 32045320,
+    "sha256": "e159969f9d775d8bdf4bb459b4659afd379201ee0aaf6fc1229b3468c3e9516d"
   },
   "papers/evaluation/2026-elliptic-leakage.md": {
     "path": "pdfs/evaluation/2026-elliptic-leakage.pdf",
@@ -538,8 +558,13 @@
     "sha256": "84e34bd7525d8135bc18bb51898d3361deffda081d0f910270023d775a2e5a50"
   },
   "papers/evaluation/2026-moval.md": {
-    "source_url": "https://arxiv.org/abs/2610.29262",
-    "reason": "文件下载或版本核验中"
+    "path": "pdfs/evaluation/2026-moval.pdf",
+    "source_url": "https://arxiv.org/pdf/2610.29262v1",
+    "retrieved": "2026-11-21",
+    "version": "arXiv 2610.29262v1",
+    "pages": 78,
+    "bytes": 47321173,
+    "sha256": "e846aae6f23ffcb17f22b12a556ed0dd863ad3d3196a518de2a5ac5ddc0b5803"
   },
   "papers/evaluation/2026-pretraining-disclosure.md": {
     "path": "pdfs/evaluation/2026-pretraining-disclosure.pdf",
@@ -668,8 +693,13 @@
     "sha256": "ee4c0bbfd2c2c2668ea802cad3e2bd96aeb8b2b7b643a55cd32e134b0de71958"
   },
   "papers/generative-models/2019-stylegan.md": {
-    "source_url": "https://arxiv.org/abs/1812.04948",
-    "reason": "文件下载或版本核验中"
+    "path": "pdfs/generative-models/2019-stylegan.pdf",
+    "source_url": "https://arxiv.org/pdf/1812.04948",
+    "retrieved": "2026-11-21",
+    "version": "arXiv 1812.04948v3",
+    "pages": 12,
+    "bytes": 22922848,
+    "sha256": "da4b3fd7b9d5086eae0e011c5448075c1d6144a7a7b1520d57257ce19b5aaf13"
   },
   "papers/generative-models/2020-ddpm.md": {
     "path": "pdfs/generative-models/2020-ddpm.pdf",
@@ -708,8 +738,13 @@
     "sha256": "94c63a5ced89355326706c88236591c2972ced12f3dece4f8982f020110c81f3"
   },
   "papers/generative-models/2025-meanflow.md": {
-    "source_url": "https://proceedings.neurips.cc/paper_files/paper/2025/hash/6d13e085b79d454da5910e4ca82a3d9d-Abstract-Conference.html",
-    "reason": "文件下载或版本核验中"
+    "path": "pdfs/generative-models/2025-meanflow.pdf",
+    "source_url": "https://proceedings.neurips.cc/paper_files/paper/2025/file/6d13e085b79d454da5910e4ca82a3d9d-Paper-Conference.pdf",
+    "retrieved": "2026-11-21",
+    "version": "会议论文集版（proceedings.neurips.cc）",
+    "pages": 23,
+    "bytes": 5728284,
+    "sha256": "c0b560a099c17966bbb0bb293f6c8d295f4a5a5f47b5698b4f26bd2d0f793caa"
   },
   "papers/generative-models/2026-online-class-posteriors.md": {
     "path": "pdfs/generative-models/2026-online-class-posteriors.pdf",
@@ -721,8 +756,13 @@
     "sha256": "c175fc9f94946da1d89ab033dcff659082cb0527a842f050202b9994427e3210"
   },
   "papers/graph-learning/2000-normalized-cuts.md": {
-    "source_url": "https://people.eecs.berkeley.edu/~malik/papers/SM-ncut.pdf",
-    "reason": "文件下载或版本核验中"
+    "path": "pdfs/graph-learning/2000-normalized-cuts.pdf",
+    "source_url": "https://www.cs.cmu.edu/~efros/courses/LBMV07/Papers/shi-pami-00.pdf",
+    "retrieved": "2026-11-21",
+    "version": "IEEE TPAMI 22(8)，2000 年期刊版",
+    "pages": 18,
+    "bytes": 2882260,
+    "sha256": "c5fbb3d07a3b17bbac81de43df65a6d536c23ecd9a31b4dfaa83a13bea9049a1"
   },
   "papers/graph-learning/2014-deepwalk.md": {
     "path": "pdfs/graph-learning/2014-deepwalk.pdf",

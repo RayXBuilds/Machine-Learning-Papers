@@ -21,6 +21,8 @@ updated: 2026-11-21
 - 原始来源：[原文](https://people.eecs.berkeley.edu/~malik/papers/SM-ncut.pdf)
 - 官方代码：[作者的 MATLAB 分割与聚类程序](https://www.cis.upenn.edu/~jshi/software/)
 
+- 仓库内 PDF：[打开全文](../../pdfs/graph-learning/2000-normalized-cuts.pdf)（IEEE TPAMI 22(8)，2000 年期刊版）。
+
 ## 解决的问题
 
 在带权像素图上怎样划分区域，才能减少单纯最小割切出孤立小块的倾向？

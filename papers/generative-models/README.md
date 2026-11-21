@@ -21,7 +21,7 @@
 | 2014 | [Generative Adversarial Networks](2014-gan.md) | [PDF](../../pdfs/generative-models/2014-gan.pdf) | 如何用生成器与判别器的博弈学习生成分布？ |
 | 2017 | [Improved Training of Wasserstein GANs](2017-wgan-gp.md) | [PDF](../../pdfs/generative-models/2017-wgan-gp.pdf) | Wasserstein GAN 对评论器权重做截断时，为何仍可能出现梯度和训练问题？ |
 | 2017 | [Unpaired Image-to-Image Translation using Cycle-Consistent Adversarial Networks](2017-cyclegan.md) | [PDF](../../pdfs/generative-models/2017-cyclegan.pdf) | 只有两个域各自的图像集合时，怎样学习图像翻译？ |
-| 2019 | [A Style-Based Generator Architecture for Generative Adversarial Networks](2019-stylegan.md) | 文件下载或版本核验中 | 能否分别控制合成图像的整体布局和局部随机细节？ |
+| 2019 | [A Style-Based Generator Architecture for Generative Adversarial Networks](2019-stylegan.md) | [PDF](../../pdfs/generative-models/2019-stylegan.pdf) | 能否分别控制合成图像的整体布局和局部随机细节？ |
 
 ## 扩散、流与世界模型
 
@@ -31,7 +31,7 @@
 | 2022 | [High-Resolution Image Synthesis with Latent Diffusion Models](2022-latent-diffusion.md) | [PDF](../../pdfs/generative-models/2022-latent-diffusion.pdf) | 如何在压缩潜空间中执行带条件的扩散生成？ |
 | 2023 | [Consistency Models](2023-consistency-models.md) | [PDF](../../pdfs/generative-models/2023-consistency-models.pdf) | 扩散采样反复求解去噪轨迹，能否一步就预测同一条轨迹的终点？ |
 | 2024 | [Genie: Generative Interactive Environments](2024-genie.md) | [PDF](../../pdfs/generative-models/2024-genie.pdf) | 没有记录操作者的按键，能否仅凭视频学出可交互环境？ |
-| 2025 | [Mean Flows for One-step Generative Modeling](2025-meanflow.md) | 文件下载或版本核验中 | 若希望从噪声一步跳到样本，训练时应学局部速度还是一段时间内的平均位移？ |
+| 2025 | [Mean Flows for One-step Generative Modeling](2025-meanflow.md) | [PDF](../../pdfs/generative-models/2025-meanflow.pdf) | 若希望从噪声一步跳到样本，训练时应学局部速度还是一段时间内的平均位移？ |
 | 2026 | [Online Class Posteriors for Interpretable and Controllable Discrete Diffusion](2026-online-class-posteriors.md) | [PDF](../../pdfs/generative-models/2026-online-class-posteriors.pdf) | 离散扩散逐步生成 token 时，需要跟踪当前样本属于指定类别的概率，以解释生成轨迹，并按多个条件控制生成。摘要 |
 
 ## 跨主题阅读

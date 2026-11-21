@@ -21,6 +21,8 @@ updated: 2026-11-21
 - 原始来源：[ICCV 2023 书目](https://openaccess.thecvf.com/content/ICCV2023/html/Kirillov_Segment_Anything_ICCV_2023_paper.html) · [arXiv 版本记录](https://arxiv.org/abs/2304.02643)。
 - 官方代码：已核对[作者项目仓库](https://github.com/facebookresearch/segment-anything)。
 
+- 仓库内 PDF：[打开全文](../../pdfs/computer-vision/2023-segment-anything.pdf)（CVF 会议论文集版）。
+
 ## 解决的问题
 
 同一张图里，一个点可能落在衣袖、衣服或人身上。分割模型如何响应含义不唯一的提示？

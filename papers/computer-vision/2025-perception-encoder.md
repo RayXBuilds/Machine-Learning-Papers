@@ -21,6 +21,8 @@ updated: 2026-11-21
 - 原始来源：[NeurIPS 2025 书目](https://proceedings.neurips.cc/paper_files/paper/2025/hash/57bc0a850255e2041341bf74c7e2b9fa-Abstract-Conference.html) · [arXiv 版本记录](https://arxiv.org/abs/2504.13181)。
 - 官方代码：已核对[作者项目仓库](https://github.com/facebookresearch/perception_models)。
 
+- 仓库内 PDF：[打开全文](../../pdfs/computer-vision/2025-perception-encoder.pdf)（会议论文集版（proceedings.neurips.cc））。
+
 ## 解决的问题
 
 同一视觉编码器里，最适合全局检索和局部定位的特征是否来自同一层？

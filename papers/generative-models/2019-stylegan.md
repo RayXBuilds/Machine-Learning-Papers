@@ -21,6 +21,8 @@ updated: 2026-11-21
 - 原始来源：[CVPR 会议版](https://openaccess.thecvf.com/content_CVPR_2019/html/Karras_A_Style-Based_Generator_Architecture_for_Generative_Adversarial_Networks_CVPR_2019_paper.html) · [作者预印本](https://arxiv.org/abs/1812.04948)。
 - 官方代码：[作者项目](https://github.com/NVlabs/stylegan)。
 
+- 仓库内 PDF：[打开全文](../../pdfs/generative-models/2019-stylegan.pdf)（arXiv 1812.04948v3）。
+
 ## 解决的问题
 
 能否分别控制合成图像的整体布局和局部随机细节？

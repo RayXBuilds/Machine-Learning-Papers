@@ -10,7 +10,7 @@
 
 | 归档年 | 论文与导读 | PDF | 阅读问题 |
 | --- | --- | --- | --- |
-| 2000 | [Normalized Cuts and Image Segmentation](2000-normalized-cuts.md) | 文件下载或版本核验中 | 在带权像素图上怎样划分区域，才能减少单纯最小割切出孤立小块的倾向？ |
+| 2000 | [Normalized Cuts and Image Segmentation](2000-normalized-cuts.md) | [PDF](../../pdfs/graph-learning/2000-normalized-cuts.pdf) | 在带权像素图上怎样划分区域，才能减少单纯最小割切出孤立小块的倾向？ |
 | 2014 | [DeepWalk: Online Learning of Social Representations](2014-deepwalk.md) | [PDF](../../pdfs/graph-learning/2014-deepwalk.pdf) | 只有网络连接与少量节点标签时，怎样为分类器提取邻域信息？ |
 
 ## 图神经网络

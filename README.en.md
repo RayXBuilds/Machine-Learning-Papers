@@ -38,7 +38,7 @@ Browse subtopics within each field, use the full-library year index, or follow a
 
 As of November 21, 2026: **135 independent reading guides and 147 archived PDFs**. The PDFs include translations and technical documents, so the file count does not represent 147 distinct papers. Indexes and counts are maintained as new entries are added.
 
-<!-- pdf-count -->Guide PDFs: 127 files in the new collection, 0 guides linked to archived files, 8 entries without a local PDF. [PDF index](docs/pdf-index.md).
+<!-- pdf-count -->Guide PDFs: 135 files in the new collection, 0 guides linked to archived files, 0 entries without a local PDF. [PDF index](docs/pdf-index.md).
 
 ## Repository layout
 

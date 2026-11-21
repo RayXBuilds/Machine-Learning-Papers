@@ -24,6 +24,8 @@ updated: 2026-11-21
 - 官方代码：[MOVAL 实现](https://github.com/ZerojumpLine/MOVAL)；论文另列 [实验脚本](https://github.com/ZerojumpLine/moval_scripts)。
 - 核对日期：2026-10-26；本条为摘要与指定章节导读，未宣称全文精读。
 
+- 仓库内 PDF：[打开全文](../../pdfs/evaluation/2026-moval.pdf)（arXiv 2610.29262v1）。
+
 ## 解决的问题
 
 部署数据分布发生变化、目标域没有标签时，如何估计模型表现，且不只关注总体准确率？

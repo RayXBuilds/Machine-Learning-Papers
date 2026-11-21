@@ -21,6 +21,8 @@ updated: 2026-11-21
 - 原始来源：[NeurIPS 2025 书目](https://proceedings.neurips.cc/paper_files/paper/2025/hash/6d13e085b79d454da5910e4ca82a3d9d-Abstract-Conference.html) · [arXiv 版本记录](https://arxiv.org/abs/2505.13447)。
 - 官方代码：已核对[作者项目仓库](https://github.com/Gsunshine/meanflow)。
 
+- 仓库内 PDF：[打开全文](../../pdfs/generative-models/2025-meanflow.pdf)（会议论文集版（proceedings.neurips.cc））。
+
 ## 解决的问题
 
 若希望从噪声一步跳到样本，训练时应学局部速度还是一段时间内的平均位移？

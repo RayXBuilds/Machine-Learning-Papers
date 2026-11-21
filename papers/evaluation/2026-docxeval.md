@@ -21,6 +21,8 @@ updated: 2026-11-21
 - 原始来源：[书目与摘要](https://arxiv.org/abs/2610.36929) · [v1 正文](https://arxiv.org/html/2610.36929v1)。
 - 官方代码：[作者仓库](https://github.com/saifullah3396/docxeval/)，已见源码、实验脚本和环境说明；本次未安装或执行。
 
+- 仓库内 PDF：[打开全文](../../pdfs/evaluation/2026-docxeval.pdf)（arXiv 2610.36929v1）。
+
 ## 解决的问题
 
 文档模型同时利用文本、版面与图像，单看解释热图难以判断归因是否可信。如何在统一流程中比较解释方法及其评价指标？

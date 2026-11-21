@@ -22,7 +22,7 @@
 | --- | --- | --- | --- |
 | 2017 | [On Calibration of Modern Neural Networks](2017-temperature-scaling.md) | [PDF](../../pdfs/evaluation/2017-temperature-scaling.pdf) | 分类准确率高，并不代表输出概率能反映真实正确率。本文研究神经网络的置信度校准。 |
 | 2026 | [Discrimination, Calibration, and Ranking: A Unified Matrix Framework](2026-discrimination-calibration-ranking.md) | [PDF](../../pdfs/evaluation/2026-discrimination-calibration-ranking.pdf) | 分类器的区分能力、概率质量和排序表现衡量不同性质。如何用一致的表示比较这些指标，并解释按类别、样本或全局聚合时的差异？ |
-| 2026 | [Estimating Performance for Safe Deployment of Machine Learning Models](2026-moval.md) | 文件下载或版本核验中 | 部署数据分布发生变化、目标域没有标签时，如何估计模型表现，且不只关注总体准确率？ |
+| 2026 | [Estimating Performance for Safe Deployment of Machine Learning Models](2026-moval.md) | [PDF](../../pdfs/evaluation/2026-moval.pdf) | 部署数据分布发生变化、目标域没有标签时，如何估计模型表现，且不只关注总体准确率？ |
 | 2026 | [Hinted Scaling Laws](2026-hinted-scaling-laws.md) | [PDF](../../pdfs/evaluation/2026-hinted-scaling-laws.pdf) | 困难基准上，小模型准确率接近零，直接从这些得分外推大模型表现容易缺少有效信号。论文研究如何让低计算量实验提供下游准确率的预测依据。摘要 |
 | 2026 | [Matchability-Aware Conformal Prediction for Open-Ended Language Model Generation](2026-caelum.md) | [PDF](../../pdfs/evaluation/2026-caelum.pdf) | 开放式生成的候选回答可能完全遗漏参考答案，导致语义预测集的实际覆盖受到候选支持集限制。论文研究这一限制如何进入共形预测保证。摘要 |
 | 2026 | [Residual Calibration via Local Feature-Space Refinement](2026-lape.md) | [PDF](../../pdfs/evaluation/2026-lape.pdf) | 全局校准可能掩盖特征空间中不同局部区域的置信度误差。 |
@@ -34,7 +34,7 @@
 | 2024 | [SWE-bench: Can Language Models Resolve Real-World GitHub Issues?](2024-swe-bench.md) | [PDF](../../pdfs/evaluation/2024-swe-bench.pdf) | 单函数代码题的分数能否反映修复真实代码库问题的能力？ |
 | 2026 | [Auditing AI peer reviewers: a benchmark on real scientific papers](2026-auditing-ai-peer-reviewers.md) | [PDF](../../pdfs/evaluation/2026-auditing-ai-peer-reviewers.pdf) | AI 审稿系统能否检出客观错误，又会产生多少误报？论文将审稿能力拆成可定位的缺陷检测任务。摘要 |
 | 2026 | [Do AI Scientists Know What's New?](2026-claimnov.md) | [PDF](../../pdfs/evaluation/2026-claimnov.pdf) | AI 科研系统如何识别重复想法，同时保留含有新贡献的研究提案？整篇判定容易把局部已有成果误当作整项研究缺乏新意。 |
-| 2026 | [DocXEval: A Systematic Evaluation of Explainability in Multimodal Document Understanding](2026-docxeval.md) | 文件下载或版本核验中 | 文档模型同时利用文本、版面与图像，单看解释热图难以判断归因是否可信。如何在统一流程中比较解释方法及其评价指标？ |
+| 2026 | [DocXEval: A Systematic Evaluation of Explainability in Multimodal Document Understanding](2026-docxeval.md) | [PDF](../../pdfs/evaluation/2026-docxeval.pdf) | 文档模型同时利用文本、版面与图像，单看解释热图难以判断归因是否可信。如何在统一流程中比较解释方法及其评价指标？ |
 | 2026 | [Efficient Evaluation of LLM Performance with Statistical Guarantees](2026-factorized-active-querying.md) | [PDF](../../pdfs/evaluation/2026-factorized-active-querying.pdf) | 给定固定题库和有限调用预算，如何估计语言模型准确率，并为估计值提供可信的置信区间？ |
 | 2026 | [Judged in Company: In-Context Batching Makes LLM Verdicts Depend on Other Items](2026-judged-in-company.md) | [PDF](../../pdfs/evaluation/2026-judged-in-company.pdf) | 将独立条目合并进同一提示词可以减少重复指令，但某条内容的评分是否会随同批内容及位置改变？整体准确率接近，并不保证逐条判断稳定。 |
 | 2026 | [Where Should the Evaluation Budget Go in LLM-Driven Agent Scaffold Evolution?](2026-evalalloc.md) | [PDF](../../pdfs/evaluation/2026-evalalloc.pdf) | 智能体工作流迭代时，评估既用于引导搜索，又用于选出最终候选。对所有候选执行完整测试很昂贵，如何分配有限评估预算？ |

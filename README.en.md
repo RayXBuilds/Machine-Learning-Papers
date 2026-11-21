@@ -28,13 +28,13 @@ This README provides an English overview. Reading guides, topic indexes, daily r
 | [Multimodal Learning](papers/multimodal/README.md) | Image–text alignment and cross-modal representations | 1 | 0 |
 | [Reinforcement Learning & Decision-Making](papers/reinforcement-learning/README.md) | Policy and value learning, bandits, planning | 4 | 6 |
 | [Graph Learning & Network Analysis](papers/graph-learning/README.md) | Graph neural networks, community detection, link mining | 2 | 9 |
-| [Recommender Systems](papers/recommender-systems/README.md) | Collaborative filtering, matrix factorization, ALS, neural recommendation | 2 | 6 |
+| [Recommender Systems](papers/recommender-systems/README.md) | Collaborative filtering, matrix factorization, ALS, neural recommendation | 3 | 6 |
 | [Machine Learning Systems](papers/ml-systems/README.md) | Distributed training, computing frameworks, parameter servers | 2 | 10 |
 | [Data Mining & Data Management](papers/data-mining/README.md) | Time series, data streams, patterns and rules, web mining, entity matching | 2 | 25 |
 | [Domain Applications](papers/applications/README.md) | Robotics, bioinformatics, finance, sustainability, business applications | 3 | 20 |
 | [Evaluation & Experimental Methods](papers/evaluation/README.md) | Experimental design, A/B testing, validation, metrics | 14 | 3 |
 
-As of November 20, 2026: **62 independent reading guides and 147 archived PDFs**. The PDFs include translations and technical documents, so the file count does not represent 147 distinct papers. Indexes and counts are maintained as new entries are added.
+As of November 21, 2026: **63 independent reading guides and 147 archived PDFs**. The PDFs include translations and technical documents, so the file count does not represent 147 distinct papers. Indexes and counts are maintained as new entries are added.
 
 ## Repository layout
 
@@ -60,7 +60,7 @@ PDF paths have changed. The [migration guide](docs/migration.md) provides a comp
 
 ## Ongoing maintenance
 
-The latest addition is one guide on cross-validation for time series forecasting, expanding coverage of the topic. [November 20, 2026 · Cross-series generalization and cross-validation](docs/daily/2026/11/2026-11-20.md)
+The latest addition is one recommender-system guide on preference verification and temporal constraints. [November 21, 2026 · Preference verification for recommendation](docs/daily/2026/11/2026-11-21.md)
 
 A Codex automation runs daily at **11:00 Beijing time (Asia/Shanghai, UTC+8)** to search for, verify, and select up to five machine learning papers or technical articles. New guides are stored by topic and linked from the [daily records](docs/daily/README.md). No empty record is created when there are no suitable additions. Scheduling is handled by the Codex task; this repository does not currently contain a GitHub Actions scheduler.
 

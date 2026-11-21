@@ -6,6 +6,8 @@
 
 ## 论文与文章导读
 
+- [ReflectRec · 偏好验证与推荐](2026-reflectrec.md)
+
 - [MM-SAN · 学术图谱中的数据集推荐](2026-mm-san.md)
 
 - [Neural Collaborative Filtering](2017-ncf.md)

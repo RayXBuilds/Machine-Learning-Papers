@@ -26,13 +26,13 @@
 | [多模态学习](papers/multimodal/README.md) | 图文对齐与跨模态表示 | 1 | 0 |
 | [强化学习与决策](papers/reinforcement-learning/README.md) | 策略/价值学习、Bandit、规划 | 4 | 6 |
 | [图学习与网络分析](papers/graph-learning/README.md) | 图神经网络、社区发现、链接挖掘 | 2 | 9 |
-| [推荐系统](papers/recommender-systems/README.md) | 协同过滤、矩阵分解、ALS、神经推荐 | 2 | 6 |
+| [推荐系统](papers/recommender-systems/README.md) | 协同过滤、矩阵分解、ALS、神经推荐 | 3 | 6 |
 | [机器学习系统](papers/ml-systems/README.md) | 分布式训练、计算框架、参数服务器 | 2 | 10 |
 | [数据挖掘与数据管理](papers/data-mining/README.md) | 时序、流数据、模式/规则、Web、实体匹配 | 2 | 25 |
 | [领域应用](papers/applications/README.md) | 机器人、生物信息、金融、可持续发展、业务应用 | 3 | 20 |
 | [评估与实验方法](papers/evaluation/README.md) | 实验设计、A/B 测试、验证与指标 | 14 | 3 |
 
-截至 2026-11-20：62 篇独立导读、147 份历史 PDF。PDF 包含译文与技术资料，不代表 147 篇独立论文。后续收录同步维护目录和数量。
+截至 2026-11-21：63 篇独立导读、147 份历史 PDF。PDF 包含译文与技术资料，不代表 147 篇独立论文。后续收录同步维护目录和数量。
 
 ## 存放方式
 
@@ -58,7 +58,7 @@ docs/migration.md                     旧文件路径对照
 
 ## 持续维护
 
-最新收录新增 1 篇时序预测交叉验证导读，补充专题缺口。[2026-11-20 · 跨序列泛化与交叉验证](docs/daily/2026/11/2026-11-20.md)
+最新收录新增 1 篇推荐系统导读，关注偏好验证与时间约束。[2026-11-21 · 偏好验证与推荐](docs/daily/2026/11/2026-11-21.md)
 
 每天北京时间 11:00 由 Codex 自动任务检索、核实并精选最多 5 篇机器学习论文或技术文章。新增内容按主题存放，并登记到[每日收录](docs/daily/README.md)。没有合格新增时不生成空记录。此计划由 Codex 任务执行，仓库本身未配置 GitHub Actions 定时器。
 

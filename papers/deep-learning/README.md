@@ -25,7 +25,7 @@
 | 2010 | [Learning Fast Approximations of Sparse Coding](2010-lista.md) | [PDF](../../pdfs/deep-learning/2010-lista.pdf) | 每来一个样本都要迭代求解带 L1 惩罚的重构问题，在线提取稀疏特征的成本很高。 |
 | 2020 | [A Simple Framework for Contrastive Learning of Visual Representations](2020-simclr.md) | [PDF](../../pdfs/deep-learning/2020-simclr.pdf) | 如何通过增强视图和对比目标学习无标签视觉表示？ |
 | 2020 | [Momentum Contrast for Unsupervised Visual Representation Learning](2020-moco.md) | [PDF](../../pdfs/deep-learning/2020-moco.pdf) | 对比学习需要大量负例，如何避免字典大小被单次训练的批量限制？ |
-| 2021 | [Emerging Properties in Self-Supervised Vision Transformers](2021-dino.md) | 文件下载或版本核验中 | 缺乏类别标签时，视觉 Transformer 学到的表示是否保留物体区域信息？ |
+| 2021 | [Emerging Properties in Self-Supervised Vision Transformers](2021-dino.md) | [PDF](../../pdfs/deep-learning/2021-dino.pdf) | 缺乏类别标签时，视觉 Transformer 学到的表示是否保留物体区域信息？ |
 | 2026 | [Invariance before structure: two modes of emergent compression in representation learning](2026-earl-invariance-before-structure.md) | [PDF](../../pdfs/deep-learning/2026-earl-invariance-before-structure.pdf) | 不同参数的网络为何学到相似表征，这种一致性如何随任务学习形成？论文将表征对底层参数的不变性与其时间预测结构分别研究。摘要 |
 
 ## 结构与效率

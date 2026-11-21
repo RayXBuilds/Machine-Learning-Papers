@@ -21,6 +21,8 @@ updated: 2026-11-21
 - 原始来源：[论文入口](https://proceedings.mlr.press/v37/xuc15.html)
 - 官方代码：[作者项目](https://github.com/kelvinxu/arctic-captions)
 
+- 仓库内 PDF：[打开全文](../../pdfs/multimodal/2015-show-attend-tell.pdf)（arXiv 1502.03044v3）。
+
 ## 解决的问题
 
 生成图像描述时，每个词可能对应不同区域，单一的整图表示怎样提供这种局部信息？

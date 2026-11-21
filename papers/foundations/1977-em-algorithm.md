@@ -21,6 +21,8 @@ updated: 2026-11-21
 - 原始来源：[出版方书目与摘要](https://academic.oup.com/jrsssb/article-abstract/39/1/1/7027539) · [DOI](https://doi.org/10.1111/j.2517-6161.1977.tb01600.x)。
 - 官方代码：本次核对的出版页未提供作者代码。
 
+- 仓库内 PDF：[打开全文](../../pdfs/foundations/1977-em-algorithm.pdf)（JRSS Series B 39(1)，1977 年，1–38 页，含讨论的期刊版）。
+
 ## 解决的问题
 
 存在缺失数据或潜变量时，如何系统地计算最大似然估计？

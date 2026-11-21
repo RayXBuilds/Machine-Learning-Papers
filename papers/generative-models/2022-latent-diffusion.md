@@ -22,6 +22,8 @@ updated: 2026-11-21
 - 原始来源：[原文](https://arxiv.org/abs/2112.10752)。
 - 官方代码：原导读未单独核实，本次编排未新增代码可用性声明。
 
+- 仓库内 PDF：[打开全文](../../pdfs/generative-models/2022-latent-diffusion.pdf)（arXiv 2112.10752v2）。
+
 ## 解决的问题
 
 如何在压缩潜空间中执行带条件的扩散生成？

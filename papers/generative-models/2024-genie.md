@@ -21,6 +21,8 @@ updated: 2026-11-21
 - 原始来源：[ICML 2024 书目](https://proceedings.mlr.press/v235/bruce24a.html) · [arXiv 版本记录](https://arxiv.org/abs/2402.15391)。
 - 官方代码：在已核对的论文与[作者项目页](https://sites.google.com/view/genie-2024/)中未确认公开实现。
 
+- 仓库内 PDF：[打开全文](../../pdfs/generative-models/2024-genie.pdf)（arXiv 2402.15391v1）。
+
 ## 解决的问题
 
 没有记录操作者的按键，能否仅凭视频学出可交互环境？

@@ -1,7 +1,12 @@
 {
   "papers/applications/2024-openvla.md": {
-    "source_url": "https://proceedings.mlr.press/v270/kim25c.html",
-    "reason": "文件下载或版本核验中"
+    "path": "pdfs/applications/2024-openvla.pdf",
+    "source_url": "https://arxiv.org/pdf/2406.09246",
+    "retrieved": "2026-11-21",
+    "version": "arXiv 2406.09246v3",
+    "pages": 37,
+    "bytes": 13240309,
+    "sha256": "353c37df34458f12f969b14dfd8b77175b727b9cddea7bb891759beddeefe1be"
   },
   "papers/applications/2025-pi-zero.md": {
     "source_url": "https://roboticsproceedings.org/rss21/p010.html",
@@ -367,8 +372,13 @@
     "sha256": "cc620e511bafe8b4b11ca3415f6d7bcf127a05818087bfa49905de3a2e50bc2d"
   },
   "papers/deep-learning/2021-dino.md": {
-    "source_url": "https://arxiv.org/abs/2104.14294",
-    "reason": "文件下载或版本核验中"
+    "path": "pdfs/deep-learning/2021-dino.pdf",
+    "source_url": "https://arxiv.org/pdf/2104.14294",
+    "retrieved": "2026-11-21",
+    "version": "arXiv 2104.14294v2",
+    "pages": 21,
+    "bytes": 30930829,
+    "sha256": "aa464cfd59a428890190bea1065823a491a853478b4fb2a25f5eb44d442ce296"
   },
   "papers/deep-learning/2024-mamba-2.md": {
     "path": "pdfs/deep-learning/2024-mamba-2.pdf",
@@ -541,8 +551,13 @@
     "sha256": "5582cd1e6c067fb0e19e3d24d98afbec23c4c8b8bfe378c13ae0a465a0ad2f92"
   },
   "papers/foundations/1977-em-algorithm.md": {
-    "source_url": "https://academic.oup.com/jrsssb/article-abstract/39/1/1/7027539",
-    "reason": "文件下载或版本核验中"
+    "path": "pdfs/foundations/1977-em-algorithm.pdf",
+    "source_url": "https://cs.brown.edu/courses/csci1820/spring-2026/resources/ch4/Dempster_Laird_Rubin_1977.pdf",
+    "retrieved": "2026-11-21",
+    "version": "JRSS Series B 39(1)，1977 年，1–38 页，含讨论的期刊版",
+    "pages": 39,
+    "bytes": 4743274,
+    "sha256": "4f89d2afd0162c91a9d7d5761d3188eb2381742e5e5751d43cc5b366cab4818b"
   },
   "papers/foundations/1988-local-probability-computations.md": {
     "path": "pdfs/foundations/1988-local-probability-computations.pdf",
@@ -635,8 +650,13 @@
     "sha256": "0343b292f3378d0fccbc7cfe99188558ad8b51ba52e0e03ad4f14dac7aca37e6"
   },
   "papers/generative-models/2017-cyclegan.md": {
-    "source_url": "https://arxiv.org/abs/1703.10593",
-    "reason": "文件下载或版本核验中"
+    "path": "pdfs/generative-models/2017-cyclegan.pdf",
+    "source_url": "https://arxiv.org/pdf/1703.10593",
+    "retrieved": "2026-11-21",
+    "version": "arXiv 1703.10593v7",
+    "pages": 18,
+    "bytes": 37551521,
+    "sha256": "4f0b004c8f9dce3baa15606283c4410fef452ea9f597acb78e45a9f86532d34c"
   },
   "papers/generative-models/2017-wgan-gp.md": {
     "path": "pdfs/generative-models/2017-wgan-gp.pdf",
@@ -652,12 +672,22 @@
     "reason": "文件下载或版本核验中"
   },
   "papers/generative-models/2020-ddpm.md": {
-    "source_url": "https://arxiv.org/abs/2006.11239",
-    "reason": "文件下载或版本核验中"
+    "path": "pdfs/generative-models/2020-ddpm.pdf",
+    "source_url": "https://arxiv.org/pdf/2006.11239",
+    "retrieved": "2026-11-21",
+    "version": "arXiv 2006.11239v2",
+    "pages": 25,
+    "bytes": 10267274,
+    "sha256": "aee5e07a802e8dfd2a386374c94fd61d1d056cb7e1e0fec4f28e8120ff5d8505"
   },
   "papers/generative-models/2022-latent-diffusion.md": {
-    "source_url": "https://arxiv.org/abs/2112.10752",
-    "reason": "文件下载或版本核验中"
+    "path": "pdfs/generative-models/2022-latent-diffusion.pdf",
+    "source_url": "https://arxiv.org/pdf/2112.10752",
+    "retrieved": "2026-11-21",
+    "version": "arXiv 2112.10752v2",
+    "pages": 45,
+    "bytes": 40842586,
+    "sha256": "46ede043a8dc07ca1f0f445620523fe1ad8b2436bd83856a3835612a47e9f79e"
   },
   "papers/generative-models/2023-consistency-models.md": {
     "path": "pdfs/generative-models/2023-consistency-models.pdf",
@@ -669,8 +699,13 @@
     "sha256": "8f65127c770a8e8994777010ed36dfcf64fc38f840042778eef7fe8ab2c12e10"
   },
   "papers/generative-models/2024-genie.md": {
-    "source_url": "https://proceedings.mlr.press/v235/bruce24a.html",
-    "reason": "文件下载或版本核验中"
+    "path": "pdfs/generative-models/2024-genie.pdf",
+    "source_url": "https://arxiv.org/pdf/2402.15391",
+    "retrieved": "2026-11-21",
+    "version": "arXiv 2402.15391v1",
+    "pages": 27,
+    "bytes": 42346194,
+    "sha256": "94c63a5ced89355326706c88236591c2972ced12f3dece4f8982f020110c81f3"
   },
   "papers/generative-models/2025-meanflow.md": {
     "source_url": "https://proceedings.neurips.cc/paper_files/paper/2025/hash/6d13e085b79d454da5910e4ca82a3d9d-Abstract-Conference.html",
@@ -825,8 +860,13 @@
     "sha256": "2baecf23767400bb46697948cade382842f2fc507b698d98e8c46a7df7e11c6d"
   },
   "papers/multimodal/2015-show-attend-tell.md": {
-    "source_url": "https://proceedings.mlr.press/v37/xuc15.html",
-    "reason": "文件下载或版本核验中"
+    "path": "pdfs/multimodal/2015-show-attend-tell.pdf",
+    "source_url": "https://arxiv.org/pdf/1502.03044",
+    "retrieved": "2026-11-21",
+    "version": "arXiv 1502.03044v3",
+    "pages": 22,
+    "bytes": 9582640,
+    "sha256": "d57e998f6805287eaee18657e67df990f75d79367af9fda204560db4655752db"
   },
   "papers/multimodal/2021-clip.md": {
     "path": "pdfs/multimodal/2021-clip.pdf",

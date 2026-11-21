@@ -21,6 +21,8 @@ updated: 2026-11-21
 - 原始来源：[CoRL 2024 书目](https://proceedings.mlr.press/v270/kim25c.html) · [arXiv 版本记录](https://arxiv.org/abs/2406.09246)。
 - 官方代码：已核对[作者项目仓库](https://github.com/openvla/openvla)。
 
+- 仓库内 PDF：[打开全文](../../pdfs/applications/2024-openvla.pdf)（arXiv 2406.09246v3）。
+
 ## 解决的问题
 
 预训练视觉语言模型如何利用多种机器人演示，并适配新的操作任务？

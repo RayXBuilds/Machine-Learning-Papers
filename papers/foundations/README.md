@@ -10,7 +10,7 @@
 
 | 归档年 | 论文与导读 | PDF | 阅读问题 |
 | --- | --- | --- | --- |
-| 1977 | [Maximum Likelihood from Incomplete Data Via the EM Algorithm](1977-em-algorithm.md) | 文件下载或版本核验中 | 存在缺失数据或潜变量时，如何系统地计算最大似然估计？ |
+| 1977 | [Maximum Likelihood from Incomplete Data Via the EM Algorithm](1977-em-algorithm.md) | [PDF](../../pdfs/foundations/1977-em-algorithm.pdf) | 存在缺失数据或潜变量时，如何系统地计算最大似然估计？ |
 | 1988 | [Local Computations with Probabilities on Graphical Structures and Their Application to Expert Systems](1988-local-probability-computations.md) | [PDF](../../pdfs/foundations/1988-local-probability-computations.pdf) | 已知一些变量的取值后，怎样在含条件依赖的系统中更新其他变量的概率？ |
 | 2013 | [Stochastic Variational Inference](2013-stochastic-variational-inference.md) | [PDF](../../pdfs/foundations/2013-stochastic-variational-inference.pdf) | 贝叶斯模型的全批量变分更新每轮都要遍历数据，大规模语料上怎样更新全局后验近似？ |
 | 2026 | [Posterior contraction rates for banded approximations of Gaussian processes](2026-banded-gaussian-processes.md) | [PDF](../../pdfs/foundations/2026-banded-gaussian-processes.pdf) | 高斯过程回归的稠密矩阵计算限制了数据规模。论文研究按空间距离截断协方差后，需要保留多少邻域依赖，才能维持统计估计质量。摘要 |

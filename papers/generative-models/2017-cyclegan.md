@@ -21,6 +21,8 @@ updated: 2026-11-21
 - 原始来源：[ICCV 会议版](https://openaccess.thecvf.com/content_iccv_2017/html/Zhu_Unpaired_Image-To-Image_Translation_ICCV_2017_paper.html) · [作者预印本](https://arxiv.org/abs/1703.10593)。
 - 官方代码：[作者项目](https://github.com/junyanz/pytorch-CycleGAN-and-pix2pix)。
 
+- 仓库内 PDF：[打开全文](../../pdfs/generative-models/2017-cyclegan.pdf)（arXiv 1703.10593v7）。
+
 ## 解决的问题
 
 只有两个域各自的图像集合时，怎样学习图像翻译？

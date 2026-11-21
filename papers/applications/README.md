@@ -10,7 +10,7 @@
 
 | 归档年 | 论文与导读 | PDF | 阅读问题 |
 | --- | --- | --- | --- |
-| 2024 | [OpenVLA: An Open-Source Vision-Language-Action Model](2024-openvla.md) | 文件下载或版本核验中 | 预训练视觉语言模型如何利用多种机器人演示，并适配新的操作任务？ |
+| 2024 | [OpenVLA: An Open-Source Vision-Language-Action Model](2024-openvla.md) | [PDF](../../pdfs/applications/2024-openvla.pdf) | 预训练视觉语言模型如何利用多种机器人演示，并适配新的操作任务？ |
 | 2025 | [π₀: A Vision-Language-Action Flow Model for General Robot Control](2025-pi-zero.md) | 文件下载或版本核验中 | 语言指令对应连续、多步且可能有多种解的机器人动作，怎样由视觉语言表示生成这些动作？ |
 | 2026 | [Learning Robot Behavior Priors from Non-Robotic Synthetic Data](2026-synthetic-robot-priors.md) | [PDF](../../pdfs/applications/2026-synthetic-robot-priors.pdf) | 机器人行为数据收集成本高。能否先从不含真实机器人轨迹的程序化数据中学到有助于动作预测的结构？ |
 

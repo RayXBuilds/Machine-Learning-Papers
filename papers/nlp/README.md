@@ -20,6 +20,8 @@
 - 2003 · [Latent Dirichlet Allocation](2003-lda.md)
 - 2014 · [GloVe · 全局共现词向量](2014-glove.md)
 - 2015 · [机器翻译中的软对齐](2015-bahdanau-attention.md)
+- [2023 · DPO](2023-dpo.md)
+- [2025 · s1](2025-s1.md)
 
 ## 历史 PDF
 

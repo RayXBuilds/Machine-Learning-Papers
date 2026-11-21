@@ -11,6 +11,8 @@
 - [Relaxing Cross-Modal Correspondence for Multimodal Remote Sensing Pretraining](2026-sempair.md)
 
 - [Learning Robot Behavior Priors from Non-Robotic Synthetic Data](2026-synthetic-robot-priors.md)
+- [2024 · OpenVLA](2024-openvla.md)
+- [2025 · π₀](2025-pi-zero.md)
 
 ## 历史 PDF
 

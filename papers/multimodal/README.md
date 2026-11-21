@@ -12,6 +12,7 @@
 
 - 2003 · [Modeling Annotated Data](2003-modeling-annotated-data.md)
 - 2015 · [图像描述中的视觉注意力](2015-show-attend-tell.md)
+- [2023 · SigLIP](2023-siglip.md)
 
 ## 历史 PDF
 

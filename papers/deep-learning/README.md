@@ -22,6 +22,7 @@
 - 2010 · [LISTA · 学习稀疏编码](2010-lista.md)
 - 2010 · [Glorot 初始化](2010-glorot-initialization.md)
 - 2011 · [整流激活与稀疏表示](2011-deep-sparse-rectifiers.md)
+- [2024 · Mamba-2](2024-mamba-2.md)
 
 ## 历史 PDF
 

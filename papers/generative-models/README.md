@@ -18,6 +18,9 @@
 
 - 2002 · [Training Products of Experts by Minimizing Contrastive Divergence](2002-contrastive-divergence.md)
 - 2016 · [PixelRNN · 像素自回归模型](2016-pixelrnn.md)
+- [2023 · Consistency Models](2023-consistency-models.md)
+- [2024 · Genie](2024-genie.md)
+- [2025 · MeanFlow](2025-meanflow.md)
 
 ## 历史 PDF
 

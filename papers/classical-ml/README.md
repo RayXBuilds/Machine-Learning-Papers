@@ -22,6 +22,7 @@
 - 1982 · [Least Squares Quantization in PCM](1982-lloyd-quantization.md)
 - 1986 · [Induction of decision trees](1986-id3.md)
 - 2008 · [Visualizing Data using t-SNE](2008-tsne.md)
+- [2025 · TabICL](2025-tabicl.md)
 
 ## 历史 PDF
 

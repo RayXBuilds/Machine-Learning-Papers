@@ -18,6 +18,7 @@
 
 - 1992 · [Q-learning](1992-q-learning.md)
 - 2015 · [TRPO · 信赖域策略优化](2015-trpo.md)
+- [2025 · DeepSeek-R1](2025-deepseek-r1.md)
 
 ## 历史 PDF
 

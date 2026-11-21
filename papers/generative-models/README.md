@@ -6,6 +6,10 @@
 
 ## 论文与文章导读
 
+- [CycleGAN · 2017](2017-cyclegan.md)
+- [WGAN-GP · 2017](2017-wgan-gp.md)
+- [StyleGAN · 2019](2019-stylegan.md)
+
 - [Online Class Posteriors · 离散扩散的后验估计与逻辑引导](2026-online-class-posteriors.md)
 - [VAE](2013-vae.md)
 - [GAN](2014-gan.md)

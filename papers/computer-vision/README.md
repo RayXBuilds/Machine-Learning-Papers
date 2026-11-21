@@ -6,6 +6,9 @@
 
 ## 论文与文章导读
 
+- [DETR · 2020](2020-detr.md)
+- [MAE · 2022](2022-mae.md)
+
 - [AlexNet](2012-alexnet.md)
 - [ResNet](2016-resnet.md)
 - [Vision Transformer](2021-vit.md)

@@ -6,6 +6,9 @@
 
 ## 论文与文章导读
 
+- [GraphSAGE · 2017](2017-graphsage.md)
+- [GAT · 2018](2018-gat.md)
+
 - [GCN](2017-gcn.md)
 - [A Living Leaderboard for Graph Machine Learning](2026-living-graph-leaderboard.md)
 

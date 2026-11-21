@@ -6,6 +6,8 @@
 
 ## 论文与文章导读
 
+- [LightGCN · 2020](2020-lightgcn.md)
+
 - [ReflectRec · 偏好验证与推荐](2026-reflectrec.md)
 
 - [MM-SAN · 学术图谱中的数据集推荐](2026-mm-san.md)

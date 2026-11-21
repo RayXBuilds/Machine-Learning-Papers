@@ -6,6 +6,9 @@
 
 ## 论文与文章导读
 
+- [TD3 · 2018](2018-td3.md)
+- [Decision Transformer · 2021](2021-decision-transformer.md)
+
 - [DQN](2015-dqn.md)
 - [PPO](2017-ppo.md)
 - [Soft Actor-Critic](2018-sac.md)

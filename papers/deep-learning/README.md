@@ -6,6 +6,10 @@
 
 ## 论文与文章导读
 
+- [Lottery Ticket Hypothesis · 2019](2019-lottery-ticket.md)
+- [MoCo · 2020](2020-moco.md)
+- [DINO · 2021](2021-dino.md)
+
 - [Dropout](2014-dropout.md)
 - [Adam](2015-adam.md)
 - [Batch Normalization](2015-batch-normalization.md)

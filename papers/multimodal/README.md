@@ -6,6 +6,8 @@
 
 ## 论文与文章导读
 
+- [BLIP · 2022](2022-blip.md)
+
 - [CLIP](2021-clip.md)
 
 - 2003 · [Modeling Annotated Data](2003-modeling-annotated-data.md)

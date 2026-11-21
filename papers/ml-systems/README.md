@@ -6,6 +6,9 @@
 
 ## 论文与文章导读
 
+- [TVM · 2018](2018-tvm.md)
+- [FlashAttention · 2022](2022-flashattention.md)
+
 - [Jaxnasium: Embracing PyTrees For Any-Agent, Cross-Suite Reinforcement Learning](2026-jaxnasium.md)
 - [Phantom · 扩散模型时间缓存](2026-phantom-temporal-caching.md)
 

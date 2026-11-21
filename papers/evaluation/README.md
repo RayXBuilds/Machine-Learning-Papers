@@ -6,6 +6,9 @@
 
 ## 论文与文章导读
 
+- [ImageNetV2 · 2019](2019-imagenetv2.md)
+- [WILDS · 2021](2021-wilds.md)
+
 - [Auditing AI peer reviewers · 审稿错误检出与误报](2026-auditing-ai-peer-reviewers.md)
 
 - [Revisiting Elliptic++ · 时间泄漏与评估重建](2026-elliptic-leakage.md)

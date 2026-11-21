@@ -13,6 +13,9 @@
 
 - [EARL · 表征不变性与预测结构](2026-earl-invariance-before-structure.md)
 
+- 1986 · [Learning representations by back-propagating errors](1986-backpropagation.md)
+- 2006 · [Reducing the Dimensionality of Data with Neural Networks](2006-deep-autoencoder.md)
+
 ## 历史 PDF
 
 [浏览本主题历史资料（3 份）](../../library/deep-learning/README.md)。

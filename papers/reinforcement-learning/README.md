@@ -13,6 +13,8 @@
 
 相关主题：[Jaxnasium · 跨环境强化学习框架](../ml-systems/2026-jaxnasium.md)（主文件在机器学习系统，不重复计数）。
 
+- 1992 · [Q-learning](1992-q-learning.md)
+
 ## 历史 PDF
 
 [浏览本主题历史资料（6 份）](../../library/reinforcement-learning/README.md)。

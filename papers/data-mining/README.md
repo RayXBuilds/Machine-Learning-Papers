@@ -10,6 +10,8 @@
 
 - [IMRouter · 时序模式不平衡与专家路由](2026-imrouter.md)
 
+- 2008 · [Isolation Forest](2008-isolation-forest.md)
+
 ## 历史 PDF
 
 [浏览本主题历史资料（25 份）](../../library/data-mining/README.md)。

@@ -9,6 +9,8 @@
 - [GCN](2017-gcn.md)
 - [A Living Leaderboard for Graph Machine Learning](2026-living-graph-leaderboard.md)
 
+- 2000 · [Normalized Cuts and Image Segmentation](2000-normalized-cuts.md)
+
 ## 历史 PDF
 
 [浏览本主题历史资料（9 份）](../../library/graph-learning/README.md)。

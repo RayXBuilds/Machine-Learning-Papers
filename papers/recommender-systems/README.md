@@ -12,6 +12,9 @@
 
 - [Neural Collaborative Filtering](2017-ncf.md)
 
+- 2007 · [Probabilistic Matrix Factorization](2007-probabilistic-matrix-factorization.md)
+- 2009 · [BPR: Bayesian Personalized Ranking from Implicit Feedback](2009-bpr.md)
+
 ## 历史 PDF
 
 [浏览本主题历史资料（6 份）](../../library/recommender-systems/README.md)。

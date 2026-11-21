@@ -12,6 +12,8 @@
 - [DDPM](2020-ddpm.md)
 - [Latent Diffusion](2022-latent-diffusion.md)
 
+- 2002 · [Training Products of Experts by Minimizing Contrastive Divergence](2002-contrastive-divergence.md)
+
 ## 历史 PDF
 
 本主题尚无历史 PDF，新增收录使用原文链接与中文导读。

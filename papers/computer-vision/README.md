@@ -12,6 +12,9 @@
 
 - [PACT: End-to-End Learning of Human Pose, Contacts, and Forces from Video](2026-pact.md)
 
+- 2004 · [Distinctive Image Features from Scale-Invariant Keypoints](2004-sift.md)
+- 2005 · [Histograms of Oriented Gradients for Human Detection](2005-hog.md)
+
 ## 历史 PDF
 
 [浏览本主题历史资料（7 份）](../../library/computer-vision/README.md)。

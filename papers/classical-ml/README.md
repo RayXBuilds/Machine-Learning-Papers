@@ -17,6 +17,12 @@
 
 - [TICL³ · 可解释表格预测](2026-ticl3.md)
 
+- 1958 · [The perceptron: A probabilistic model for information storage and organization in the brain](1958-perceptron.md)
+- 1967 · [Nearest Neighbor Pattern Classification](1967-nearest-neighbor.md)
+- 1982 · [Least Squares Quantization in PCM](1982-lloyd-quantization.md)
+- 1986 · [Induction of decision trees](1986-id3.md)
+- 2008 · [Visualizing Data using t-SNE](2008-tsne.md)
+
 ## 历史 PDF
 
 [浏览本主题历史资料（34 份）](../../library/classical-ml/README.md)。

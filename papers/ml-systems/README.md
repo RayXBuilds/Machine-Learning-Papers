@@ -9,6 +9,8 @@
 - [Jaxnasium: Embracing PyTrees For Any-Agent, Cross-Suite Reinforcement Learning](2026-jaxnasium.md)
 - [Phantom · 扩散模型时间缓存](2026-phantom-temporal-caching.md)
 
+- 2004 · [MapReduce: Simplified Data Processing on Large Clusters](2004-mapreduce.md)
+
 ## 历史 PDF
 
 [浏览本主题历史资料（10 份）](../../library/ml-systems/README.md)。

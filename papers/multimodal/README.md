@@ -8,6 +8,8 @@
 
 - [CLIP](2021-clip.md)
 
+- 2003 · [Modeling Annotated Data](2003-modeling-annotated-data.md)
+
 ## 历史 PDF
 
 本主题尚无历史 PDF，新增收录使用原文链接与中文导读。

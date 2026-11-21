@@ -12,6 +12,9 @@
 
 - [Maximum Likelihood from Incomplete Data Via the EM Algorithm](1977-em-algorithm.md)
 
+- 1988 · [Local Computations with Probabilities on Graphical Structures and Their Application to Expert Systems](1988-local-probability-computations.md)
+- 1996 · [Regression Shrinkage and Selection Via the Lasso](1996-lasso.md)
+
 ## 历史 PDF
 
 [浏览本主题历史资料（9 份）](../../library/foundations/README.md)。

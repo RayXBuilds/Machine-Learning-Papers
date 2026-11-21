@@ -17,6 +17,8 @@
 - [S-EDL · 大语言模型语义校准](2026-s-edl.md)
 - [DUMP tokens · 检索表征前缀训练](2026-dump-retrieval-prefix-tokens.md)
 
+- 2003 · [Latent Dirichlet Allocation](2003-lda.md)
+
 ## 历史 PDF
 
 [浏览本主题历史资料（15 份）](../../library/nlp/README.md)。

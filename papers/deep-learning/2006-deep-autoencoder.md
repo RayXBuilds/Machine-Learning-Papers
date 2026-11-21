@@ -21,6 +21,8 @@ updated: 2026-11-21
 - 原始来源：[原文](https://www.cs.toronto.edu/~hinton/absps/science.pdf)
 - 官方代码：[作者提供的 MATLAB 训练程序](https://www.cs.toronto.edu/~hinton/MatlabForSciencePaper.html)
 
+- 仓库内 PDF：[打开全文](../../pdfs/deep-learning/2006-deep-autoencoder.pdf)（Science 313，2006 年期刊排印版）。
+
 ## 解决的问题
 
 怎样训练具有窄瓶颈的深层网络，使高维输入经压缩后仍可重构？

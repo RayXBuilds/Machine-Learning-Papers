@@ -21,6 +21,8 @@ updated: 2026-11-21
 - 原始来源：[论文入口](https://arxiv.org/abs/1409.0473)
 - 官方代码：[作者项目](https://github.com/lisa-groundhog/GroundHog/tree/master/experiments/nmt)
 
+- 仓库内 PDF：[打开全文](../../pdfs/nlp/2015-bahdanau-attention.pdf)（arXiv 1409.0473v7）。
+
 ## 解决的问题
 
 把整句压缩成单一向量后，译到句末时解码器如何找回与当前目标词有关的信息？

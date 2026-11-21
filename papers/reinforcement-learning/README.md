@@ -11,7 +11,7 @@
 | 归档年 | 论文与导读 | PDF | 阅读问题 |
 | --- | --- | --- | --- |
 | 1992 | [Q-learning](1992-q-learning.md) | [PDF](../../pdfs/reinforcement-learning/1992-q-learning.pdf) | 智能体只观测实际采取动作的收益和后继状态，能否学出最优动作价值？ |
-| 2015 | [Human-level control through deep reinforcement learning](2015-dqn.md) | 文件下载或版本核验中 | 如何组合深度 Q 网络、经验回放与目标网络学习控制？ |
+| 2015 | [Human-level control through deep reinforcement learning](2015-dqn.md) | [PDF](../../pdfs/reinforcement-learning/2015-dqn.pdf) | 如何组合深度 Q 网络、经验回放与目标网络学习控制？ |
 
 ## 策略优化与连续控制
 
@@ -27,7 +27,7 @@
 | 归档年 | 论文与导读 | PDF | 阅读问题 |
 | --- | --- | --- | --- |
 | 2021 | [Decision Transformer: Reinforcement Learning via Sequence Modeling](2021-decision-transformer.md) | [PDF](../../pdfs/reinforcement-learning/2021-decision-transformer.pdf) | 能否只用现成的轨迹，通过指定目标回报让模型生成动作？ |
-| 2025 | [DeepSeek-R1: Incentivizing Reasoning Capability in LLMs via Reinforcement Learning](2025-deepseek-r1.md) | 文件下载或版本核验中 | 在答案可判定的任务上，只给结果奖励能否塑造更长的推理行为？ |
+| 2025 | [DeepSeek-R1: Incentivizing Reasoning Capability in LLMs via Reinforcement Learning](2025-deepseek-r1.md) | [PDF](../../pdfs/reinforcement-learning/2025-deepseek-r1.pdf) | 在答案可判定的任务上，只给结果奖励能否塑造更长的推理行为？ |
 
 ## 安全约束
 

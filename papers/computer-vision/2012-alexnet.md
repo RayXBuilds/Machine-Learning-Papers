@@ -22,6 +22,8 @@ updated: 2026-11-21
 - 原始来源：[原文](https://papers.nips.cc/paper_files/paper/2012/hash/c399862d3b9d6b76c8436e924a68c45b-Abstract.html)。
 - 官方代码：原导读未单独核实，本次编排未新增代码可用性声明。
 
+- 仓库内 PDF：[打开全文](../../pdfs/computer-vision/2012-alexnet.pdf)（会议论文集版（papers.nips.cc））。
+
 ## 解决的问题
 
 如何把卷积网络和训练方法组织成图像分类系统？

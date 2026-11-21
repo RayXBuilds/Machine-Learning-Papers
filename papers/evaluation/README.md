@@ -11,7 +11,7 @@
 | 归档年 | 论文与导读 | PDF | 阅读问题 |
 | --- | --- | --- | --- |
 | 2012 | [Random Search for Hyper-Parameter Optimization](2012-random-search.md) | [PDF](../../pdfs/evaluation/2012-random-search.pdf) | 给定固定训练预算，当只有少数超参数强烈影响结果时，网格能试到多少种真正不同的配置？ |
-| 2019 | [Do ImageNet Classifiers Generalize to ImageNet?](2019-imagenetv2.md) | 文件下载或版本核验中 | 多年反复使用同一测试集后，模型进步能否在重新采集的图像上重现？ |
+| 2019 | [Do ImageNet Classifiers Generalize to ImageNet?](2019-imagenetv2.md) | [PDF](../../pdfs/evaluation/2019-imagenetv2.pdf) | 多年反复使用同一测试集后，模型进步能否在重新采集的图像上重现？ |
 | 2021 | [WILDS: A Benchmark of in-the-Wild Distribution Shifts](2021-wilds.md) | 文件下载或版本核验中 | 随机切分得到的分数能否反映跨医院、跨地区等实际部署差异？ |
 | 2026 | [Revisiting Elliptic++ for Bitcoin Forensics: Feature Reconstruction and Leakage-Resistant Evaluation](2026-elliptic-leakage.md) | [PDF](../../pdfs/evaluation/2026-elliptic-leakage.pdf) | Elliptic++ 地址分类的高分是否受到未来信息影响？作者检查原有样本划分与特征时间范围，识别可能夸大泛化表现的泄漏。摘要 |
 | 2026 | [What Carries Forward? Pretraining Disclosure Across Language Model Releases](2026-pretraining-disclosure.md) | [PDF](../../pdfs/evaluation/2026-pretraining-disclosure.pdf) | 语言模型不断发布新版本，但关于预训练数据、处理过程和算力的披露是否得到延续？总分能否掩盖具体信息的缺失？ |
@@ -31,7 +31,7 @@
 
 | 归档年 | 论文与导读 | PDF | 阅读问题 |
 | --- | --- | --- | --- |
-| 2024 | [SWE-bench: Can Language Models Resolve Real-World GitHub Issues?](2024-swe-bench.md) | 文件下载或版本核验中 | 单函数代码题的分数能否反映修复真实代码库问题的能力？ |
+| 2024 | [SWE-bench: Can Language Models Resolve Real-World GitHub Issues?](2024-swe-bench.md) | [PDF](../../pdfs/evaluation/2024-swe-bench.pdf) | 单函数代码题的分数能否反映修复真实代码库问题的能力？ |
 | 2026 | [Auditing AI peer reviewers: a benchmark on real scientific papers](2026-auditing-ai-peer-reviewers.md) | [PDF](../../pdfs/evaluation/2026-auditing-ai-peer-reviewers.pdf) | AI 审稿系统能否检出客观错误，又会产生多少误报？论文将审稿能力拆成可定位的缺陷检测任务。摘要 |
 | 2026 | [Do AI Scientists Know What's New?](2026-claimnov.md) | [PDF](../../pdfs/evaluation/2026-claimnov.pdf) | AI 科研系统如何识别重复想法，同时保留含有新贡献的研究提案？整篇判定容易把局部已有成果误当作整项研究缺乏新意。 |
 | 2026 | [DocXEval: A Systematic Evaluation of Explainability in Multimodal Document Understanding](2026-docxeval.md) | 文件下载或版本核验中 | 文档模型同时利用文本、版面与图像，单看解释热图难以判断归因是否可信。如何在统一流程中比较解释方法及其评价指标？ |

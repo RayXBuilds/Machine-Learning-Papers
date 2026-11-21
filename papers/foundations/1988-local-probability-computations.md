@@ -21,6 +21,8 @@ updated: 2026-11-21
 - 原始来源：[原文](https://doi.org/10.1111/j.2517-6161.1988.tb01721.x) · [期刊原文影印](https://www.eecis.udel.edu/~shatkay/Course/papers/Lauritzen1988.pdf)
 - 官方代码：核对的原始资料中未确认论文配套实现。
 
+- 仓库内 PDF：[打开全文](../../pdfs/foundations/1988-local-probability-computations.pdf)（JRSS Series B 50(2)，1988 年期刊扫描版）。
+
 ## 解决的问题
 
 已知一些变量的取值后，怎样在含条件依赖的系统中更新其他变量的概率？

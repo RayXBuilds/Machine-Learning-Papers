@@ -11,18 +11,18 @@
 | 归档年 | 论文与导读 | PDF | 阅读问题 |
 | --- | --- | --- | --- |
 | 1958 | [The perceptron: A probabilistic model for information storage and organization in the brain](1958-perceptron.md) | 文件下载或版本核验中 | 经验怎样改变一个识别系统对相似刺激的反应？ |
-| 1967 | [Nearest Neighbor Pattern Classification](1967-nearest-neighbor.md) | 文件下载或版本核验中 | 只参考一个最近训练样本的类别，在样本趋于无穷时要付出多少误差代价？ |
-| 1986 | [Induction of decision trees](1986-id3.md) | 文件下载或版本核验中 | 给定带标签实例，如何自动选择一串属性测试，让分支末端尽可能对应同一类别？ |
-| 1995 | [Support-vector networks](1995-support-vector-networks.md) | 文件下载或版本核验中 | 当两类训练样本不能完全分开时，如何延续支持向量方法的分类思想？ |
-| 1997 | [A Decision-Theoretic Generalization of On-Line Learning and an Application to Boosting](1997-adaboost.md) | 文件下载或版本核验中 | 如何在在线决策中按反馈调整资源分配，并利用这一思想把弱学习器组合为更强的分类器？ |
-| 2001 | [Random Forests](2001-random-forests.md) | 文件下载或版本核验中 | 如何组合带随机性的决策树，并评估集成误差？ |
+| 1967 | [Nearest Neighbor Pattern Classification](1967-nearest-neighbor.md) | [PDF](../../pdfs/classical-ml/1967-nearest-neighbor.pdf) | 只参考一个最近训练样本的类别，在样本趋于无穷时要付出多少误差代价？ |
+| 1986 | [Induction of decision trees](1986-id3.md) | [PDF](../../pdfs/classical-ml/1986-id3.pdf) | 给定带标签实例，如何自动选择一串属性测试，让分支末端尽可能对应同一类别？ |
+| 1995 | [Support-vector networks](1995-support-vector-networks.md) | [PDF](../../pdfs/classical-ml/1995-support-vector-networks.pdf) | 当两类训练样本不能完全分开时，如何延续支持向量方法的分类思想？ |
+| 1997 | [A Decision-Theoretic Generalization of On-Line Learning and an Application to Boosting](1997-adaboost.md) | [PDF](../../pdfs/classical-ml/1997-adaboost.pdf) | 如何在在线决策中按反馈调整资源分配，并利用这一思想把弱学习器组合为更强的分类器？ |
+| 2001 | [Random Forests](2001-random-forests.md) | [PDF](../../pdfs/classical-ml/2001-random-forests.pdf) | 如何组合带随机性的决策树，并评估集成误差？ |
 | 2016 | [XGBoost: A Scalable Tree Boosting System](2016-xgboost.md) | [PDF](../../pdfs/classical-ml/2016-xgboost.pdf) | 如何把梯度提升树的学习目标与高效系统实现结合？ |
 
 ## 聚类与降维
 
 | 归档年 | 论文与导读 | PDF | 阅读问题 |
 | --- | --- | --- | --- |
-| 1982 | [Least Squares Quantization in PCM](1982-lloyd-quantization.md) | 文件下载或版本核验中 | 用有限个电平表示连续信号时，如何同时选定量化区间和各区间的代表值？ |
+| 1982 | [Least Squares Quantization in PCM](1982-lloyd-quantization.md) | [PDF](../../pdfs/classical-ml/1982-lloyd-quantization.pdf) | 用有限个电平表示连续信号时，如何同时选定量化区间和各区间的代表值？ |
 | 2008 | [Visualizing Data using t-SNE](2008-tsne.md) | [PDF](../../pdfs/classical-ml/2008-tsne.pdf) | 把高维数据画在平面上时，如何减少大量邻点挤在一起、局部关系难以辨认的问题？ |
 
 ## 表格学习与迁移

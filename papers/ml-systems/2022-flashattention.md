@@ -21,6 +21,8 @@ updated: 2026-11-21
 - 原始来源：[NeurIPS 会议版](https://proceedings.neurips.cc/paper/2022/hash/67d57c32e20fd0a7a302cb81d36e40d5-Abstract.html) · [作者预印本](https://arxiv.org/abs/2205.14135)。
 - 官方代码：[作者项目](https://github.com/Dao-AILab/flash-attention)（同仓库也包含后续版本）。
 
+- 仓库内 PDF：[打开全文](../../pdfs/ml-systems/2022-flashattention.pdf)（arXiv 2205.14135v2）。
+
 ## 解决的问题
 
 精确注意力为何常被显存读写拖慢，即使 GPU 还有足够算力？

@@ -10,7 +10,7 @@
 
 | 归档年 | 论文与导读 | PDF | 阅读问题 |
 | --- | --- | --- | --- |
-| 2002 | [Training Products of Experts by Minimizing Contrastive Divergence](2002-contrastive-divergence.md) | 文件下载或版本核验中 | 多个专家分布相乘后，归一化常数妨碍直接计算似然梯度，训练怎样继续？ |
+| 2002 | [Training Products of Experts by Minimizing Contrastive Divergence](2002-contrastive-divergence.md) | [PDF](../../pdfs/generative-models/2002-contrastive-divergence.pdf) | 多个专家分布相乘后，归一化常数妨碍直接计算似然梯度，训练怎样继续？ |
 | 2013 | [Auto-Encoding Variational Bayes](2013-vae.md) | 文件下载或版本核验中 | 如何训练带连续隐变量的生成模型？ |
 | 2016 | [Pixel Recurrent Neural Networks](2016-pixelrnn.md) | 文件下载或版本核验中 | 怎样为整幅图像写出可直接计算的概率，同时利用远处像素与颜色通道之间的依赖？ |
 

@@ -21,6 +21,8 @@ updated: 2026-11-21
 - 原始来源：[原文](https://www.cs.columbia.edu/~blei/papers/BleiJordan2003.pdf)
 - 官方代码：核对的原始资料中未确认论文配套实现。
 
+- 仓库内 PDF：[打开全文](../../pdfs/multimodal/2003-modeling-annotated-data.pdf)（Blei 与 Jordan，SIGIR 2003 论文）。
+
 ## 解决的问题
 
 一张图像配有一组说明词，却缺少逐词对应的区域标签，怎样学习图文关系？

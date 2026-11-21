@@ -10,25 +10,25 @@
 
 | 归档年 | 论文与导读 | PDF | 阅读问题 |
 | --- | --- | --- | --- |
-| 2004 | [MapReduce: Simplified Data Processing on Large Clusters](2004-mapreduce.md) | 文件下载或版本核验中 | 怎样让使用者编写集群批处理程序，同时把数据分区、调度和故障恢复交给运行时？ |
-| 2018 | [TVM: An Automated End-to-End Optimizing Compiler for Deep Learning](2018-tvm.md) | 文件下载或版本核验中 | 同一个计算图部署到不同硬件时，如何减少为每种设备手写高性能算子的工作？ |
+| 2004 | [MapReduce: Simplified Data Processing on Large Clusters](2004-mapreduce.md) | [PDF](../../pdfs/ml-systems/2004-mapreduce.pdf) | 怎样让使用者编写集群批处理程序，同时把数据分区、调度和故障恢复交给运行时？ |
+| 2018 | [TVM: An Automated End-to-End Optimizing Compiler for Deep Learning](2018-tvm.md) | [PDF](../../pdfs/ml-systems/2018-tvm.pdf) | 同一个计算图部署到不同硬件时，如何减少为每种设备手写高性能算子的工作？ |
 
 ## 推理与硬件效率
 
 | 归档年 | 论文与导读 | PDF | 阅读问题 |
 | --- | --- | --- | --- |
-| 2016 | [EIE: Efficient Inference Engine on Compressed Deep Neural Network](2016-eie.md) | 文件下载或版本核验中 | 剪枝和权重共享压缩了全连接层，但稀疏索引与不规则访存怎样在推理时真正节省能耗？ |
-| 2022 | [FlashAttention: Fast and Memory-Efficient Exact Attention with IO-Awareness](2022-flashattention.md) | 文件下载或版本核验中 | 精确注意力为何常被显存读写拖慢，即使 GPU 还有足够算力？ |
-| 2023 | [Efficient Memory Management for Large Language Model Serving with PagedAttention](2023-pagedattention.md) | 文件下载或版本核验中 | 并发请求的输出长度未知，提前留出连续 KV 缓存会损失多少可用显存？ |
-| 2024 | [FlashAttention-3: Fast and Accurate Attention with Asynchrony and Low-precision](2024-flashattention-3.md) | 文件下载或版本核验中 | 当访存已做分块优化，Hopper 上的注意力核还有哪些空闲周期？ |
-| 2026 | [Phantom: Temporal Caching for Diffusion Models](2026-phantom-temporal-caching.md) | 文件下载或版本核验中 | 扩散模型跨时间步反复执行网络，产生大量相似计算。论文研究如何将相邻步的激活相似性转化为硬件执行收益。摘要 |
+| 2016 | [EIE: Efficient Inference Engine on Compressed Deep Neural Network](2016-eie.md) | [PDF](../../pdfs/ml-systems/2016-eie.pdf) | 剪枝和权重共享压缩了全连接层，但稀疏索引与不规则访存怎样在推理时真正节省能耗？ |
+| 2022 | [FlashAttention: Fast and Memory-Efficient Exact Attention with IO-Awareness](2022-flashattention.md) | [PDF](../../pdfs/ml-systems/2022-flashattention.pdf) | 精确注意力为何常被显存读写拖慢，即使 GPU 还有足够算力？ |
+| 2023 | [Efficient Memory Management for Large Language Model Serving with PagedAttention](2023-pagedattention.md) | [PDF](../../pdfs/ml-systems/2023-pagedattention.pdf) | 并发请求的输出长度未知，提前留出连续 KV 缓存会损失多少可用显存？ |
+| 2024 | [FlashAttention-3: Fast and Accurate Attention with Asynchrony and Low-precision](2024-flashattention-3.md) | [PDF](../../pdfs/ml-systems/2024-flashattention-3.pdf) | 当访存已做分块优化，Hopper 上的注意力核还有哪些空闲周期？ |
+| 2026 | [Phantom: Temporal Caching for Diffusion Models](2026-phantom-temporal-caching.md) | [PDF](../../pdfs/ml-systems/2026-phantom-temporal-caching.pdf) | 扩散模型跨时间步反复执行网络，产生大量相似计算。论文研究如何将相邻步的激活相似性转化为硬件执行收益。摘要 |
 
 ## 高效训练与环境接口
 
 | 归档年 | 论文与导读 | PDF | 阅读问题 |
 | --- | --- | --- | --- |
-| 2023 | [QLoRA: Efficient Finetuning of Quantized LLMs](2023-qlora.md) | 文件下载或版本核验中 | 微调大模型时，单卡显存究竟被基础权重、可训练参数还是优化器占用？ |
-| 2026 | [Jaxnasium: Embracing PyTrees For Any-Agent, Cross-Suite Reinforcement Learning](2026-jaxnasium.md) | 文件下载或版本核验中 | JAX 强化学习环境的接口、观测与动作结构各异，研究者往往需要为不同环境重复编写算法适配代码。 |
+| 2023 | [QLoRA: Efficient Finetuning of Quantized LLMs](2023-qlora.md) | [PDF](../../pdfs/ml-systems/2023-qlora.pdf) | 微调大模型时，单卡显存究竟被基础权重、可训练参数还是优化器占用？ |
+| 2026 | [Jaxnasium: Embracing PyTrees For Any-Agent, Cross-Suite Reinforcement Learning](2026-jaxnasium.md) | [PDF](../../pdfs/ml-systems/2026-jaxnasium.pdf) | JAX 强化学习环境的接口、观测与动作结构各异，研究者往往需要为不同环境重复编写算法适配代码。 |
 
 ## 跨主题阅读
 

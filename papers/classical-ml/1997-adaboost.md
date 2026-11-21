@@ -21,6 +21,8 @@ updated: 2026-11-21
 - 原始来源：[DOI 出版入口](https://doi.org/10.1006/jcss.1997.1504) · [作者所属机构书目与摘要](https://collaborate.princeton.edu/en/publications/a-decision-theoretic-generalization-of-on-line-learning-and-an-ap/)。
 - 官方代码：本次核对的来源未提供作者代码，不将现代库实现当作原论文代码。
 
+- 仓库内 PDF：[打开全文](../../pdfs/classical-ml/1997-adaboost.pdf)（Freund 与 Schapire 作者稿，首页注明 1995 年会议曾发表摘要版）。
+
 ## 解决的问题
 
 如何在在线决策中按反馈调整资源分配，并利用这一思想把弱学习器组合为更强的分类器？

@@ -21,6 +21,8 @@ updated: 2026-11-21
 - 原始来源：[出版方页面](https://link.springer.com/article/10.1007/BF00994018) · [DOI](https://doi.org/10.1007/BF00994018)。
 - 官方代码：本次核对的出版页未提供作者实现；不将后来的通用机器学习库标作本论文官方代码。
 
+- 仓库内 PDF：[打开全文](../../pdfs/classical-ml/1995-support-vector-networks.pdf)（Machine Learning 20, 273–297 (1995)，期刊版）。
+
 ## 解决的问题
 
 当两类训练样本不能完全分开时，如何延续支持向量方法的分类思想？

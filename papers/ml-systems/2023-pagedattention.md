@@ -21,6 +21,8 @@ updated: 2026-11-21
 - 原始来源：[SOSP 2023 书目](https://doi.org/10.1145/3600006.3613165) · [arXiv 版本记录](https://arxiv.org/abs/2309.06180)。
 - 官方代码：已核对[作者项目仓库](https://github.com/vllm-project/vllm)。
 
+- 仓库内 PDF：[打开全文](../../pdfs/ml-systems/2023-pagedattention.pdf)（arXiv 2309.06180v1）。
+
 ## 解决的问题
 
 并发请求的输出长度未知，提前留出连续 KV 缓存会损失多少可用显存？

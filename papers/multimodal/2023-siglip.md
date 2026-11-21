@@ -21,6 +21,8 @@ updated: 2026-11-21
 - 原始来源：[ICCV 2023 书目](https://openaccess.thecvf.com/content/ICCV2023/html/Zhai_Sigmoid_Loss_for_Language_Image_Pre-Training_ICCV_2023_paper.html) · [arXiv 版本记录](https://arxiv.org/abs/2303.15343)。
 - 官方代码：已核对[作者项目仓库](https://github.com/google-research/big_vision)。
 
+- 仓库内 PDF：[打开全文](../../pdfs/multimodal/2023-siglip.pdf)（arXiv 2303.15343，PDF 制作于 2023-09-27，首页未标修订号）。
+
 ## 解决的问题
 
 图文双塔训练通常在整批相似度上归一化，成对匹配是否需要这个全局分母？

@@ -21,6 +21,8 @@ updated: 2026-11-21
 - 原始来源：[书目与摘要](https://arxiv.org/abs/2610.36075) · [v1 正文](https://arxiv.org/html/2610.36075v1)。
 - 官方代码：[ponseko/jaxnasium](https://github.com/ponseko/jaxnasium)；已核对作者链接及源码入口，未安装或运行。
 
+- 仓库内 PDF：[打开全文](../../pdfs/ml-systems/2026-jaxnasium.pdf)（arXiv 2610.36075v1）。
+
 ## 解决的问题
 
 JAX 强化学习环境的接口、观测与动作结构各异，研究者往往需要为不同环境重复编写算法适配代码。

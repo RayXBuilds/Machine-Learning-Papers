@@ -10,7 +10,7 @@
 
 | 归档年 | 论文与导读 | PDF | 阅读问题 |
 | --- | --- | --- | --- |
-| 1986 | [Learning representations by back-propagating errors](1986-backpropagation.md) | 文件下载或版本核验中 | 输出带有监督信号时，隐藏单元应怎样调整才能学到适合任务的表示？ |
+| 1986 | [Learning representations by back-propagating errors](1986-backpropagation.md) | [PDF](../../pdfs/deep-learning/1986-backpropagation.pdf) | 输出带有监督信号时，隐藏单元应怎样调整才能学到适合任务的表示？ |
 | 2010 | [Understanding the difficulty of training deep feedforward neural networks](2010-glorot-initialization.md) | [PDF](../../pdfs/deep-learning/2010-glorot-initialization.pdf) | 随机初始化时，为什么深层网络的部分隐层很快饱和，学习随后陷入长时间停滞？ |
 | 2011 | [Deep Sparse Rectifier Neural Networks](2011-deep-sparse-rectifiers.md) | [PDF](../../pdfs/deep-learning/2011-deep-sparse-rectifiers.pdf) | 深层监督网络能否直接学到含大量精确零值的表示，并减少对无监督预训练的依赖？ |
 | 2014 | [Dropout: A Simple Way to Prevent Neural Networks from Overfitting](2014-dropout.md) | [PDF](../../pdfs/deep-learning/2014-dropout.pdf) | 如何在神经网络训练中使用随机丢弃进行正则化？ |
@@ -21,7 +21,7 @@
 
 | 归档年 | 论文与导读 | PDF | 阅读问题 |
 | --- | --- | --- | --- |
-| 2006 | [Reducing the Dimensionality of Data with Neural Networks](2006-deep-autoencoder.md) | 文件下载或版本核验中 | 怎样训练具有窄瓶颈的深层网络，使高维输入经压缩后仍可重构？ |
+| 2006 | [Reducing the Dimensionality of Data with Neural Networks](2006-deep-autoencoder.md) | [PDF](../../pdfs/deep-learning/2006-deep-autoencoder.pdf) | 怎样训练具有窄瓶颈的深层网络，使高维输入经压缩后仍可重构？ |
 | 2010 | [Learning Fast Approximations of Sparse Coding](2010-lista.md) | [PDF](../../pdfs/deep-learning/2010-lista.pdf) | 每来一个样本都要迭代求解带 L1 惩罚的重构问题，在线提取稀疏特征的成本很高。 |
 | 2020 | [A Simple Framework for Contrastive Learning of Visual Representations](2020-simclr.md) | 文件下载或版本核验中 | 如何通过增强视图和对比目标学习无标签视觉表示？ |
 | 2020 | [Momentum Contrast for Unsupervised Visual Representation Learning](2020-moco.md) | [PDF](../../pdfs/deep-learning/2020-moco.pdf) | 对比学习需要大量负例，如何避免字典大小被单次训练的批量限制？ |

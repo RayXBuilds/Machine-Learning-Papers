@@ -21,6 +21,8 @@ updated: 2026-11-21
 - 原始来源：[ICML 会议版](https://proceedings.mlr.press/v97/recht19a) · [作者预印本](https://arxiv.org/abs/1902.10811)。
 - 官方代码：[作者项目](https://github.com/modestyachts/ImageNetV2)（ImageNetV2 数据与评估资源）。
 
+- 仓库内 PDF：[打开全文](../../pdfs/evaluation/2019-imagenetv2.pdf)（arXiv 1902.10811v2）。
+
 ## 解决的问题
 
 多年反复使用同一测试集后，模型进步能否在重新采集的图像上重现？

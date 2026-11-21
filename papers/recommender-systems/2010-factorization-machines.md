@@ -21,6 +21,8 @@ updated: 2026-11-21
 - 原始来源：[论文入口](https://doi.org/10.1109/ICDM.2010.127)
 - 官方代码：[作者项目](https://www.libfm.org/)
 
+- 仓库内 PDF：[打开全文](../../pdfs/recommender-systems/2010-factorization-machines.pdf)（Steffen Rendle 作者稿，ICDM 2010，PDF 创建于 2010-10-11）。
+
 ## 解决的问题
 
 用户、物品与上下文构成高维稀疏向量时，很多特征对几乎从未共同出现，怎样估计其交互？

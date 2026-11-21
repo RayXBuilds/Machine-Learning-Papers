@@ -21,6 +21,8 @@ updated: 2026-11-21
 - 原始来源：[arXiv 书目](https://arxiv.org/abs/2611.16097) · [v1 正文](https://arxiv.org/html/2611.16097v1)。
 - 官方代码：未在上述原始来源中找到本论文的官方代码链接。
 
+- 仓库内 PDF：[打开全文](../../pdfs/foundations/2026-online-smooth-calibration-lower-bound.pdf)（arXiv 2611.16097v1）。
+
 ## 解决的问题
 
 序贯二元预测中，平滑校准误差用 Lipschitz 测试函数度量预测残差。论文研究面对自适应对手时，任何预测器都无法避免多大的误差。[摘要](https://arxiv.org/abs/2611.16097)

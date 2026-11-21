@@ -21,6 +21,8 @@ updated: 2026-11-21
 - 原始来源：[arXiv 书目](https://arxiv.org/abs/2611.18008) · [v1 正文](https://arxiv.org/html/2611.18008v1)。
 - 官方代码：[φ-PICT](https://github.com/upb-sciml/phiPICT)，作者提供的可微流体求解器，集成 FluidGym。本库未运行代码。
 
+- 仓库内 PDF：[打开全文](../../pdfs/applications/2026-phipict.pdf)（arXiv 2611.18008v1）。
+
 ## 解决的问题
 
 液态金属磁流体的控制与逆向设计需要大量仿真。论文研究能否利用求解器梯度降低优化的样本需求。[摘要](https://arxiv.org/abs/2611.18008)

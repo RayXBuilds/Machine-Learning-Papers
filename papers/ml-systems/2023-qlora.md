@@ -21,6 +21,8 @@ updated: 2026-11-21
 - 原始来源：[NeurIPS 2023 书目](https://proceedings.neurips.cc/paper_files/paper/2023/hash/1feb87871436031bdc0f2beaa62a049b-Abstract.html) · [arXiv 版本记录](https://arxiv.org/abs/2305.14314)。
 - 官方代码：已核对[作者项目仓库](https://github.com/artidoro/qlora)。
 
+- 仓库内 PDF：[打开全文](../../pdfs/ml-systems/2023-qlora.pdf)（arXiv 2305.14314v1）。
+
 ## 解决的问题
 
 微调大模型时，单卡显存究竟被基础权重、可训练参数还是优化器占用？

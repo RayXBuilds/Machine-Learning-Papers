@@ -21,6 +21,8 @@ updated: 2026-11-21
 - 原始来源：[NeurIPS 2024 书目](https://proceedings.neurips.cc/paper/2024/hash/7ede97c3e082c6df10a8d6103a2eebd2-Abstract-Conference.html) · [arXiv 版本记录](https://arxiv.org/abs/2407.08608)。
 - 官方代码：已核对[作者项目仓库](https://github.com/Dao-AILab/flash-attention)。
 
+- 仓库内 PDF：[打开全文](../../pdfs/ml-systems/2024-flashattention-3.pdf)（会议论文集版（proceedings.neurips.cc））。
+
 ## 解决的问题
 
 当访存已做分块优化，Hopper 上的注意力核还有哪些空闲周期？

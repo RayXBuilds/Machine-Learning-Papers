@@ -21,6 +21,8 @@ updated: 2026-11-21
 - 原始来源：[原文](https://web.stanford.edu/class/ee398a/handouts/papers/Lloyd%20-%20Least%20Squares%20Q%20in%20PCM.pdf)
 - 官方代码：核对的原始资料中未确认论文配套实现。
 
+- 仓库内 PDF：[打开全文](../../pdfs/classical-ml/1982-lloyd-quantization.pdf)（IEEE Transactions on Information Theory 28(2)，1982 年 3 月期刊扫描版）。
+
 ## 解决的问题
 
 用有限个电平表示连续信号时，如何同时选定量化区间和各区间的代表值？

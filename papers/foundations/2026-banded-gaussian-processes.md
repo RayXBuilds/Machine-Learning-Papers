@@ -21,6 +21,8 @@ updated: 2026-11-21
 - 原始来源：[arXiv 书目](https://arxiv.org/abs/2611.16482) · [v1 正文](https://arxiv.org/html/2611.16482v1)。
 - 官方代码：未在上述原始来源中找到本论文的官方代码链接。
 
+- 仓库内 PDF：[打开全文](../../pdfs/foundations/2026-banded-gaussian-processes.pdf)（arXiv 2611.16482v1）。
+
 ## 解决的问题
 
 高斯过程回归的稠密矩阵计算限制了数据规模。论文研究按空间距离截断协方差后，需要保留多少邻域依赖，才能维持统计估计质量。[摘要](https://arxiv.org/abs/2611.16482)

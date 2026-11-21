@@ -21,6 +21,8 @@ updated: 2026-11-21
 - 原始来源：[Nature 2025 书目](https://www.nature.com/articles/s41586-025-09422-z) · [arXiv 版本记录](https://arxiv.org/abs/2501.12948)。
 - 官方代码：[团队发布仓库](https://github.com/deepseek-ai/DeepSeek-R1)提供权重入口和使用说明；完整强化学习训练实现未核实。
 
+- 仓库内 PDF：[打开全文](../../pdfs/reinforcement-learning/2025-deepseek-r1.pdf)（arXiv 2501.12948v2）。
+
 ## 解决的问题
 
 在答案可判定的任务上，只给结果奖励能否塑造更长的推理行为？

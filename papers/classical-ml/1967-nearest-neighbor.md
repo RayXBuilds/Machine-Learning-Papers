@@ -21,6 +21,8 @@ updated: 2026-11-21
 - 原始来源：[原文](https://isl.stanford.edu/~cover/papers/transIT/0021cove.pdf)
 - 官方代码：核对的原始资料中未确认论文配套实现。
 
+- 仓库内 PDF：[打开全文](../../pdfs/classical-ml/1967-nearest-neighbor.pdf)（IEEE Transactions on Information Theory，1967 年 1 月期刊扫描版）。
+
 ## 解决的问题
 
 只参考一个最近训练样本的类别，在样本趋于无穷时要付出多少误差代价？

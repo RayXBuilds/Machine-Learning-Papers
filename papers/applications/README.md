@@ -18,8 +18,8 @@
 
 | 归档年 | 论文与导读 | PDF | 阅读问题 |
 | --- | --- | --- | --- |
-| 2026 | [Relaxing Cross-Modal Correspondence for Multimodal Remote Sensing Pretraining](2026-sempair.md) | 文件下载或版本核验中 | 遥感多模态预训练常依赖逐实例配对的数据。论文考察放宽配对粒度后，表示能否仍然迁移到下游任务。摘要 |
-| 2026 | [Sample-Efficient Control of Magnetoconvective Flows via Differentiable Simulation](2026-phipict.md) | 文件下载或版本核验中 | 液态金属磁流体的控制与逆向设计需要大量仿真。论文研究能否利用求解器梯度降低优化的样本需求。摘要 |
+| 2026 | [Relaxing Cross-Modal Correspondence for Multimodal Remote Sensing Pretraining](2026-sempair.md) | [PDF](../../pdfs/applications/2026-sempair.pdf) | 遥感多模态预训练常依赖逐实例配对的数据。论文考察放宽配对粒度后，表示能否仍然迁移到下游任务。摘要 |
+| 2026 | [Sample-Efficient Control of Magnetoconvective Flows via Differentiable Simulation](2026-phipict.md) | [PDF](../../pdfs/applications/2026-phipict.pdf) | 液态金属磁流体的控制与逆向设计需要大量仿真。论文研究能否利用求解器梯度降低优化的样本需求。摘要 |
 
 ## 跨主题阅读
 

@@ -21,6 +21,8 @@ updated: 2026-11-21
 - 原始来源：[原文](https://doi.org/10.1162/089976602760128018) · [作者的早期报告](https://www.cs.toronto.edu/~hinton/absps/tr00-004.html)
 - 官方代码：核对的原始资料中未确认论文配套实现。
 
+- 仓库内 PDF：[打开全文](../../pdfs/generative-models/2002-contrastive-divergence.pdf)（Neural Computation 2002 期刊排印版）。
+
 ## 解决的问题
 
 多个专家分布相乘后，归一化常数妨碍直接计算似然梯度，训练怎样继续？

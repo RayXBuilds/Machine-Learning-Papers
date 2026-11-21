@@ -21,6 +21,8 @@ updated: 2026-11-21
 - 原始来源：[原文](https://www.usenix.org/conference/osdi-04/mapreduce-simplified-data-processing-large-clusters)
 - 官方代码：核对的原始资料中未确认论文配套实现。
 
+- 仓库内 PDF：[打开全文](../../pdfs/ml-systems/2004-mapreduce.pdf)（OSDI 2004，USENIX 正式论文集版）。
+
 ## 解决的问题
 
 怎样让使用者编写集群批处理程序，同时把数据分区、调度和故障恢复交给运行时？

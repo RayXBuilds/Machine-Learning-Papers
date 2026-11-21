@@ -22,6 +22,8 @@ updated: 2026-11-21
 - 原始来源：[原文](https://link.springer.com/article/10.1023/A:1010933404324)。
 - 官方代码：原导读未单独核实，本次编排未新增代码可用性声明。
 
+- 仓库内 PDF：[打开全文](../../pdfs/classical-ml/2001-random-forests.pdf)（Machine Learning 45, 5–32 (2001)，期刊版）。
+
 ## 解决的问题
 
 如何组合带随机性的决策树，并评估集成误差？

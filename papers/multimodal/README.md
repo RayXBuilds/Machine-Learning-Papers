@@ -10,16 +10,16 @@
 
 | 归档年 | 论文与导读 | PDF | 阅读问题 |
 | --- | --- | --- | --- |
-| 2003 | [Modeling Annotated Data](2003-modeling-annotated-data.md) | 文件下载或版本核验中 | 一张图像配有一组说明词，却缺少逐词对应的区域标签，怎样学习图文关系？ |
+| 2003 | [Modeling Annotated Data](2003-modeling-annotated-data.md) | [PDF](../../pdfs/multimodal/2003-modeling-annotated-data.pdf) | 一张图像配有一组说明词，却缺少逐词对应的区域标签，怎样学习图文关系？ |
 | 2015 | [Show, Attend and Tell: Neural Image Caption Generation with Visual Attention](2015-show-attend-tell.md) | 文件下载或版本核验中 | 生成图像描述时，每个词可能对应不同区域，单一的整图表示怎样提供这种局部信息？ |
-| 2022 | [BLIP: Bootstrapping Language-Image Pre-training for Unified Vision-Language Understanding and Generation](2022-blip.md) | 文件下载或版本核验中 | 同一个视觉语言模型怎样兼顾图文理解和生成，并利用标注嘈杂的网页图像？ |
+| 2022 | [BLIP: Bootstrapping Language-Image Pre-training for Unified Vision-Language Understanding and Generation](2022-blip.md) | [PDF](../../pdfs/multimodal/2022-blip.pdf) | 同一个视觉语言模型怎样兼顾图文理解和生成，并利用标注嘈杂的网页图像？ |
 
 ## 图文对齐
 
 | 归档年 | 论文与导读 | PDF | 阅读问题 |
 | --- | --- | --- | --- |
-| 2021 | [Learning Transferable Visual Models From Natural Language Supervision](2021-clip.md) | 文件下载或版本核验中 | 如何通过图文对比学习构造零样本图像分类器？ |
-| 2023 | [Sigmoid Loss for Language Image Pre-Training](2023-siglip.md) | 文件下载或版本核验中 | 图文双塔训练通常在整批相似度上归一化，成对匹配是否需要这个全局分母？ |
+| 2021 | [Learning Transferable Visual Models From Natural Language Supervision](2021-clip.md) | [PDF](../../pdfs/multimodal/2021-clip.pdf) | 如何通过图文对比学习构造零样本图像分类器？ |
+| 2023 | [Sigmoid Loss for Language Image Pre-Training](2023-siglip.md) | [PDF](../../pdfs/multimodal/2023-siglip.pdf) | 图文双塔训练通常在整批相似度上归一化，成对匹配是否需要这个全局分母？ |
 
 ## 跨主题阅读
 

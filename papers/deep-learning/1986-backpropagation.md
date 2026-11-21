@@ -21,6 +21,8 @@ updated: 2026-11-21
 - 原始来源：[原文](https://www.cs.toronto.edu/~hinton/absps/naturebp.pdf)
 - 官方代码：核对的原始资料中未确认论文配套实现。
 
+- 仓库内 PDF：[打开全文](../../pdfs/deep-learning/1986-backpropagation.pdf)（Nature 323 (1986)，论文自扫描首页第 533 页下半页开始）。
+
 ## 解决的问题
 
 输出带有监督信号时，隐藏单元应怎样调整才能学到适合任务的表示？

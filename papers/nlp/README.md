@@ -11,7 +11,7 @@
 | 归档年 | 论文与导读 | PDF | 阅读问题 |
 | --- | --- | --- | --- |
 | 2003 | [Latent Dirichlet Allocation](2003-lda.md) | [PDF](../../pdfs/nlp/2003-lda.pdf) | 一篇文档可能同时涉及多个主题，怎样从无标注词频中估计主题及其混合比例？ |
-| 2013 | [Efficient Estimation of Word Representations in Vector Space](2013-word2vec.md) | 文件下载或版本核验中 | 如何通过词预测任务学习分布式词表示？ |
+| 2013 | [Efficient Estimation of Word Representations in Vector Space](2013-word2vec.md) | [PDF](../../pdfs/nlp/2013-word2vec.pdf) | 如何通过词预测任务学习分布式词表示？ |
 | 2014 | [GloVe: Global Vectors for Word Representation](2014-glove.md) | 文件下载或版本核验中 | 怎样把全语料的共现关系编码进低维向量，同时控制极常见词对对目标函数的影响？ |
 
 ## 序列建模与预训练
@@ -19,9 +19,9 @@
 | 归档年 | 论文与导读 | PDF | 阅读问题 |
 | --- | --- | --- | --- |
 | 2014 | [Sequence to Sequence Learning with Neural Networks](2014-seq2seq.md) | [PDF](../../pdfs/nlp/2014-seq2seq.pdf) | 如何用编码器与解码器处理变长序列？ |
-| 2015 | [Neural Machine Translation by Jointly Learning to Align and Translate](2015-bahdanau-attention.md) | 文件下载或版本核验中 | 把整句压缩成单一向量后，译到句末时解码器如何找回与当前目标词有关的信息？ |
+| 2015 | [Neural Machine Translation by Jointly Learning to Align and Translate](2015-bahdanau-attention.md) | [PDF](../../pdfs/nlp/2015-bahdanau-attention.pdf) | 把整句压缩成单一向量后，译到句末时解码器如何找回与当前目标词有关的信息？ |
 | 2017 | [Attention Is All You Need](2017-transformer.md) | [PDF](../../pdfs/nlp/2017-transformer.pdf) | 如何利用注意力进行不依赖递归的序列建模？ |
-| 2019 | [BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding](2019-bert.md) | 文件下载或版本核验中 | 如何学习双向上下文表示并用于下游微调？ |
+| 2019 | [BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding](2019-bert.md) | [PDF](../../pdfs/nlp/2019-bert.pdf) | 如何学习双向上下文表示并用于下游微调？ |
 
 ## 检索与知识增强
 
@@ -34,16 +34,16 @@
 
 | 归档年 | 论文与导读 | PDF | 阅读问题 |
 | --- | --- | --- | --- |
-| 2021 | [LoRA: Low-Rank Adaptation of Large Language Models](2021-lora.md) | 文件下载或版本核验中 | 如何通过低秩增量减少适配时的训练参数？ |
-| 2022 | [Training language models to follow instructions with human feedback](2022-instructgpt.md) | 文件下载或版本核验中 | 如何利用监督数据与人类偏好调整语言模型？ |
-| 2023 | [Direct Preference Optimization: Your Language Model is Secretly a Reward Model](2023-dpo.md) | 文件下载或版本核验中 | 已有同一提示下两份答案的偏好标注，怎样直接更新回答策略？ |
-| 2025 | [s1: Simple test-time scaling](2025-s1.md) | 文件下载或版本核验中 | 如何区分训练样本筛选的作用与推理时增加计算预算的作用？ |
+| 2021 | [LoRA: Low-Rank Adaptation of Large Language Models](2021-lora.md) | [PDF](../../pdfs/nlp/2021-lora.pdf) | 如何通过低秩增量减少适配时的训练参数？ |
+| 2022 | [Training language models to follow instructions with human feedback](2022-instructgpt.md) | [PDF](../../pdfs/nlp/2022-instructgpt.pdf) | 如何利用监督数据与人类偏好调整语言模型？ |
+| 2023 | [Direct Preference Optimization: Your Language Model is Secretly a Reward Model](2023-dpo.md) | [PDF](../../pdfs/nlp/2023-dpo.pdf) | 已有同一提示下两份答案的偏好标注，怎样直接更新回答策略？ |
+| 2025 | [s1: Simple test-time scaling](2025-s1.md) | [PDF](../../pdfs/nlp/2025-s1.pdf) | 如何区分训练样本筛选的作用与推理时增加计算预算的作用？ |
 
 ## 生成可靠性
 
 | 归档年 | 论文与导读 | PDF | 阅读问题 |
 | --- | --- | --- | --- |
-| 2026 | [S-EDL: Eliciting Self-Evidence from Sequence Likelihoods for Semantic Calibration of LLMs](2026-s-edl.md) | 文件下载或版本核验中 | 开放生成中，不同文本可能表达同一含义，固定类别或单一字符串的置信度难以直接衡量语义正确性。 |
+| 2026 | [S-EDL: Eliciting Self-Evidence from Sequence Likelihoods for Semantic Calibration of LLMs](2026-s-edl.md) | [PDF](../../pdfs/nlp/2026-s-edl.pdf) | 开放生成中，不同文本可能表达同一含义，固定类别或单一字符串的置信度难以直接衡量语义正确性。 |
 
 ## 跨主题阅读
 

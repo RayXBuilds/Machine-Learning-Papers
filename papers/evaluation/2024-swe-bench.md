@@ -21,6 +21,8 @@ updated: 2026-11-21
 - 原始来源：[ICLR 2024 书目](https://proceedings.iclr.cc/paper_files/paper/2024/hash/edac78c3e300629acfe6cbe9ca88fb84-Abstract-Conference.html) · [arXiv 版本记录](https://arxiv.org/abs/2310.06770)。
 - 官方代码：已核对[作者项目仓库](https://github.com/SWE-bench/SWE-bench)。
 
+- 仓库内 PDF：[打开全文](../../pdfs/evaluation/2024-swe-bench.pdf)（会议论文集版（proceedings.iclr.cc））。
+
 ## 解决的问题
 
 单函数代码题的分数能否反映修复真实代码库问题的能力？

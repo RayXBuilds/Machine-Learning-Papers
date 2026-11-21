@@ -7,9 +7,14 @@ added: 2026-11-21
 verified: 2026-11-21
 source: https://jmlr.org/papers/v12/duchi11a.html
 status: summary
+catalog_year: 2011
+subtopic: "正则化、优化与学习理论"
+updated: 2026-11-21
 ---
 
 # Adaptive Subgradient Methods for Online Learning and Stochastic Optimization
+
+[主题目录](README.md) · [年份导航](../../docs/years/README.md) · [学习路线](../../docs/reading-paths.md)
 
 - 作者：John Duchi、Elad Hazan、Yoram Singer
 - 年份与版本：JMLR 12，2011 年；本文采用期刊版。

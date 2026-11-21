@@ -7,9 +7,14 @@ added: 2026-11-21
 verified: 2026-11-21
 source: https://proceedings.neurips.cc/paper_files/paper/2025/hash/57bc0a850255e2041341bf74c7e2b9fa-Abstract-Conference.html
 status: summary
+catalog_year: 2025
+subtopic: "分类与视觉表征"
+updated: 2026-11-21
 ---
 
 # Perception Encoder: The best visual embeddings are not at the output of the network
+
+[主题目录](README.md) · [年份导航](../../docs/years/README.md) · [学习路线](../../docs/reading-paths.md)
 
 - 作者：Daniel Bolya、Po-Yao Huang、Peize Sun 等（完整署名见原文）。
 - 年份与版本：NeurIPS 2025。arXiv 首版提交于 2025-04-17。

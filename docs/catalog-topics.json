@@ -1,0 +1,169 @@
+{
+  "foundations": {
+    "name": "数学、学习理论与概率模型",
+    "scope": "学习理论、优化、概率推断、图模型",
+    "groups": [
+      "概率推断与图模型",
+      "正则化、优化与学习理论"
+    ],
+    "english_name": "Mathematics, Learning Theory & Probabilistic Models",
+    "english_scope": "Learning theory, optimization, probabilistic inference, graphical models",
+    "archive_count": 9
+  },
+  "classical-ml": {
+    "name": "传统机器学习",
+    "scope": "分类、回归、集成、聚类、特征选择、主动/在线/迁移学习",
+    "groups": [
+      "分类与集成",
+      "聚类与降维",
+      "表格学习与迁移"
+    ],
+    "english_name": "Classical Machine Learning",
+    "english_scope": "Classification, regression, ensembles, clustering, feature selection, active/online/transfer learning",
+    "archive_count": 34
+  },
+  "deep-learning": {
+    "name": "深度学习与表征学习",
+    "scope": "网络训练、初始化、优化、自监督表征与高效结构",
+    "groups": [
+      "网络训练与优化",
+      "表征与自监督",
+      "结构与效率"
+    ],
+    "english_name": "Deep Learning & Representation Learning",
+    "english_scope": "Training, initialization, optimization, self-supervised representations and efficient architectures",
+    "archive_count": 3
+  },
+  "computer-vision": {
+    "name": "计算机视觉",
+    "scope": "图像分类、检测、跟踪、人体运动、视觉编码器",
+    "groups": [
+      "局部特征与描述符",
+      "分类与视觉表征",
+      "检测、分割与人体理解"
+    ],
+    "english_name": "Computer Vision",
+    "english_scope": "Image classification, detection, tracking, human motion, visual encoders",
+    "archive_count": 7
+  },
+  "nlp": {
+    "name": "自然语言处理与大语言模型",
+    "scope": "文本、序列、语言模型、检索增强、适配与对齐",
+    "groups": [
+      "词表示与主题模型",
+      "序列建模与预训练",
+      "检索与知识增强",
+      "适配、对齐与推理",
+      "生成可靠性"
+    ],
+    "english_name": "Natural Language Processing & Large Language Models",
+    "english_scope": "Text, sequences, language models, retrieval augmentation, adaptation, alignment",
+    "archive_count": 15
+  },
+  "generative-models": {
+    "name": "生成模型",
+    "scope": "能量模型、VAE、GAN、自回归、扩散、流与世界模型",
+    "groups": [
+      "能量模型、变分与自回归",
+      "对抗生成",
+      "扩散、流与世界模型"
+    ],
+    "english_name": "Generative Models",
+    "english_scope": "Energy models, VAEs, GANs, autoregression, diffusion, flows and world models",
+    "archive_count": 0
+  },
+  "multimodal": {
+    "name": "多模态学习",
+    "scope": "图文对齐、图像描述与跨模态表示",
+    "groups": [
+      "图文建模与生成描述",
+      "图文对齐"
+    ],
+    "english_name": "Multimodal Learning",
+    "english_scope": "Image–text alignment, captioning and cross-modal representations",
+    "archive_count": 0
+  },
+  "reinforcement-learning": {
+    "name": "强化学习与决策",
+    "scope": "策略/价值学习、Bandit、规划",
+    "groups": [
+      "价值学习",
+      "策略优化与连续控制",
+      "离线决策与语言推理",
+      "安全约束"
+    ],
+    "english_name": "Reinforcement Learning & Decision-Making",
+    "english_scope": "Policy and value learning, bandits, planning",
+    "archive_count": 6
+  },
+  "graph-learning": {
+    "name": "图学习与网络分析",
+    "scope": "图神经网络、社区发现、链接挖掘",
+    "groups": [
+      "图划分与嵌入",
+      "图神经网络",
+      "图学习评估"
+    ],
+    "english_name": "Graph Learning & Network Analysis",
+    "english_scope": "Graph neural networks, community detection, link mining",
+    "archive_count": 9
+  },
+  "recommender-systems": {
+    "name": "推荐系统",
+    "scope": "协同过滤、矩阵分解、ALS、神经推荐",
+    "groups": [
+      "协同过滤与交互建模",
+      "序列与语言模型推荐",
+      "科研资源推荐"
+    ],
+    "english_name": "Recommender Systems",
+    "english_scope": "Collaborative filtering, matrix factorization, ALS, neural recommendation",
+    "archive_count": 6
+  },
+  "ml-systems": {
+    "name": "机器学习系统",
+    "scope": "分布式数据处理、编译、高效训练、推理加速与环境接口",
+    "groups": [
+      "数据处理与编译",
+      "推理与硬件效率",
+      "高效训练与环境接口"
+    ],
+    "english_name": "Machine Learning Systems",
+    "english_scope": "Distributed data processing, compilers, efficient training, inference and environment interfaces",
+    "archive_count": 10
+  },
+  "data-mining": {
+    "name": "数据挖掘与数据管理",
+    "scope": "异常检测、时序、流数据、模式挖掘与数据管理",
+    "groups": [
+      "异常检测",
+      "时序预测与验证"
+    ],
+    "english_name": "Data Mining & Data Management",
+    "english_scope": "Anomaly detection, time series, data streams, pattern mining and data management",
+    "archive_count": 25
+  },
+  "applications": {
+    "name": "领域应用",
+    "scope": "机器人、生物信息、金融、可持续发展、业务应用",
+    "groups": [
+      "机器人与具身控制",
+      "科学计算与遥感"
+    ],
+    "english_name": "Domain Applications",
+    "english_scope": "Robotics, bioinformatics, finance, sustainability, business applications",
+    "archive_count": 20
+  },
+  "evaluation": {
+    "name": "评估与实验方法",
+    "scope": "实验设计、A/B 测试、验证与指标",
+    "groups": [
+      "实验设计与数据有效性",
+      "校准、不确定性与性能估计",
+      "模型评审与评估预算"
+    ],
+    "english_name": "Evaluation & Experimental Methods",
+    "english_scope": "Experimental design, A/B testing, validation, metrics",
+    "archive_count": 3
+  }
+}

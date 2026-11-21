@@ -7,9 +7,14 @@ added: 2026-11-21
 verified: 2026-11-21
 source: https://www.cs.toronto.edu/~hinton/absps/naturebp.pdf
 status: summary
+catalog_year: 1986
+subtopic: "网络训练与优化"
+updated: 2026-11-21
 ---
 
 # Learning representations by back-propagating errors
+
+[主题目录](README.md) · [年份导航](../../docs/years/README.md) · [学习路线](../../docs/reading-paths.md)
 
 - 作者：David E. Rumelhart、Geoffrey E. Hinton、Ronald J. Williams
 - 年份与版本：1986 年，Nature 323, 533–536。

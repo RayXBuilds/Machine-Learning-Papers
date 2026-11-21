@@ -7,9 +7,14 @@ added: 2026-11-21
 verified: 2026-11-21
 source: https://proceedings.mlr.press/v202/song23a.html
 status: summary
+catalog_year: 2023
+subtopic: "扩散、流与世界模型"
+updated: 2026-11-21
 ---
 
 # Consistency Models
+
+[主题目录](README.md) · [年份导航](../../docs/years/README.md) · [学习路线](../../docs/reading-paths.md)
 
 - 作者：Yang Song、Prafulla Dhariwal、Mark Chen、Ilya Sutskever。
 - 年份与版本：ICML 2023。arXiv 首版提交于 2023-03-02。

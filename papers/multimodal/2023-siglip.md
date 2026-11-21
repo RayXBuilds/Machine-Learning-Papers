@@ -7,9 +7,14 @@ added: 2026-11-21
 verified: 2026-11-21
 source: https://openaccess.thecvf.com/content/ICCV2023/html/Zhai_Sigmoid_Loss_for_Language_Image_Pre-Training_ICCV_2023_paper.html
 status: summary
+catalog_year: 2023
+subtopic: "图文对齐"
+updated: 2026-11-21
 ---
 
 # Sigmoid Loss for Language Image Pre-Training
+
+[主题目录](README.md) · [年份导航](../../docs/years/README.md) · [学习路线](../../docs/reading-paths.md)
 
 - 作者：Xiaohua Zhai、Basil Mustafa、Alexander Kolesnikov、Lucas Beyer。
 - 年份与版本：ICCV 2023。arXiv 首版提交于 2023-03-27。

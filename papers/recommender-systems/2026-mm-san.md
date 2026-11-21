@@ -7,9 +7,14 @@ added: 2026-11-06
 verified: 2026-11-06
 source: https://arxiv.org/abs/2611.05071
 status: summary
+catalog_year: 2026
+subtopic: "科研资源推荐"
+updated: 2026-11-21
 ---
 
 # Dataset Recommendation for Heterogeneous and Dynamic Scholarly Graphs via Multimodal Representation Learning
+
+[主题目录](README.md) · [年份导航](../../docs/years/README.md) · [学习路线](../../docs/reading-paths.md)
 
 - 作者为 Ornella Irrera、Matteo Lissandrini、Daniele Dell’Aglio、Gianmaria Silvello。
 - 年份采用预印本 v1 的 2026 年，首次提交于 2026-11-03。原文首页注明已获 ACM Transactions on Recommender Systems 接收，正式卷期、出版日期及出版 DOI 待核实。当前导读对应 [arXiv v1](https://arxiv.org/abs/2611.05071v1)。

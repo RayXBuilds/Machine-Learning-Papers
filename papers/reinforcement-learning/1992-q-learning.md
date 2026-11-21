@@ -7,9 +7,14 @@ added: 2026-11-21
 verified: 2026-11-21
 source: https://www.gatsby.ucl.ac.uk/~dayan/papers/cjch.pdf
 status: summary
+catalog_year: 1992
+subtopic: "价值学习"
+updated: 2026-11-21
 ---
 
 # Q-learning
+
+[主题目录](README.md) · [年份导航](../../docs/years/README.md) · [学习路线](../../docs/reading-paths.md)
 
 - 作者：Christopher J. C. H. Watkins、Peter Dayan
 - 年份与版本：1992 年，Machine Learning 8, 279–292。本文给出 Q-learning 收敛性分析，算法见 Watkins 的 1989 年早期工作。

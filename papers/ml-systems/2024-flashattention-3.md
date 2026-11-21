@@ -7,9 +7,14 @@ added: 2026-11-21
 verified: 2026-11-21
 source: https://proceedings.neurips.cc/paper/2024/hash/7ede97c3e082c6df10a8d6103a2eebd2-Abstract-Conference.html
 status: summary
+catalog_year: 2024
+subtopic: "推理与硬件效率"
+updated: 2026-11-21
 ---
 
 # FlashAttention-3: Fast and Accurate Attention with Asynchrony and Low-precision
+
+[主题目录](README.md) · [年份导航](../../docs/years/README.md) · [学习路线](../../docs/reading-paths.md)
 
 - 作者：Jay Shah、Ganesh Bikshandi、Ying Zhang、Vijay Thakkar、Pradeep Ramani、Tri Dao。
 - 年份与版本：NeurIPS 2024。arXiv 首版提交于 2024-07-11。

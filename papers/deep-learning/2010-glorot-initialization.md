@@ -7,9 +7,14 @@ added: 2026-11-21
 verified: 2026-11-21
 source: https://proceedings.mlr.press/v9/glorot10a.html
 status: summary
+catalog_year: 2010
+subtopic: "网络训练与优化"
+updated: 2026-11-21
 ---
 
 # Understanding the difficulty of training deep feedforward neural networks
+
+[主题目录](README.md) · [年份导航](../../docs/years/README.md) · [学习路线](../../docs/reading-paths.md)
 
 - 作者：Xavier Glorot、Yoshua Bengio
 - 年份与版本：AISTATS 2010。

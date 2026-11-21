@@ -7,9 +7,14 @@ added: 2026-11-21
 verified: 2026-11-21
 source: https://academic.oup.com/jrsssb/article/58/1/267/7027929
 status: summary
+catalog_year: 1996
+subtopic: "正则化、优化与学习理论"
+updated: 2026-11-21
 ---
 
 # Regression Shrinkage and Selection Via the Lasso
+
+[主题目录](README.md) · [年份导航](../../docs/years/README.md) · [学习路线](../../docs/reading-paths.md)
 
 - 作者：Robert Tibshirani
 - 年份与版本：1996 年，Journal of the Royal Statistical Society, Series B 58(1), 267–288。

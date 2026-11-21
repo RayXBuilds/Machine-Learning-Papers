@@ -7,9 +7,14 @@ added: 2026-11-10
 verified: 2026-11-10
 source: https://arxiv.org/abs/2611.06019
 status: summary
+catalog_year: 2026
+subtopic: "推理与硬件效率"
+updated: 2026-11-21
 ---
 
 # Phantom: Temporal Caching for Diffusion Models
+
+[主题目录](README.md) · [年份导航](../../docs/years/README.md) · [学习路线](../../docs/reading-paths.md)
 
 - 作者为 Yuzhe Fu、Cong Guo、Zishan Shao、Bowen Duan、Chiyue Wei、Haoxuan Shan、Ting Jiang、Hancheng Ye、Jonathan Ku、Changchun Zhou、Hai “Helen” Li、Yiran Chen。
 - 年份采用预印本 v1 的 2026 年，首次提交于 2026-11-04（UTC）。当前核对版本为 v1，书目页未列出正式会议或期刊。[书目页](https://arxiv.org/abs/2611.06019)

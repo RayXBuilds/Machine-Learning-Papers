@@ -7,9 +7,14 @@ added: 2026-10-27
 verified: 2026-10-27
 source: https://academic.oup.com/jrsssb/article-abstract/39/1/1/7027539
 status: summary
+catalog_year: 1977
+subtopic: "概率推断与图模型"
+updated: 2026-11-21
 ---
 
 # Maximum Likelihood from Incomplete Data Via the EM Algorithm
+
+[主题目录](README.md) · [年份导航](../../docs/years/README.md) · [学习路线](../../docs/reading-paths.md)
 
 - 作者：A. P. Dempster、N. M. Laird、D. B. Rubin。
 - 年份与版本：1977 年，Journal of the Royal Statistical Society: Series B (Methodological)，39(1)：1–22，正式期刊论文。出版页另列 2018-12-05 在线发布日，文件年份采用原卷期年份 1977。

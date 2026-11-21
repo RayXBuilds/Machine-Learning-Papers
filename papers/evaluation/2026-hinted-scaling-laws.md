@@ -7,9 +7,14 @@ added: 2026-11-07
 verified: 2026-11-07
 source: https://arxiv.org/abs/2611.02270
 status: summary
+catalog_year: 2026
+subtopic: "校准、不确定性与性能估计"
+updated: 2026-11-21
 ---
 
 # Hinted Scaling Laws
+
+[主题目录](README.md) · [年份导航](../../docs/years/README.md) · [学习路线](../../docs/reading-paths.md)
 
 - 作者为 Suze van Adrichem、Luke Bailey、Rohith Kuditipudi、Christine Ye、Neil Band、Ahmed Ahmed、John Duchi、Percy Liang、Tatsunori Hashimoto。
 - 年份采用预印本 v1 的 2026 年，首次提交于 2026-11-01（UTC），当前核对版本为 v1。状态为 arXiv 预印本，正式会议或期刊接收信息待核实。[书目页](https://arxiv.org/abs/2611.02270)

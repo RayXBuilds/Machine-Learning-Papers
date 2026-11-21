@@ -7,9 +7,14 @@ added: 2026-11-08
 verified: 2026-11-08
 source: https://arxiv.org/abs/2611.03454
 status: summary
+catalog_year: 2026
+subtopic: "扩散、流与世界模型"
+updated: 2026-11-21
 ---
 
 # Online Class Posteriors for Interpretable and Controllable Discrete Diffusion
+
+[主题目录](README.md) · [年份导航](../../docs/years/README.md) · [学习路线](../../docs/reading-paths.md)
 
 - 作者为 Felix Koulischer、Gianni Van De Velde、François Remy、Chris Develder、Thomas Demeester。
 - 年份采用预印本 v1 的 2026 年，首次提交于 2026-11-02（UTC）。当前核对版本为 v1，来源注明 ICLR 2027 在审，正式接收信息待核实。[书目页](https://arxiv.org/abs/2611.03454)

@@ -1,0 +1,32 @@
+{
+  "date": "2026-11-21",
+  "kind": "editorial-reorganization",
+  "reformatted_guides": [
+    "papers/classical-ml/2001-random-forests.md",
+    "papers/classical-ml/2016-xgboost.md",
+    "papers/computer-vision/2012-alexnet.md",
+    "papers/computer-vision/2016-resnet.md",
+    "papers/computer-vision/2021-vit.md",
+    "papers/deep-learning/2014-dropout.md",
+    "papers/deep-learning/2015-adam.md",
+    "papers/deep-learning/2015-batch-normalization.md",
+    "papers/deep-learning/2020-simclr.md",
+    "papers/generative-models/2013-vae.md",
+    "papers/generative-models/2014-gan.md",
+    "papers/generative-models/2020-ddpm.md",
+    "papers/generative-models/2022-latent-diffusion.md",
+    "papers/graph-learning/2017-gcn.md",
+    "papers/multimodal/2021-clip.md",
+    "papers/nlp/2013-word2vec.md",
+    "papers/nlp/2014-seq2seq.md",
+    "papers/nlp/2017-transformer.md",
+    "papers/nlp/2019-bert.md",
+    "papers/nlp/2020-rag.md",
+    "papers/nlp/2021-lora.md",
+    "papers/nlp/2022-instructgpt.md",
+    "papers/recommender-systems/2017-ncf.md",
+    "papers/reinforcement-learning/2015-dqn.md",
+    "papers/reinforcement-learning/2017-ppo.md",
+    "papers/reinforcement-learning/2018-sac.md"
+  ]
+}

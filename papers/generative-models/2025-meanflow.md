@@ -7,9 +7,14 @@ added: 2026-11-21
 verified: 2026-11-21
 source: https://proceedings.neurips.cc/paper_files/paper/2025/hash/6d13e085b79d454da5910e4ca82a3d9d-Abstract-Conference.html
 status: summary
+catalog_year: 2025
+subtopic: "扩散、流与世界模型"
+updated: 2026-11-21
 ---
 
 # Mean Flows for One-step Generative Modeling
+
+[主题目录](README.md) · [年份导航](../../docs/years/README.md) · [学习路线](../../docs/reading-paths.md)
 
 - 作者：Zhengyang Geng、Mingyang Deng、Xingjian Bai、J. Zico Kolter、Kaiming He。
 - 年份与版本：NeurIPS 2025。arXiv 首版提交于 2025-05-19。

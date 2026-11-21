@@ -7,9 +7,14 @@ added: 2026-11-11
 verified: 2026-11-11
 source: https://arxiv.org/abs/2611.08273
 status: summary
+catalog_year: 2026
+subtopic: "安全约束"
+updated: 2026-11-21
 ---
 
 # Accelerating Safe Reinforcement Learning with Massive Parallelism
+
+[主题目录](README.md) · [年份导航](../../docs/years/README.md) · [学习路线](../../docs/reading-paths.md)
 
 - 作者为 Joonyoung Lim、Younghwan Yoo。
 - 年份采用 2026 年，arXiv v1 首次提交于 2026-11-05（UTC）。当前核对版本为 v1，作者书目备注注明已被 NeurIPS 2026 接收，正式会议出版页待核实。[书目页](https://arxiv.org/abs/2611.08273)

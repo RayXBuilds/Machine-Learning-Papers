@@ -7,9 +7,14 @@ added: 2026-11-21
 verified: 2026-11-21
 source: https://www.cs.toronto.edu/~hinton/absps/science.pdf
 status: summary
+catalog_year: 2006
+subtopic: "表征与自监督"
+updated: 2026-11-21
 ---
 
 # Reducing the Dimensionality of Data with Neural Networks
+
+[主题目录](README.md) · [年份导航](../../docs/years/README.md) · [学习路线](../../docs/reading-paths.md)
 
 - 作者：Geoffrey E. Hinton、Ruslan R. Salakhutdinov
 - 年份与版本：2006 年，Science 313, 504–507。

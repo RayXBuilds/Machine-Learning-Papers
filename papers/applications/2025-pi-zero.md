@@ -7,9 +7,14 @@ added: 2026-11-21
 verified: 2026-11-21
 source: https://roboticsproceedings.org/rss21/p010.html
 status: summary
+catalog_year: 2025
+subtopic: "机器人与具身控制"
+updated: 2026-11-21
 ---
 
 # π₀: A Vision-Language-Action Flow Model for General Robot Control
+
+[主题目录](README.md) · [年份导航](../../docs/years/README.md) · [学习路线](../../docs/reading-paths.md)
 
 - 作者：Kevin Black、Noah Brown、Danny Driess 等（完整署名见原文）。
 - 年份与版本：RSS 2025。arXiv 首版提交于 2024-10-31。正式发表在次年；此处讨论初代 π₀。

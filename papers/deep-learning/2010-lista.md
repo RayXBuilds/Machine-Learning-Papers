@@ -7,9 +7,14 @@ added: 2026-11-21
 verified: 2026-11-21
 source: https://icml.cc/2010/papers/449.pdf
 status: summary
+catalog_year: 2010
+subtopic: "表征与自监督"
+updated: 2026-11-21
 ---
 
 # Learning Fast Approximations of Sparse Coding
+
+[主题目录](README.md) · [年份导航](../../docs/years/README.md) · [学习路线](../../docs/reading-paths.md)
 
 - 作者：Karol Gregor、Yann LeCun
 - 年份与版本：ICML 2010。

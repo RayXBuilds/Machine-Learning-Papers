@@ -7,9 +7,14 @@ added: 2026-11-15
 verified: 2026-11-15
 source: https://arxiv.org/abs/2611.04000
 status: summary
+catalog_year: 2026
+subtopic: "实验设计与数据有效性"
+updated: 2026-11-21
 ---
 
 # Revisiting Elliptic++ for Bitcoin Forensics: Feature Reconstruction and Leakage-Resistant Evaluation
+
+[主题目录](README.md) · [年份导航](../../docs/years/README.md) · [学习路线](../../docs/reading-paths.md)
 
 - 作者：Runlin Liang、Simon Trimborn、Noud van Giersbergen。
 - 年份与版本：2026 按预印本 v1 年份。首次提交于 2026-11-02（UTC），核对时为 v1。未核实会议或期刊接收信息。

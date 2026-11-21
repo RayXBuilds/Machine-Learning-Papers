@@ -4,9 +4,11 @@
 
 **Machine learning papers, Chinese reading guides, and an archival library, organized by topic.**
 
-[Browse by topic](papers/README.md) · [Historical additions by year](docs/backfill/README.md) · [Classic reading paths](docs/classics.md) · [Daily additions](docs/daily/README.md) · [Archived PDFs](library/README.md) · [Contribution guide](CONTRIBUTING.md)
+[Browse by year](docs/years/README.md) · [Learning paths](docs/reading-paths.md) · [Browse by topic](papers/README.md) · [Historical additions by year](docs/backfill/README.md) · [Classic reading paths](docs/classics.md) · [Daily additions](docs/daily/README.md) · [Archived PDFs](library/README.md) · [Contribution guide](CONTRIBUTING.md)
 
 This README provides an English overview. Reading guides, topic indexes, daily records, and contribution instructions are currently written primarily in Chinese; paper links lead to the original sources.
+
+Browse subtopics within each field, use the full-library year index, or follow a learning path. Canonical article paths and archival files remain stable. [Editorial reorganization notes (Chinese)](docs/organization.md).
 
 ## Where to start
 
@@ -21,16 +23,16 @@ This README provides an English overview. Reading guides, topic indexes, daily r
 | --- | --- | ---: | ---: |
 | [Mathematics, Learning Theory & Probabilistic Models](papers/foundations/README.md) | Learning theory, optimization, probabilistic inference, graphical models | 7 | 9 |
 | [Classical Machine Learning](papers/classical-ml/README.md) | Classification, regression, ensembles, clustering, feature selection, active/online/transfer learning | 12 | 34 |
-| [Deep Learning & Representation Learning](papers/deep-learning/README.md) | Network training, optimization, self-supervised representations, neural network fundamentals | 14 | 3 |
+| [Deep Learning & Representation Learning](papers/deep-learning/README.md) | Training, initialization, optimization, self-supervised representations and efficient architectures | 14 | 3 |
 | [Computer Vision](papers/computer-vision/README.md) | Image classification, detection, tracking, human motion, visual encoders | 12 | 7 |
 | [Natural Language Processing & Large Language Models](papers/nlp/README.md) | Text, sequences, language models, retrieval augmentation, adaptation, alignment | 14 | 15 |
-| [Generative Models](papers/generative-models/README.md) | VAEs, GANs, diffusion models | 13 | 0 |
-| [Multimodal Learning](papers/multimodal/README.md) | Image–text alignment and cross-modal representations | 5 | 0 |
+| [Generative Models](papers/generative-models/README.md) | Energy models, VAEs, GANs, autoregression, diffusion, flows and world models | 13 | 0 |
+| [Multimodal Learning](papers/multimodal/README.md) | Image–text alignment, captioning and cross-modal representations | 5 | 0 |
 | [Reinforcement Learning & Decision-Making](papers/reinforcement-learning/README.md) | Policy and value learning, bandits, planning | 9 | 6 |
 | [Graph Learning & Network Analysis](papers/graph-learning/README.md) | Graph neural networks, community detection, link mining | 6 | 9 |
 | [Recommender Systems](papers/recommender-systems/README.md) | Collaborative filtering, matrix factorization, ALS, neural recommendation | 8 | 6 |
-| [Machine Learning Systems](papers/ml-systems/README.md) | Distributed training, computing frameworks, parameter servers | 9 | 10 |
-| [Data Mining & Data Management](papers/data-mining/README.md) | Time series, data streams, patterns and rules, web mining, entity matching | 3 | 25 |
+| [Machine Learning Systems](papers/ml-systems/README.md) | Distributed data processing, compilers, efficient training, inference and environment interfaces | 9 | 10 |
+| [Data Mining & Data Management](papers/data-mining/README.md) | Anomaly detection, time series, data streams, pattern mining and data management | 3 | 25 |
 | [Domain Applications](papers/applications/README.md) | Robotics, bioinformatics, finance, sustainability, business applications | 5 | 20 |
 | [Evaluation & Experimental Methods](papers/evaluation/README.md) | Experimental design, A/B testing, validation, metrics | 18 | 3 |
 

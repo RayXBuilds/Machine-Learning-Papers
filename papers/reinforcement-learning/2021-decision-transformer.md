@@ -7,9 +7,14 @@ added: 2026-11-21
 verified: 2026-11-21
 source: https://arxiv.org/abs/2106.01345
 status: summary
+catalog_year: 2021
+subtopic: "离线决策与语言推理"
+updated: 2026-11-21
 ---
 
 # Decision Transformer: Reinforcement Learning via Sequence Modeling
+
+[主题目录](README.md) · [年份导航](../../docs/years/README.md) · [学习路线](../../docs/reading-paths.md)
 
 - 作者：Lili Chen、Kevin Lu、Aravind Rajeswaran、Kimin Lee、Aditya Grover、Misha Laskin、Pieter Abbeel、Aravind Srinivas、Igor Mordatch。
 - 年份与版本：按 NeurIPS 2021 正式发表年份归档。arXiv 初稿提交于 2021 年 6 月。

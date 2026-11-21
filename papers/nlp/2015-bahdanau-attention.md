@@ -7,9 +7,14 @@ added: 2026-11-21
 verified: 2026-11-21
 source: https://arxiv.org/abs/1409.0473
 status: summary
+catalog_year: 2015
+subtopic: "序列建模与预训练"
+updated: 2026-11-21
 ---
 
 # Neural Machine Translation by Jointly Learning to Align and Translate
+
+[主题目录](README.md) · [年份导航](../../docs/years/README.md) · [学习路线](../../docs/reading-paths.md)
 
 - 作者：Dzmitry Bahdanau、Kyunghyun Cho、Yoshua Bengio
 - 年份与版本：ICLR 2015 口头报告；arXiv 首版为 2014 年。

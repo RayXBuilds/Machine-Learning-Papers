@@ -7,9 +7,14 @@ added: 2026-11-21
 verified: 2026-11-21
 source: https://isl.stanford.edu/~cover/papers/transIT/0021cove.pdf
 status: summary
+catalog_year: 1967
+subtopic: "分类与集成"
+updated: 2026-11-21
 ---
 
 # Nearest Neighbor Pattern Classification
+
+[主题目录](README.md) · [年份导航](../../docs/years/README.md) · [学习路线](../../docs/reading-paths.md)
 
 - 作者：Thomas M. Cover、Peter E. Hart
 - 年份与版本：1967 年，IEEE Transactions on Information Theory 13(1), 21–27。

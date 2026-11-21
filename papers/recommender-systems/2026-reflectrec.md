@@ -7,9 +7,14 @@ added: 2026-11-21
 verified: 2026-11-21
 source: https://aclanthology.org/2026.emnlp-main.1591/
 status: summary
+catalog_year: 2026
+subtopic: "序列与语言模型推荐"
+updated: 2026-11-21
 ---
 
 # ReflectRec: Cycle-Consistency Preference Verification for LLM-based Recommendation
+
+[主题目录](README.md) · [年份导航](../../docs/years/README.md) · [学习路线](../../docs/reading-paths.md)
 
 - 作者：Dae Kyoo Kim、Heejung Cho、Sungmoo Hong、Eunil Park。
 - 年份与版本：2026 按正式会议年份。ACL Anthology 记录为 EMNLP 2026 主会，出版月份为 2026-10，页码 36183–36197；arXiv v1 于 2026-11-18（UTC）提交，不能将其当作首次正式发表日期。

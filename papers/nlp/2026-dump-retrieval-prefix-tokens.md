@@ -7,9 +7,14 @@ added: 2026-11-10
 verified: 2026-11-10
 source: https://arxiv.org/abs/2611.07298
 status: summary
+catalog_year: 2026
+subtopic: "检索与知识增强"
+updated: 2026-11-21
 ---
 
 # Reducing Representational Interference in Retrieval Embeddings with Trainable Prefix Tokens
+
+[主题目录](README.md) · [年份导航](../../docs/years/README.md) · [学习路线](../../docs/reading-paths.md)
 
 - 作者为 Seongtae Hong、Youngjoon Jang、Jungseob Lee、Chanjun Park、Heuiseok Lim。
 - 年份为 2026。arXiv v1 首次提交于 2026-11-05（UTC），书目备注为 CIKM 2026，作者正文列出会议日期 11 月 7–11 日。[书目页](https://arxiv.org/abs/2611.07298)

@@ -7,9 +7,14 @@ added: 2026-11-21
 verified: 2026-11-21
 source: https://proceedings.neurips.cc/paper_files/paper/2023/hash/1feb87871436031bdc0f2beaa62a049b-Abstract.html
 status: summary
+catalog_year: 2023
+subtopic: "高效训练与环境接口"
+updated: 2026-11-21
 ---
 
 # QLoRA: Efficient Finetuning of Quantized LLMs
+
+[主题目录](README.md) · [年份导航](../../docs/years/README.md) · [学习路线](../../docs/reading-paths.md)
 
 - 作者：Tim Dettmers、Artidoro Pagnoni、Ari Holtzman、Luke Zettlemoyer。
 - 年份与版本：NeurIPS 2023。arXiv 首版提交于 2023-05-23。

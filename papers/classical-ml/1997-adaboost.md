@@ -7,9 +7,14 @@ added: 2026-10-29
 verified: 2026-10-29
 source: https://doi.org/10.1006/jcss.1997.1504
 status: summary
+catalog_year: 1997
+subtopic: "分类与集成"
+updated: 2026-11-21
 ---
 
 # A Decision-Theoretic Generalization of On-Line Learning and an Application to Boosting
+
+[主题目录](README.md) · [年份导航](../../docs/years/README.md) · [学习路线](../../docs/reading-paths.md)
 
 - 作者：Yoav Freund、Robert E. Schapire。
 - 年份与版本：1997 年 8 月，Journal of Computer and System Sciences，55(1)：119–139。文件年份采用正式期刊年份；此前扩展摘要见 EuroCOLT 1995。

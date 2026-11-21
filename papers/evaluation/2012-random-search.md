@@ -7,9 +7,14 @@ added: 2026-11-21
 verified: 2026-11-21
 source: https://jmlr.org/papers/v13/bergstra12a.html
 status: summary
+catalog_year: 2012
+subtopic: "实验设计与数据有效性"
+updated: 2026-11-21
 ---
 
 # Random Search for Hyper-Parameter Optimization
+
+[主题目录](README.md) · [年份导航](../../docs/years/README.md) · [学习路线](../../docs/reading-paths.md)
 
 - 作者：James Bergstra、Yoshua Bengio
 - 年份与版本：JMLR 13，2012 年。

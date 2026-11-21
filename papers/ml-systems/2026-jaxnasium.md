@@ -7,9 +7,14 @@ added: 2026-10-31
 verified: 2026-10-31
 source: https://arxiv.org/abs/2610.36075
 status: summary
+catalog_year: 2026
+subtopic: "高效训练与环境接口"
+updated: 2026-11-21
 ---
 
 # Jaxnasium: Embracing PyTrees For Any-Agent, Cross-Suite Reinforcement Learning
+
+[主题目录](README.md) · [年份导航](../../docs/years/README.md) · [学习路线](../../docs/reading-paths.md)
 
 - 作者：Koen Ponse、Aske Plaat、Thomas M. Moerland。
 - 年份与版本：2026-10-26 首次提交，arXiv v1；预印本，未核实会议或期刊接收信息。

@@ -7,9 +7,14 @@ added: 2026-10-30
 verified: 2026-10-30
 source: https://arxiv.org/abs/2610.36929
 status: summary
+catalog_year: 2026
+subtopic: "模型评审与评估预算"
+updated: 2026-11-21
 ---
 
 # DocXEval: A Systematic Evaluation of Explainability in Multimodal Document Understanding
+
+[主题目录](README.md) · [年份导航](../../docs/years/README.md) · [学习路线](../../docs/reading-paths.md)
 
 - 作者：Saifullah Saifullah、David Dembinsky、Stefan Agne、Andreas Dengel、Sheraz Ahmed（按 arXiv 书目记录）。
 - 年份与版本：2026-10-27 首次提交，arXiv v1；预印本，未核实会议或期刊接收信息。

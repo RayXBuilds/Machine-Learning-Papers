@@ -1,0 +1,166 @@
+[
+  {
+    "name": "分类、树模型与表格学习",
+    "goal": "比较单模型、集成与上下文学习；先掌握监督分类和训练/测试划分。",
+    "ids": [
+      "perceptron",
+      "nearest-neighbor",
+      "id3",
+      "support-vector-networks",
+      "adaboost",
+      "random-forests",
+      "xgboost",
+      "tabicl"
+    ]
+  },
+  {
+    "name": "概率推断、稀疏建模与优化",
+    "goal": "先补概率与矩阵运算，区分模型假设、推断近似和参数优化。",
+    "ids": [
+      "em-algorithm",
+      "local-probability-computations",
+      "lda",
+      "lasso",
+      "stochastic-variational-inference",
+      "adagrad",
+      "adam"
+    ]
+  },
+  {
+    "name": "深层网络的训练基础",
+    "goal": "围绕梯度传播、初始化、正则化和残差连接阅读。",
+    "ids": [
+      "backpropagation",
+      "glorot-initialization",
+      "deep-sparse-rectifiers",
+      "dropout",
+      "batch-normalization",
+      "resnet"
+    ]
+  },
+  {
+    "name": "视觉识别、检测与分割",
+    "goal": "从局部描述符进入学习表征，再比较检测和像素级输出。",
+    "ids": [
+      "sift",
+      "hog",
+      "alexnet",
+      "r-cnn",
+      "fcn",
+      "detr",
+      "segment-anything"
+    ]
+  },
+  {
+    "name": "自监督与视觉语言表征",
+    "goal": "区分对比学习、教师学生方法、掩码重建和图文监督；这些是可比较的分支。",
+    "ids": [
+      "simclr",
+      "moco",
+      "dino",
+      "mae",
+      "clip",
+      "blip",
+      "siglip",
+      "perception-encoder"
+    ]
+  },
+  {
+    "name": "语言表示与注意力",
+    "goal": "先理解词表示和编码解码，再比较双向预训练与检索增强。",
+    "ids": [
+      "word2vec",
+      "glove",
+      "seq2seq",
+      "bahdanau-attention",
+      "transformer",
+      "bert",
+      "rag"
+    ]
+  },
+  {
+    "name": "高效微调、对齐与推理",
+    "goal": "把参数效率、偏好优化和推理预算作为三个不同目标；跨 NLP、系统和强化学习阅读。",
+    "ids": [
+      "lora",
+      "qlora",
+      "instructgpt",
+      "dpo",
+      "deepseek-r1",
+      "s1"
+    ]
+  },
+  {
+    "name": "生成模型的不同路线",
+    "goal": "先比较 VAE 与 GAN，再进入扩散、潜空间生成和少步生成；后者不表示统一演化链。",
+    "ids": [
+      "vae",
+      "gan",
+      "wgan-gp",
+      "stylegan",
+      "ddpm",
+      "latent-diffusion",
+      "consistency-models",
+      "meanflow"
+    ]
+  },
+  {
+    "name": "图表示与推荐",
+    "goal": "先认识图和矩阵分解；图神经网络与推荐模型可分支阅读。",
+    "ids": [
+      "normalized-cuts",
+      "deepwalk",
+      "gcn",
+      "graphsage",
+      "gat",
+      "probabilistic-matrix-factorization",
+      "bpr",
+      "ncf",
+      "lightgcn",
+      "hstu",
+      "reflectrec"
+    ]
+  },
+  {
+    "name": "强化学习与机器人",
+    "goal": "先掌握 MDP 和 Bellman 方程；价值方法、策略方法、离线决策与模仿学习分别比较。",
+    "ids": [
+      "q-learning",
+      "dqn",
+      "trpo",
+      "ppo",
+      "sac",
+      "td3",
+      "decision-transformer",
+      "openvla",
+      "pi-zero"
+    ]
+  },
+  {
+    "name": "系统、部署与推理效率",
+    "goal": "从数据处理进入编译与加速，区分算法计算量、显存访问和服务吞吐。",
+    "ids": [
+      "mapreduce",
+      "tvm",
+      "eie",
+      "flashattention",
+      "pagedattention",
+      "flashattention-3",
+      "phantom-temporal-caching"
+    ]
+  },
+  {
+    "name": "评估、校准与数据泄漏",
+    "goal": "先掌握验证集和指标；按部署条件检查数据划分，再研究概率质量和评审可靠性。",
+    "ids": [
+      "random-search",
+      "temperature-scaling",
+      "imagenetv2",
+      "wilds",
+      "elliptic-leakage",
+      "series-wise-cross-validation",
+      "reflectrec",
+      "auditing-ai-peer-reviewers"
+    ]
+  }
+]

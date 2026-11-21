@@ -7,9 +7,14 @@ added: 2026-11-21
 verified: 2026-11-21
 source: https://arxiv.org/abs/1403.6652
 status: summary
+catalog_year: 2014
+subtopic: "图划分与嵌入"
+updated: 2026-11-21
 ---
 
 # DeepWalk: Online Learning of Social Representations
+
+[主题目录](README.md) · [年份导航](../../docs/years/README.md) · [学习路线](../../docs/reading-paths.md)
 
 - 作者：Bryan Perozzi、Rami Al-Rfou、Steven Skiena
 - 年份与版本：KDD 2014，arXiv 首版同年。

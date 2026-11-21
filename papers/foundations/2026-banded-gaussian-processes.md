@@ -7,9 +7,14 @@ added: 2026-11-16
 verified: 2026-11-16
 source: https://arxiv.org/abs/2611.16482
 status: summary
+catalog_year: 2026
+subtopic: "概率推断与图模型"
+updated: 2026-11-21
 ---
 
 # Posterior contraction rates for banded approximations of Gaussian processes
+
+[主题目录](README.md) · [年份导航](../../docs/years/README.md) · [学习路线](../../docs/reading-paths.md)
 
 - 作者：Omar Kassi、Bernhard Stankewitz、Botond Szabó。
 - 年份与版本：2026 按 arXiv v1 年份，首次提交于 2026-11-12（UTC），核对时为 v1。正文注明已被 NeurIPS 2026 接收，正式会议出版页尚未独立核实。

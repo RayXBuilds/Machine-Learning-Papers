@@ -7,9 +7,14 @@ added: 2026-11-21
 verified: 2026-11-21
 source: https://research.monash.edu/en/publications/isolation-forest/
 status: summary
+catalog_year: 2008
+subtopic: "异常检测"
+updated: 2026-11-21
 ---
 
 # Isolation Forest
+
+[主题目录](README.md) · [年份导航](../../docs/years/README.md) · [学习路线](../../docs/reading-paths.md)
 
 - 作者：Fei Tony Liu、Kai Ming Ting、Zhi-Hua Zhou
 - 年份与版本：2008 年，IEEE International Conference on Data Mining（ICDM 2008）, 413–422。

@@ -7,9 +7,14 @@ added: 2026-11-17
 verified: 2026-11-17
 source: https://arxiv.org/abs/2611.17052
 status: summary
+catalog_year: 2026
+subtopic: "模型评审与评估预算"
+updated: 2026-11-21
 ---
 
 # Auditing AI peer reviewers: a benchmark on real scientific papers
+
+[主题目录](README.md) · [年份导航](../../docs/years/README.md) · [学习路线](../../docs/reading-paths.md)
 
 - 作者：Íñigo Zubeldia、Boris Bolliet、Francisco Villaescusa-Navarro、Pablo Villanueva-Domingo、Miles Cranmer。
 - 年份与版本：2026 按 arXiv v1 年份，首次提交于 2026-11-12（UTC），核对时为 v1。作者书目注明已被 NeurIPS 2026 接收，正式会议出版页尚未独立核实。

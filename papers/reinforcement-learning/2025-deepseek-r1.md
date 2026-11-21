@@ -7,9 +7,14 @@ added: 2026-11-21
 verified: 2026-11-21
 source: https://www.nature.com/articles/s41586-025-09422-z
 status: summary
+catalog_year: 2025
+subtopic: "离线决策与语言推理"
+updated: 2026-11-21
 ---
 
 # DeepSeek-R1: Incentivizing Reasoning Capability in LLMs via Reinforcement Learning
+
+[主题目录](README.md) · [年份导航](../../docs/years/README.md) · [学习路线](../../docs/reading-paths.md)
 
 - 作者：DeepSeek-AI 团队（预印本完整署名见原文）。
 - 年份与版本：Nature 2025。arXiv 首版提交于 2025-01-22。期刊版标题为 DeepSeek-R1 incentivizes reasoning in LLMs through reinforcement learning；本条以预印本题名为入口。

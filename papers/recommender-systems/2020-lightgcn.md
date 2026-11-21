@@ -7,9 +7,14 @@ added: 2026-11-21
 verified: 2026-11-21
 source: https://arxiv.org/abs/2002.02126
 status: summary
+catalog_year: 2020
+subtopic: "协同过滤与交互建模"
+updated: 2026-11-21
 ---
 
 # LightGCN: Simplifying and Powering Graph Convolution Network for Recommendation
+
+[主题目录](README.md) · [年份导航](../../docs/years/README.md) · [学习路线](../../docs/reading-paths.md)
 
 - 作者：Xiangnan He、Kuan Deng、Xiang Wang、Yan Li、Yongdong Zhang、Meng Wang。
 - 年份与版本：按 SIGIR 2020 正式发表年份归档。arXiv 初稿提交于 2020 年 2 月。

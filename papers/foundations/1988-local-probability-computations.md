@@ -7,9 +7,14 @@ added: 2026-11-21
 verified: 2026-11-21
 source: https://doi.org/10.1111/j.2517-6161.1988.tb01721.x
 status: summary
+catalog_year: 1988
+subtopic: "概率推断与图模型"
+updated: 2026-11-21
 ---
 
 # Local Computations with Probabilities on Graphical Structures and Their Application to Expert Systems
+
+[主题目录](README.md) · [年份导航](../../docs/years/README.md) · [学习路线](../../docs/reading-paths.md)
 
 - 作者：S. L. Lauritzen、D. J. Spiegelhalter
 - 年份与版本：1988 年，Journal of the Royal Statistical Society, Series B 50(2), 157–224（含讨论）。

@@ -7,9 +7,14 @@ added: 2026-11-21
 verified: 2026-11-21
 source: https://doi.org/10.1145/3600006.3613165
 status: summary
+catalog_year: 2023
+subtopic: "推理与硬件效率"
+updated: 2026-11-21
 ---
 
 # Efficient Memory Management for Large Language Model Serving with PagedAttention
+
+[主题目录](README.md) · [年份导航](../../docs/years/README.md) · [学习路线](../../docs/reading-paths.md)
 
 - 作者：Woosuk Kwon、Zhuohan Li、Siyuan Zhuang、Ying Sheng、Lianmin Zheng、Cody Hao Yu、Joseph E. Gonzalez、Hao Zhang、Ion Stoica。
 - 年份与版本：SOSP 2023。arXiv 首版提交于 2023-09-12。

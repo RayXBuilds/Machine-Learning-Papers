@@ -7,9 +7,14 @@ added: 2026-11-10
 verified: 2026-11-10
 source: https://arxiv.org/abs/2611.07952
 status: summary
+catalog_year: 2026
+subtopic: "表征与自监督"
+updated: 2026-11-21
 ---
 
 # Invariance before structure: two modes of emergent compression in representation learning
+
+[主题目录](README.md) · [年份导航](../../docs/years/README.md) · [学习路线](../../docs/reading-paths.md)
 
 - 作者为 Hardik Rajpal、Dan Goodman。
 - 年份采用预印本 v1 的 2026 年，首次提交于 2026-11-05（UTC）。当前核对版本为 v1，书目备注为 NeurIPS 2026 UniReps workshop 扩展摘要，正式接收状态待核实。[书目页](https://arxiv.org/abs/2611.07952)

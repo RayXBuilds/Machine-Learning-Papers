@@ -7,9 +7,14 @@ added: 2026-11-21
 verified: 2026-11-21
 source: https://doi.org/10.1162/089976602760128018
 status: summary
+catalog_year: 2002
+subtopic: "能量模型、变分与自回归"
+updated: 2026-11-21
 ---
 
 # Training Products of Experts by Minimizing Contrastive Divergence
+
+[主题目录](README.md) · [年份导航](../../docs/years/README.md) · [学习路线](../../docs/reading-paths.md)
 
 - 作者：Geoffrey E. Hinton
 - 年份与版本：2002 年，Neural Computation 14(8), 1771–1800。2000 年技术报告为早期版本。

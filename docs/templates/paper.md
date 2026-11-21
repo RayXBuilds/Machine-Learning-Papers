@@ -1,6 +1,9 @@
 ---
 id: stable-short-name
 primary_topic: nlp
+catalog_year: YYYY
+subtopic: "序列建模与预训练"
+updated: YYYY-MM-DD
 tags: [retrieval]
 type: paper
 added: YYYY-MM-DD
@@ -14,7 +17,7 @@ status: summary
 <!-- 模板不参与主题计数。填写后存入 papers/<主题>/<年份>-<短名>.md。type 可用 paper、survey、technical-article；status 如实描述阅读状态。 -->
 
 - 作者：
-- 年份与版本：正式发表信息与预印本版本分别说明。
+- 年份与版本：正式发表信息与预印本版本分别说明。catalog_year 采用此处明确的归档口径，无法核实填 undated；不得使用收录日期代替。
 - 原始来源：
 - 官方代码：未提供则说明。
 

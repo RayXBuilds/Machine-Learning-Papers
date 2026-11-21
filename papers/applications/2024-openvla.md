@@ -7,9 +7,14 @@ added: 2026-11-21
 verified: 2026-11-21
 source: https://proceedings.mlr.press/v270/kim25c.html
 status: summary
+catalog_year: 2024
+subtopic: "机器人与具身控制"
+updated: 2026-11-21
 ---
 
 # OpenVLA: An Open-Source Vision-Language-Action Model
+
+[主题目录](README.md) · [年份导航](../../docs/years/README.md) · [学习路线](../../docs/reading-paths.md)
 
 - 作者：Moo Jin Kim、Karl Pertsch、Siddharth Karamcheti 等（完整署名见原文）。
 - 年份与版本：CoRL 2024。arXiv 首版提交于 2024-06-13。采用会议举行年份 2024；PMLR 第 270 卷的书目年份为 2025。

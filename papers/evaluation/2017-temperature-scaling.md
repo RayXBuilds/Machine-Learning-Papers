@@ -7,9 +7,14 @@ added: 2026-10-26
 verified: 2026-10-26
 source: https://proceedings.mlr.press/v70/guo17a.html
 status: summary
+catalog_year: 2017
+subtopic: "校准、不确定性与性能估计"
+updated: 2026-11-21
 ---
 
 # On Calibration of Modern Neural Networks
+
+[主题目录](README.md) · [年份导航](../../docs/years/README.md) · [学习路线](../../docs/reading-paths.md)
 
 [主题目录](README.md) · [首页](../../README.md)
 

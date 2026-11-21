@@ -7,9 +7,14 @@ added: 2026-11-21
 verified: 2026-11-21
 source: https://proceedings.mlr.press/v267/qu25d.html
 status: summary
+catalog_year: 2025
+subtopic: "表格学习与迁移"
+updated: 2026-11-21
 ---
 
 # TabICL: A Tabular Foundation Model for In-Context Learning on Large Data
+
+[主题目录](README.md) · [年份导航](../../docs/years/README.md) · [学习路线](../../docs/reading-paths.md)
 
 - 作者：Jingang Qu、David Holzmüller、Gaël Varoquaux、Marine Le Morvan。
 - 年份与版本：ICML 2025。arXiv 首版提交于 2025-02-08。

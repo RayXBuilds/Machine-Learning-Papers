@@ -7,9 +7,14 @@ added: 2026-11-21
 verified: 2026-11-21
 source: https://aclanthology.org/D14-1162/
 status: summary
+catalog_year: 2014
+subtopic: "词表示与主题模型"
+updated: 2026-11-21
 ---
 
 # GloVe: Global Vectors for Word Representation
+
+[主题目录](README.md) · [年份导航](../../docs/years/README.md) · [学习路线](../../docs/reading-paths.md)
 
 - 作者：Jeffrey Pennington、Richard Socher、Christopher D. Manning
 - 年份与版本：EMNLP 2014。

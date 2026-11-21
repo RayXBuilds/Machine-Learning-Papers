@@ -4,7 +4,9 @@
 
 **按主题整理的机器学习论文、中文导读与历史资料库。**
 
-[主题目录](papers/README.md) · [按年份查历史补录](docs/backfill/README.md) · [经典阅读路线](docs/classics.md) · [每日收录](docs/daily/README.md) · [历史 PDF](library/README.md) · [收录规范](CONTRIBUTING.md)
+[年份导航](docs/years/README.md) · [学习路线](docs/reading-paths.md) · [主题目录](papers/README.md) · [按年份查历史补录](docs/backfill/README.md) · [经典阅读路线](docs/classics.md) · [每日收录](docs/daily/README.md) · [历史 PDF](library/README.md) · [收录规范](CONTRIBUTING.md)
+
+编排方式：按主题内子方向查找，按全库年份回看发展，按学习路线选读。文章主文件和历史资料路径保持稳定。[本次编排说明](docs/organization.md)。
 
 ## 从哪里开始
 
@@ -19,16 +21,16 @@
 | --- | --- | ---: | ---: |
 | [数学、学习理论与概率模型](papers/foundations/README.md) | 学习理论、优化、概率推断、图模型 | 7 | 9 |
 | [传统机器学习](papers/classical-ml/README.md) | 分类、回归、集成、聚类、特征选择、主动/在线/迁移学习 | 12 | 34 |
-| [深度学习与表征学习](papers/deep-learning/README.md) | 网络训练、优化、自监督表征、神经网络基础 | 14 | 3 |
+| [深度学习与表征学习](papers/deep-learning/README.md) | 网络训练、初始化、优化、自监督表征与高效结构 | 14 | 3 |
 | [计算机视觉](papers/computer-vision/README.md) | 图像分类、检测、跟踪、人体运动、视觉编码器 | 12 | 7 |
 | [自然语言处理与大语言模型](papers/nlp/README.md) | 文本、序列、语言模型、检索增强、适配与对齐 | 14 | 15 |
-| [生成模型](papers/generative-models/README.md) | VAE、GAN、扩散模型 | 13 | 0 |
-| [多模态学习](papers/multimodal/README.md) | 图文对齐与跨模态表示 | 5 | 0 |
+| [生成模型](papers/generative-models/README.md) | 能量模型、VAE、GAN、自回归、扩散、流与世界模型 | 13 | 0 |
+| [多模态学习](papers/multimodal/README.md) | 图文对齐、图像描述与跨模态表示 | 5 | 0 |
 | [强化学习与决策](papers/reinforcement-learning/README.md) | 策略/价值学习、Bandit、规划 | 9 | 6 |
 | [图学习与网络分析](papers/graph-learning/README.md) | 图神经网络、社区发现、链接挖掘 | 6 | 9 |
 | [推荐系统](papers/recommender-systems/README.md) | 协同过滤、矩阵分解、ALS、神经推荐 | 8 | 6 |
-| [机器学习系统](papers/ml-systems/README.md) | 分布式训练、计算框架、参数服务器 | 9 | 10 |
-| [数据挖掘与数据管理](papers/data-mining/README.md) | 时序、流数据、模式/规则、Web、实体匹配 | 3 | 25 |
+| [机器学习系统](papers/ml-systems/README.md) | 分布式数据处理、编译、高效训练、推理加速与环境接口 | 9 | 10 |
+| [数据挖掘与数据管理](papers/data-mining/README.md) | 异常检测、时序、流数据、模式挖掘与数据管理 | 3 | 25 |
 | [领域应用](papers/applications/README.md) | 机器人、生物信息、金融、可持续发展、业务应用 | 5 | 20 |
 | [评估与实验方法](papers/evaluation/README.md) | 实验设计、A/B 测试、验证与指标 | 18 | 3 |
 

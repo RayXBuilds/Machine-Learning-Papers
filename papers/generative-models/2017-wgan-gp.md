@@ -7,9 +7,14 @@ added: 2026-11-21
 verified: 2026-11-21
 source: https://arxiv.org/abs/1704.00028
 status: summary
+catalog_year: 2017
+subtopic: "对抗生成"
+updated: 2026-11-21
 ---
 
 # Improved Training of Wasserstein GANs
+
+[主题目录](README.md) · [年份导航](../../docs/years/README.md) · [学习路线](../../docs/reading-paths.md)
 
 - 作者：Ishaan Gulrajani、Faruk Ahmed、Martin Arjovsky、Vincent Dumoulin、Aaron C. Courville。
 - 年份与版本：按 NIPS 2017 正式发表年份归档。arXiv 初稿提交于 2017 年 4 月。

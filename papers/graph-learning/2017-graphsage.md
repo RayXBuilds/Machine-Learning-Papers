@@ -7,9 +7,14 @@ added: 2026-11-21
 verified: 2026-11-21
 source: https://arxiv.org/abs/1706.02216
 status: summary
+catalog_year: 2017
+subtopic: "图神经网络"
+updated: 2026-11-21
 ---
 
 # Inductive Representation Learning on Large Graphs
+
+[主题目录](README.md) · [年份导航](../../docs/years/README.md) · [学习路线](../../docs/reading-paths.md)
 
 - 作者：Will Hamilton、Zhitao Ying、Jure Leskovec（会议页面署名；预印本列为 William L. Hamilton、Rex Ying、Jure Leskovec）。
 - 年份与版本：按 NIPS 2017 正式发表年份归档。arXiv 初稿提交于 2017 年 6 月。

@@ -7,9 +7,14 @@ added: 2026-11-14
 verified: 2026-11-14
 source: https://arxiv.org/abs/2611.16097
 status: summary
+catalog_year: 2026
+subtopic: "正则化、优化与学习理论"
+updated: 2026-11-21
 ---
 
 # A Matching Lower Bound for Online Smooth Calibration
+
+[主题目录](README.md) · [年份导航](../../docs/years/README.md) · [学习路线](../../docs/reading-paths.md)
 
 - 作者：Kaixuan Ji、Quanquan Gu。
 - 年份与版本：2026 按预印本 v1 年份。首次提交于 2026-11-11 23:13 UTC，核对时为 v1。未核实会议或期刊接收信息。

@@ -7,9 +7,14 @@ added: 2026-11-21
 verified: 2026-11-21
 source: https://openaccess.thecvf.com/content/ICCV2023/html/Kirillov_Segment_Anything_ICCV_2023_paper.html
 status: summary
+catalog_year: 2023
+subtopic: "检测、分割与人体理解"
+updated: 2026-11-21
 ---
 
 # Segment Anything
+
+[主题目录](README.md) · [年份导航](../../docs/years/README.md) · [学习路线](../../docs/reading-paths.md)
 
 - 作者：Alexander Kirillov、Eric Mintun、Nikhila Ravi 等（完整署名见原文）。
 - 年份与版本：ICCV 2023。arXiv 首版提交于 2023-04-05。

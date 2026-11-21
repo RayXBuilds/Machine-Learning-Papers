@@ -7,9 +7,14 @@ added: 2026-11-02
 verified: 2026-11-02
 source: https://arxiv.org/abs/2610.40241
 status: summary
+catalog_year: 2026
+subtopic: "模型评审与评估预算"
+updated: 2026-11-21
 ---
 
 # Judged in Company: In-Context Batching Makes LLM Verdicts Depend on Other Items
+
+[主题目录](README.md) · [年份导航](../../docs/years/README.md) · [学习路线](../../docs/reading-paths.md)
 
 - 作者：Peng Xie、Amr Alanwar。
 - 年份与版本：2026-10-29 首次提交，arXiv v1；预印本，未核实会议或期刊接收信息。

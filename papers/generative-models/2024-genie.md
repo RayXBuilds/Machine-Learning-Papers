@@ -7,9 +7,14 @@ added: 2026-11-21
 verified: 2026-11-21
 source: https://proceedings.mlr.press/v235/bruce24a.html
 status: summary
+catalog_year: 2024
+subtopic: "扩散、流与世界模型"
+updated: 2026-11-21
 ---
 
 # Genie: Generative Interactive Environments
+
+[主题目录](README.md) · [年份导航](../../docs/years/README.md) · [学习路线](../../docs/reading-paths.md)
 
 - 作者：Jake Bruce、Michael Dennis、Ashley Edwards 等（完整署名见原文）。
 - 年份与版本：ICML 2024。arXiv 首版提交于 2024-02-23。

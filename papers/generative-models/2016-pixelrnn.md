@@ -7,9 +7,14 @@ added: 2026-11-21
 verified: 2026-11-21
 source: https://proceedings.mlr.press/v48/oord16.html
 status: summary
+catalog_year: 2016
+subtopic: "能量模型、变分与自回归"
+updated: 2026-11-21
 ---
 
 # Pixel Recurrent Neural Networks
+
+[主题目录](README.md) · [年份导航](../../docs/years/README.md) · [学习路线](../../docs/reading-paths.md)
 
 - 作者：Aäron van den Oord、Nal Kalchbrenner、Koray Kavukcuoglu
 - 年份与版本：ICML 2016；arXiv 首版同年。

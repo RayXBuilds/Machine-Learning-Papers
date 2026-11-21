@@ -7,9 +7,14 @@ added: 2026-11-21
 verified: 2026-11-21
 source: https://www.cs.columbia.edu/~blei/papers/BleiJordan2003.pdf
 status: summary
+catalog_year: 2003
+subtopic: "图文建模与生成描述"
+updated: 2026-11-21
 ---
 
 # Modeling Annotated Data
+
+[主题目录](README.md) · [年份导航](../../docs/years/README.md) · [学习路线](../../docs/reading-paths.md)
 
 - 作者：David M. Blei、Michael I. Jordan
 - 年份与版本：2003 年，SIGIR 2003, 127–134。

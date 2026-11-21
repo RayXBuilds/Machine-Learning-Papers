@@ -7,9 +7,14 @@ added: 2026-11-21
 verified: 2026-11-21
 source: https://papers.nips.cc/paper/2007/file/d7322ed717dedf1eb4e6e52a37ea7bcd-Paper.pdf
 status: summary
+catalog_year: 2007
+subtopic: "协同过滤与交互建模"
+updated: 2026-11-21
 ---
 
 # Probabilistic Matrix Factorization
+
+[主题目录](README.md) · [年份导航](../../docs/years/README.md) · [学习路线](../../docs/reading-paths.md)
 
 - 作者：Ruslan Salakhutdinov、Andriy Mnih（按论文首页署名）
 - 年份与版本：2007 年，NIPS 2007, Advances in Neural Information Processing Systems 20。

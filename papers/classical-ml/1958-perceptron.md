@@ -7,9 +7,14 @@ added: 2026-11-21
 verified: 2026-11-21
 source: https://www.cs.cmu.edu/~epxing/Class/10715/reading/Rosenblatt.perceptron.pdf
 status: summary
+catalog_year: 1958
+subtopic: "分类与集成"
+updated: 2026-11-21
 ---
 
 # The perceptron: A probabilistic model for information storage and organization in the brain
+
+[主题目录](README.md) · [年份导航](../../docs/years/README.md) · [学习路线](../../docs/reading-paths.md)
 
 - 作者：Frank Rosenblatt
 - 年份与版本：1958 年，Psychological Review 65(6), 386–408。

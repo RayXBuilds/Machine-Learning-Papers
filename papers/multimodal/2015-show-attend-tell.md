@@ -7,9 +7,14 @@ added: 2026-11-21
 verified: 2026-11-21
 source: https://proceedings.mlr.press/v37/xuc15.html
 status: summary
+catalog_year: 2015
+subtopic: "图文建模与生成描述"
+updated: 2026-11-21
 ---
 
 # Show, Attend and Tell: Neural Image Caption Generation with Visual Attention
+
+[主题目录](README.md) · [年份导航](../../docs/years/README.md) · [学习路线](../../docs/reading-paths.md)
 
 - 作者：Kelvin Xu、Jimmy Ba、Ryan Kiros、Kyunghyun Cho、Aaron Courville、Ruslan Salakhudinov、Rich Zemel、Yoshua Bengio
 - 年份与版本：ICML 2015；arXiv 首版同年。

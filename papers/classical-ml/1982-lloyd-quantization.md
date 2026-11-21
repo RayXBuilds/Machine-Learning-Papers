@@ -7,9 +7,14 @@ added: 2026-11-21
 verified: 2026-11-21
 source: https://web.stanford.edu/class/ee398a/handouts/papers/Lloyd%20-%20Least%20Squares%20Q%20in%20PCM.pdf
 status: summary
+catalog_year: 1982
+subtopic: "聚类与降维"
+updated: 2026-11-21
 ---
 
 # Least Squares Quantization in PCM
+
+[主题目录](README.md) · [年份导航](../../docs/years/README.md) · [学习路线](../../docs/reading-paths.md)
 
 - 作者：Stuart P. Lloyd
 - 年份与版本：1982 年，IEEE Transactions on Information Theory 28(2)。工作早在 1957 年已报告，此处采用期刊年份。

@@ -7,9 +7,14 @@ added: 2026-11-21
 verified: 2026-11-21
 source: https://arxiv.org/abs/2205.14135
 status: summary
+catalog_year: 2022
+subtopic: "推理与硬件效率"
+updated: 2026-11-21
 ---
 
 # FlashAttention: Fast and Memory-Efficient Exact Attention with IO-Awareness
+
+[主题目录](README.md) · [年份导航](../../docs/years/README.md) · [学习路线](../../docs/reading-paths.md)
 
 - 作者：Tri Dao、Dan Fu、Stefano Ermon、Atri Rudra、Christopher Ré。
 - 年份与版本：按 NeurIPS 2022 正式发表年份归档。arXiv 初稿提交于 2022 年 5 月。

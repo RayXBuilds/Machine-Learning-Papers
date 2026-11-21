@@ -7,9 +7,14 @@ added: 2026-10-30
 verified: 2026-10-30
 source: https://arxiv.org/abs/2610.37276
 status: summary
+catalog_year: 2026
+subtopic: "模型评审与评估预算"
+updated: 2026-11-21
 ---
 
 # Where Should the Evaluation Budget Go in LLM-Driven Agent Scaffold Evolution?
+
+[主题目录](README.md) · [年份导航](../../docs/years/README.md) · [学习路线](../../docs/reading-paths.md)
 
 - 作者：Sichun Luo、Yi Huang、Mukai Li、Haochen Luo、Guanzhi Deng、Haibo Wang、Jian Xu、Zefa Hu、Junlan Feng、Qi Liu。
 - 年份与版本：2026-10-27 首次提交，arXiv v1；预印本，未核实会议或期刊接收信息。

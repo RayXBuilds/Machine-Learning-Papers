@@ -7,9 +7,14 @@ added: 2026-10-31
 verified: 2026-10-31
 source: https://arxiv.org/abs/2601.20251
 status: summary
+catalog_year: 2026
+subtopic: "模型评审与评估预算"
+updated: 2026-11-21
 ---
 
 # Efficient Evaluation of LLM Performance with Statistical Guarantees
+
+[主题目录](README.md) · [年份导航](../../docs/years/README.md) · [学习路线](../../docs/reading-paths.md)
 
 - 作者：Skyler Wu、Yash Nair、Emmanuel J. Candès。
 - 年份与版本：2026-01-28 首次提交，2026-10-29 更新至 arXiv v4；预印本，未核实会议或期刊接收信息。

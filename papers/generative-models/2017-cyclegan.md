@@ -7,9 +7,14 @@ added: 2026-11-21
 verified: 2026-11-21
 source: https://arxiv.org/abs/1703.10593
 status: summary
+catalog_year: 2017
+subtopic: "对抗生成"
+updated: 2026-11-21
 ---
 
 # Unpaired Image-to-Image Translation using Cycle-Consistent Adversarial Networks
+
+[主题目录](README.md) · [年份导航](../../docs/years/README.md) · [学习路线](../../docs/reading-paths.md)
 
 - 作者：Jun-Yan Zhu、Taesung Park、Phillip Isola、Alexei A. Efros。
 - 年份与版本：按 ICCV 2017 正式发表年份归档。arXiv 初稿提交于 2017 年 3 月。

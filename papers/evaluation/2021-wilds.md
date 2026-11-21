@@ -7,9 +7,14 @@ added: 2026-11-21
 verified: 2026-11-21
 source: https://arxiv.org/abs/2012.07421
 status: summary
+catalog_year: 2021
+subtopic: "实验设计与数据有效性"
+updated: 2026-11-21
 ---
 
 # WILDS: A Benchmark of in-the-Wild Distribution Shifts
+
+[主题目录](README.md) · [年份导航](../../docs/years/README.md) · [学习路线](../../docs/reading-paths.md)
 
 - 作者：Pang Wei Koh、Shiori Sagawa、Henrik Marklund、Sang Michael Xie、Marvin Zhang、Akshay Balsubramani、Weihua Hu、Michihiro Yasunaga、Richard Lanas Phillips、Irena Gao、Tony Lee、Etienne David、Ian Stavness、Wei Guo、Berton Earnshaw、Imran Haque、Sara M Beery、Jure Leskovec、Anshul Kundaje、Emma Pierson、Sergey Levine、Chelsea Finn、Percy Liang。
 - 年份与版本：按 ICML 2021 正式发表年份归档。arXiv 初稿提交于 2020 年 12 月。

@@ -7,9 +7,14 @@ added: 2026-11-21
 verified: 2026-11-21
 source: https://arxiv.org/abs/1803.03635
 status: summary
+catalog_year: 2019
+subtopic: "结构与效率"
+updated: 2026-11-21
 ---
 
 # The Lottery Ticket Hypothesis: Finding Sparse, Trainable Neural Networks
+
+[主题目录](README.md) · [年份导航](../../docs/years/README.md) · [学习路线](../../docs/reading-paths.md)
 
 - 作者：Jonathan Frankle、Michael Carbin。
 - 年份与版本：按 ICLR 2019 正式发表年份归档。arXiv 初稿提交于 2018 年 3 月。

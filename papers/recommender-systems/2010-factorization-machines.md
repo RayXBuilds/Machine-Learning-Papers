@@ -7,9 +7,14 @@ added: 2026-11-21
 verified: 2026-11-21
 source: https://doi.org/10.1109/ICDM.2010.127
 status: summary
+catalog_year: 2010
+subtopic: "协同过滤与交互建模"
+updated: 2026-11-21
 ---
 
 # Factorization Machines
+
+[主题目录](README.md) · [年份导航](../../docs/years/README.md) · [学习路线](../../docs/reading-paths.md)
 
 - 作者：Steffen Rendle
 - 年份与版本：ICDM 2010。

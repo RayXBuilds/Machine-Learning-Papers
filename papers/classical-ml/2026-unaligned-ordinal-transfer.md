@@ -7,9 +7,14 @@ added: 2026-11-19
 verified: 2026-11-19
 source: https://arxiv.org/abs/2611.20411
 status: summary
+catalog_year: 2026
+subtopic: "表格学习与迁移"
+updated: 2026-11-21
 ---
 
 # High-dimensional transfer learning with unaligned ordinal responses
+
+[主题目录](README.md) · [年份导航](../../docs/years/README.md) · [学习路线](../../docs/reading-paths.md)
 
 - 作者：Ruopei Fu、Ying Yang。
 - 年份与版本：2026 按预印本 v1 年份，首次提交于 2026-11-16（UTC），核对时为 v1。未核实会议或期刊接收信息。

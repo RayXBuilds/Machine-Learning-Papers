@@ -7,9 +7,14 @@ added: 2026-10-27
 verified: 2026-10-27
 source: https://link.springer.com/article/10.1007/BF00994018
 status: summary
+catalog_year: 1995
+subtopic: "分类与集成"
+updated: 2026-11-21
 ---
 
 # Support-vector networks
+
+[主题目录](README.md) · [年份导航](../../docs/years/README.md) · [学习路线](../../docs/reading-paths.md)
 
 - 作者：Corinna Cortes、Vladimir Vapnik。
 - 年份与版本：1995 年 9 月，Machine Learning，20：273–297；正式期刊论文。

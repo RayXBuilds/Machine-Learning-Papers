@@ -7,9 +7,14 @@ added: 2026-11-05
 verified: 2026-11-05
 source: https://arxiv.org/abs/2611.03433
 status: summary
+catalog_year: 2026
+subtopic: "图学习评估"
+updated: 2026-11-21
 ---
 
 # A Living Leaderboard for Graph Machine Learning
+
+[主题目录](README.md) · [年份导航](../../docs/years/README.md) · [学习路线](../../docs/reading-paths.md)
 
 - 作者为 Martin Ritzert。
 - 年份与版本采用 2026-11-02 首次提交的 arXiv v1，状态为预印本。会议或期刊接收信息待核实。

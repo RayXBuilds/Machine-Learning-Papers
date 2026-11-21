@@ -7,9 +7,14 @@ added: 2026-11-21
 verified: 2026-11-21
 source: https://jmlr.org/papers/v14/hoffman13a.html
 status: summary
+catalog_year: 2013
+subtopic: "概率推断与图模型"
+updated: 2026-11-21
 ---
 
 # Stochastic Variational Inference
+
+[主题目录](README.md) · [年份导航](../../docs/years/README.md) · [学习路线](../../docs/reading-paths.md)
 
 - 作者：Matthew D. Hoffman、David M. Blei、Chong Wang、John Paisley
 - 年份与版本：JMLR 14，2013 年；arXiv 首版为 2012 年。

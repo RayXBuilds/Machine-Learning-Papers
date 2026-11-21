@@ -7,9 +7,14 @@ added: 2026-11-21
 verified: 2026-11-21
 source: https://www.usenix.org/conference/osdi-04/mapreduce-simplified-data-processing-large-clusters
 status: summary
+catalog_year: 2004
+subtopic: "数据处理与编译"
+updated: 2026-11-21
 ---
 
 # MapReduce: Simplified Data Processing on Large Clusters
+
+[主题目录](README.md) · [年份导航](../../docs/years/README.md) · [学习路线](../../docs/reading-paths.md)
 
 - 作者：Jeffrey Dean、Sanjay Ghemawat
 - 年份与版本：2004 年，OSDI 2004。

@@ -7,9 +7,14 @@ added: 2026-11-21
 verified: 2026-11-21
 source: https://people.eecs.berkeley.edu/~malik/papers/SM-ncut.pdf
 status: summary
+catalog_year: 2000
+subtopic: "图划分与嵌入"
+updated: 2026-11-21
 ---
 
 # Normalized Cuts and Image Segmentation
+
+[主题目录](README.md) · [年份导航](../../docs/years/README.md) · [学习路线](../../docs/reading-paths.md)
 
 - 作者：Jianbo Shi、Jitendra Malik
 - 年份与版本：2000 年，IEEE Transactions on Pattern Analysis and Machine Intelligence 22(8), 888–905。采用扩展期刊版年份。

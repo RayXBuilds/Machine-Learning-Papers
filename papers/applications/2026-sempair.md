@@ -7,9 +7,14 @@ added: 2026-11-13
 verified: 2026-11-13
 source: https://arxiv.org/abs/2611.13807
 status: summary
+catalog_year: 2026
+subtopic: "科学计算与遥感"
+updated: 2026-11-21
 ---
 
 # Relaxing Cross-Modal Correspondence for Multimodal Remote Sensing Pretraining
+
+[主题目录](README.md) · [年份导航](../../docs/years/README.md) · [学习路线](../../docs/reading-paths.md)
 
 - 作者：Xianping Ma、Yu Zhang、Mingzhe Jiang、Wanxin Xie、Qing Zhu、Nan Xu、Xiaokang Zhang、Yuanxin Ye。
 - 年份与版本：2026 按 arXiv v1 年份。首次提交于 2026-11-10（UTC），核对时为 v1。预印本，未核实会议或期刊接收信息。

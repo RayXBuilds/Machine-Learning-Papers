@@ -7,9 +7,14 @@ added: 2026-11-04
 verified: 2026-11-04
 source: https://arxiv.org/abs/2611.02215
 status: summary
+catalog_year: 2026
+subtopic: "校准、不确定性与性能估计"
+updated: 2026-11-21
 ---
 
 # Discrimination, Calibration, and Ranking: A Unified Matrix Framework
+
+[主题目录](README.md) · [年份导航](../../docs/years/README.md) · [学习路线](../../docs/reading-paths.md)
 
 - 作者：Ronaldo Cristiano Prati、Farangis Johari。
 - 年份与版本：2026-11-01 首次提交，arXiv v1；预印本，未核实会议或期刊接收信息。

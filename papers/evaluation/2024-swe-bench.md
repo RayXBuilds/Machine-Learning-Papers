@@ -7,9 +7,14 @@ added: 2026-11-21
 verified: 2026-11-21
 source: https://proceedings.iclr.cc/paper_files/paper/2024/hash/edac78c3e300629acfe6cbe9ca88fb84-Abstract-Conference.html
 status: summary
+catalog_year: 2024
+subtopic: "模型评审与评估预算"
+updated: 2026-11-21
 ---
 
 # SWE-bench: Can Language Models Resolve Real-World GitHub Issues?
+
+[主题目录](README.md) · [年份导航](../../docs/years/README.md) · [学习路线](../../docs/reading-paths.md)
 
 - 作者：Carlos E. Jimenez、John Yang、Alexander Wettig、Shunyu Yao、Kexin Pei、Ofir Press、Karthik Narasimhan。
 - 年份与版本：ICLR 2024。arXiv 首版提交于 2023-10-10。正式发表在次年；此处讨论原始基准，后续子集另有版本。

@@ -10,7 +10,7 @@
 
 | 归档年 | 论文与导读 | PDF | 阅读问题 |
 | --- | --- | --- | --- |
-| 1958 | [The perceptron: A probabilistic model for information storage and organization in the brain](1958-perceptron.md) | 文件下载或版本核验中 | 经验怎样改变一个识别系统对相似刺激的反应？ |
+| 1958 | [The perceptron: A probabilistic model for information storage and organization in the brain](1958-perceptron.md) | [PDF](../../pdfs/classical-ml/1958-perceptron.pdf) | 经验怎样改变一个识别系统对相似刺激的反应？ |
 | 1967 | [Nearest Neighbor Pattern Classification](1967-nearest-neighbor.md) | [PDF](../../pdfs/classical-ml/1967-nearest-neighbor.pdf) | 只参考一个最近训练样本的类别，在样本趋于无穷时要付出多少误差代价？ |
 | 1986 | [Induction of decision trees](1986-id3.md) | [PDF](../../pdfs/classical-ml/1986-id3.pdf) | 给定带标签实例，如何自动选择一串属性测试，让分支末端尽可能对应同一类别？ |
 | 1995 | [Support-vector networks](1995-support-vector-networks.md) | [PDF](../../pdfs/classical-ml/1995-support-vector-networks.pdf) | 当两类训练样本不能完全分开时，如何延续支持向量方法的分类思想？ |
@@ -29,9 +29,9 @@
 
 | 归档年 | 论文与导读 | PDF | 阅读问题 |
 | --- | --- | --- | --- |
-| 2025 | [TabICL: A Tabular Foundation Model for In-Context Learning on Large Data](2025-tabicl.md) | 文件下载或版本核验中 | 把已标注样本当上下文预测测试标签时，如何处理样本数较多的表格？ |
+| 2025 | [TabICL: A Tabular Foundation Model for In-Context Learning on Large Data](2025-tabicl.md) | [PDF](../../pdfs/classical-ml/2025-tabicl.pdf) | 把已标注样本当上下文预测测试标签时，如何处理样本数较多的表格？ |
 | 2026 | [High-dimensional transfer learning with unaligned ordinal responses](2026-unaligned-ordinal-transfer.md) | [PDF](../../pdfs/classical-ml/2026-unaligned-ordinal-transfer.pdf) | 源域和目标域可能采用不同等级数量或定义的有序标签。论文研究这种响应空间不对齐时，如何在高维回归中迁移信息。摘要 |
-| 2026 | [Interpretable by Design Tabular Prediction via In-Context Local Linear Learning](2026-ticl3.md) | 文件下载或版本核验中 | 表格基础模型预测能力较强，但单次预测的特征贡献不易解释。能否让最终评分直接由可检查的局部线性规则产生？ |
+| 2026 | [Interpretable by Design Tabular Prediction via In-Context Local Linear Learning](2026-ticl3.md) | [PDF](../../pdfs/classical-ml/2026-ticl3.pdf) | 表格基础模型预测能力较强，但单次预测的特征贡献不易解释。能否让最终评分直接由可检查的局部线性规则产生？ |
 
 ## 跨主题阅读
 

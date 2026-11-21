@@ -19,7 +19,7 @@
 | --- | --- | --- | --- |
 | 2017 | [Inductive Representation Learning on Large Graphs](2017-graphsage.md) | [PDF](../../pdfs/graph-learning/2017-graphsage.pdf) | 图中加入新节点时，按节点编号学习的向量无法直接用于预测。 |
 | 2017 | [Semi-Supervised Classification with Graph Convolutional Networks](2017-gcn.md) | [PDF](../../pdfs/graph-learning/2017-gcn.pdf) | 如何结合节点特征与图连接进行半监督学习？ |
-| 2018 | [Graph Attention Networks](2018-gat.md) | 文件下载或版本核验中 | 聚合邻居信息时，同一节点的不同邻边应该获得多大权重？ |
+| 2018 | [Graph Attention Networks](2018-gat.md) | [PDF](../../pdfs/graph-learning/2018-gat.pdf) | 聚合邻居信息时，同一节点的不同邻边应该获得多大权重？ |
 
 ## 图学习评估
 

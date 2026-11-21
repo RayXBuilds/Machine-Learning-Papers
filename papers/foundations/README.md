@@ -19,7 +19,7 @@
 
 | 归档年 | 论文与导读 | PDF | 阅读问题 |
 | --- | --- | --- | --- |
-| 1996 | [Regression Shrinkage and Selection Via the Lasso](1996-lasso.md) | 文件下载或版本核验中 | 回归变量较多时，能否一边压缩估计方差，一边得到变量子集？ |
+| 1996 | [Regression Shrinkage and Selection Via the Lasso](1996-lasso.md) | [PDF](../../pdfs/foundations/1996-lasso.pdf) | 回归变量较多时，能否一边压缩估计方差，一边得到变量子集？ |
 | 2011 | [Adaptive Subgradient Methods for Online Learning and Stochastic Optimization](2011-adagrad.md) | [PDF](../../pdfs/foundations/2011-adagrad.pdf) | 在线更新中，不同坐标的出现频率与梯度尺度相差很大，统一步长可能淹没稀有特征。 |
 | 2026 | [A Matching Lower Bound for Online Smooth Calibration](2026-online-smooth-calibration-lower-bound.md) | [PDF](../../pdfs/foundations/2026-online-smooth-calibration-lower-bound.pdf) | 序贯二元预测中，平滑校准误差用 Lipschitz 测试函数度量预测残差。论文研究面对自适应对手时，任何预测器都无法避免多大的误差。摘要 |
 

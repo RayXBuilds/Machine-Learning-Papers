@@ -21,6 +21,8 @@ updated: 2026-11-21
 - 原始来源：[原文](https://www.cs.cmu.edu/~epxing/Class/10715/reading/Rosenblatt.perceptron.pdf)
 - 官方代码：核对的原始资料中未确认论文配套实现。
 
+- 仓库内 PDF：[打开全文](../../pdfs/classical-ml/1958-perceptron.pdf)（Psychological Review 65(6)，1958 年期刊扫描版）。
+
 ## 解决的问题
 
 经验怎样改变一个识别系统对相似刺激的反应？

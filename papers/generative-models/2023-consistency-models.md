@@ -21,6 +21,8 @@ updated: 2026-11-21
 - 原始来源：[ICML 2023 书目](https://proceedings.mlr.press/v202/song23a.html) · [arXiv 版本记录](https://arxiv.org/abs/2303.01469)。
 - 官方代码：已核对[作者项目仓库](https://github.com/openai/consistency_models)。
 
+- 仓库内 PDF：[打开全文](../../pdfs/generative-models/2023-consistency-models.pdf)（PMLR 会议论文集版）。
+
 ## 解决的问题
 
 扩散采样反复求解去噪轨迹，能否一步就预测同一条轨迹的终点？

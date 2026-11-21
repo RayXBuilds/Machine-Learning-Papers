@@ -35,8 +35,13 @@
     "sha256": "5c83a08a348ceed5eac1cb02f065e75645200075a74546c93097bdb7db79d312"
   },
   "papers/classical-ml/1958-perceptron.md": {
+    "path": "pdfs/classical-ml/1958-perceptron.pdf",
     "source_url": "https://www.cs.cmu.edu/~epxing/Class/10715/reading/Rosenblatt.perceptron.pdf",
-    "reason": "文件下载或版本核验中"
+    "retrieved": "2026-11-21",
+    "version": "Psychological Review 65(6)，1958 年期刊扫描版",
+    "pages": 23,
+    "bytes": 1631543,
+    "sha256": "f32fdf8c0657cda33ace13487856dd4facd34c3eeb6a6d3011107339928fbd57"
   },
   "papers/classical-ml/1967-nearest-neighbor.md": {
     "path": "pdfs/classical-ml/1967-nearest-neighbor.pdf",
@@ -111,12 +116,22 @@
     "sha256": "52bc282c922a239134ee4d6f4367c58bf920a9bdd53acbb3b2aa3342e2bb7214"
   },
   "papers/classical-ml/2025-tabicl.md": {
-    "source_url": "https://proceedings.mlr.press/v267/qu25d.html",
-    "reason": "文件下载或版本核验中"
+    "path": "pdfs/classical-ml/2025-tabicl.pdf",
+    "source_url": "https://arxiv.org/pdf/2502.05564",
+    "retrieved": "2026-11-21",
+    "version": "arXiv 2502.05564v2",
+    "pages": 31,
+    "bytes": 4066189,
+    "sha256": "22b3b112d8e2875edc4e1054073f354dc139594f1d2bfe38754592d49d96bc3e"
   },
   "papers/classical-ml/2026-ticl3.md": {
-    "source_url": "https://arxiv.org/abs/2610.39506",
-    "reason": "文件下载或版本核验中"
+    "path": "pdfs/classical-ml/2026-ticl3.pdf",
+    "source_url": "https://arxiv.org/pdf/2610.39506v1",
+    "retrieved": "2026-11-21",
+    "version": "arXiv 2610.39506v1",
+    "pages": 26,
+    "bytes": 1607633,
+    "sha256": "c89ab8e88ddfe460e6a40b265ff88cc4ab7e6734a05855723b7fc8aef6e4c05d"
   },
   "papers/classical-ml/2026-unaligned-ordinal-transfer.md": {
     "path": "pdfs/classical-ml/2026-unaligned-ordinal-transfer.pdf",
@@ -155,8 +170,13 @@
     "sha256": "90137160c57217953d5f61857e64ca58e85f06e1b13b4f475c918b1b582b9771"
   },
   "papers/computer-vision/2014-r-cnn.md": {
-    "source_url": "https://arxiv.org/abs/1311.2524",
-    "reason": "文件下载或版本核验中"
+    "path": "pdfs/computer-vision/2014-r-cnn.pdf",
+    "source_url": "https://arxiv.org/pdf/1311.2524",
+    "retrieved": "2026-11-21",
+    "version": "arXiv 1311.2524v5",
+    "pages": 21,
+    "bytes": 6537772,
+    "sha256": "ed7c448793d4c8a750bf4892c9ad5ef901b51f797a7195c18db540cffaed25bd"
   },
   "papers/computer-vision/2015-fcn.md": {
     "path": "pdfs/computer-vision/2015-fcn.pdf",
@@ -177,16 +197,31 @@
     "sha256": "1e0651b6810ecba34a3dbc5b5b0209226f889004607c1f203540a48d64e5a93a"
   },
   "papers/computer-vision/2020-detr.md": {
-    "source_url": "https://arxiv.org/abs/2005.12872",
-    "reason": "文件下载或版本核验中"
+    "path": "pdfs/computer-vision/2020-detr.pdf",
+    "source_url": "https://arxiv.org/pdf/2005.12872",
+    "retrieved": "2026-11-21",
+    "version": "arXiv 2005.12872v3",
+    "pages": 26,
+    "bytes": 7634041,
+    "sha256": "d4b846bd44896e1d21527f48eddc422c263c9a4f8a3fa4be249750956882698d"
   },
   "papers/computer-vision/2021-vit.md": {
-    "source_url": "https://arxiv.org/abs/2010.11929",
-    "reason": "文件下载或版本核验中"
+    "path": "pdfs/computer-vision/2021-vit.pdf",
+    "source_url": "https://arxiv.org/pdf/2010.11929",
+    "retrieved": "2026-11-21",
+    "version": "arXiv 2010.11929v2",
+    "pages": 22,
+    "bytes": 3743814,
+    "sha256": "8ce7b83971a14508ca711a27c875c9b6914c4f6767cf3150fb1ca6c07aa056d6"
   },
   "papers/computer-vision/2022-mae.md": {
-    "source_url": "https://arxiv.org/abs/2111.06377",
-    "reason": "文件下载或版本核验中"
+    "path": "pdfs/computer-vision/2022-mae.pdf",
+    "source_url": "https://arxiv.org/pdf/2111.06377",
+    "retrieved": "2026-11-21",
+    "version": "arXiv 2111.06377v3",
+    "pages": 14,
+    "bytes": 7445748,
+    "sha256": "1b490443925c72a2b7c770f90dd797e248729ae34a57e1abfe9ed36751c4cc5b"
   },
   "papers/computer-vision/2023-segment-anything.md": {
     "source_url": "https://openaccess.thecvf.com/content/ICCV2023/html/Kirillov_Segment_Anything_ICCV_2023_paper.html",
@@ -197,8 +232,13 @@
     "reason": "文件下载或版本核验中"
   },
   "papers/computer-vision/2026-pact.md": {
-    "source_url": "https://arxiv.org/abs/2610.00451",
-    "reason": "文件下载或版本核验中"
+    "path": "pdfs/computer-vision/2026-pact.pdf",
+    "source_url": "https://arxiv.org/pdf/2610.00451v3",
+    "retrieved": "2026-11-21",
+    "version": "arXiv 2610.00451v3",
+    "pages": 31,
+    "bytes": 8684664,
+    "sha256": "76d7fa4c2fa101654b385298830657a026ee3fe600209abc4a4b702d6f0e5099"
   },
   "papers/data-mining/2008-isolation-forest.md": {
     "path": "pdfs/data-mining/2008-isolation-forest.pdf",
@@ -291,12 +331,22 @@
     "sha256": "eab9c73ae2ceda884b94830bda99312254bac4806f6c9f045cbab90721ecda31"
   },
   "papers/deep-learning/2015-batch-normalization.md": {
-    "source_url": "https://proceedings.mlr.press/v37/ioffe15.html",
-    "reason": "文件下载或版本核验中"
+    "path": "pdfs/deep-learning/2015-batch-normalization.pdf",
+    "source_url": "https://proceedings.mlr.press/v37/ioffe15.pdf",
+    "retrieved": "2026-11-21",
+    "version": "PMLR 会议论文集版",
+    "pages": 9,
+    "bytes": 318669,
+    "sha256": "f2eb20b4e97409aef516a6506ea76c7c051860eeded3006a6d9687c364847b27"
   },
   "papers/deep-learning/2019-lottery-ticket.md": {
-    "source_url": "https://arxiv.org/abs/1803.03635",
-    "reason": "文件下载或版本核验中"
+    "path": "pdfs/deep-learning/2019-lottery-ticket.pdf",
+    "source_url": "https://arxiv.org/pdf/1803.03635",
+    "retrieved": "2026-11-21",
+    "version": "arXiv 1803.03635v5",
+    "pages": 42,
+    "bytes": 4001475,
+    "sha256": "e5fe9482538b6573b59382f058c6eaefd933a9941cf7c06baf5c7577c62f68ec"
   },
   "papers/deep-learning/2020-moco.md": {
     "path": "pdfs/deep-learning/2020-moco.pdf",
@@ -308,20 +358,35 @@
     "sha256": "ad31ea26ed2d9ba3e2f767a2dcb0961a5b70ff505b1c3fb18d07201140e4e1fe"
   },
   "papers/deep-learning/2020-simclr.md": {
-    "source_url": "https://proceedings.mlr.press/v119/chen20j.html",
-    "reason": "文件下载或版本核验中"
+    "path": "pdfs/deep-learning/2020-simclr.pdf",
+    "source_url": "https://proceedings.mlr.press/v119/chen20j/chen20j.pdf",
+    "retrieved": "2026-11-21",
+    "version": "PMLR 会议论文集版",
+    "pages": 11,
+    "bytes": 3328680,
+    "sha256": "cc620e511bafe8b4b11ca3415f6d7bcf127a05818087bfa49905de3a2e50bc2d"
   },
   "papers/deep-learning/2021-dino.md": {
     "source_url": "https://arxiv.org/abs/2104.14294",
     "reason": "文件下载或版本核验中"
   },
   "papers/deep-learning/2024-mamba-2.md": {
-    "source_url": "https://proceedings.mlr.press/v235/dao24a.html",
-    "reason": "文件下载或版本核验中"
+    "path": "pdfs/deep-learning/2024-mamba-2.pdf",
+    "source_url": "https://arxiv.org/pdf/2405.21060",
+    "retrieved": "2026-11-21",
+    "version": "arXiv 2405.21060v1",
+    "pages": 52,
+    "bytes": 3209170,
+    "sha256": "6fe16414fa471a5ab150cddcba5840d3a94e347e96992c50c12c1fb8b919479f"
   },
   "papers/deep-learning/2026-earl-invariance-before-structure.md": {
-    "source_url": "https://arxiv.org/abs/2611.07952",
-    "reason": "文件下载或版本核验中"
+    "path": "pdfs/deep-learning/2026-earl-invariance-before-structure.pdf",
+    "source_url": "https://arxiv.org/pdf/2611.07952v1",
+    "retrieved": "2026-11-21",
+    "version": "arXiv 2611.07952v1",
+    "pages": 10,
+    "bytes": 1555753,
+    "sha256": "be8d7d109954d7f488fb8b94b4c6e14bfebdef68b0ca2af3b0c149cfeffbc1f7"
   },
   "papers/evaluation/2012-random-search.md": {
     "path": "pdfs/evaluation/2012-random-search.pdf",
@@ -351,8 +416,13 @@
     "sha256": "dc4cc2736671bb00a0d42c2ae9e81b5c669ecd9edb3ce9347f95606a38312866"
   },
   "papers/evaluation/2021-wilds.md": {
-    "source_url": "https://arxiv.org/abs/2012.07421",
-    "reason": "文件下载或版本核验中"
+    "path": "pdfs/evaluation/2021-wilds.pdf",
+    "source_url": "https://arxiv.org/pdf/2012.07421",
+    "retrieved": "2026-11-21",
+    "version": "arXiv 2012.07421v3",
+    "pages": 131,
+    "bytes": 22135471,
+    "sha256": "35e7bc2db39b1890ce60ffc1dec9ed6b83f87f2bcf6d8501610010442a52f581"
   },
   "papers/evaluation/2024-swe-bench.md": {
     "path": "pdfs/evaluation/2024-swe-bench.pdf",
@@ -484,8 +554,13 @@
     "sha256": "5043c0d042de82959eb43a6a261d62c142409f1897f2edd5e9eaee7b998b3282"
   },
   "papers/foundations/1996-lasso.md": {
-    "source_url": "https://academic.oup.com/jrsssb/article/58/1/267/7027929",
-    "reason": "文件下载或版本核验中"
+    "path": "pdfs/foundations/1996-lasso.pdf",
+    "source_url": "https://www2.stat.duke.edu/courses/Spring06/sta395/tibshirani.pdf",
+    "retrieved": "2026-11-21",
+    "version": "JRSS Series B 58(1)，1996 年，267–288 页，期刊扫描版",
+    "pages": 23,
+    "bytes": 2048124,
+    "sha256": "4052a11889ab5e86b30c4f31bbaab98f0eda6fa876ba39b61a7c9384e1e52a4c"
   },
   "papers/foundations/2011-adagrad.md": {
     "path": "pdfs/foundations/2011-adagrad.pdf",
@@ -533,8 +608,13 @@
     "sha256": "a1190ee66e6950128a2446dfbc78a56c938065eacaff2e1a6f2dc2a3c1df64b8"
   },
   "papers/generative-models/2013-vae.md": {
-    "source_url": "https://arxiv.org/abs/1312.6114",
-    "reason": "文件下载或版本核验中"
+    "path": "pdfs/generative-models/2013-vae.pdf",
+    "source_url": "https://arxiv.org/pdf/1312.6114",
+    "retrieved": "2026-11-21",
+    "version": "arXiv 1312.6114v11",
+    "pages": 14,
+    "bytes": 3926758,
+    "sha256": "bdcb63b79ed88f64f8ee2d43a721930d01dde5441a4dba20ecaa2342b34e017c"
   },
   "papers/generative-models/2014-gan.md": {
     "path": "pdfs/generative-models/2014-gan.pdf",
@@ -546,16 +626,26 @@
     "sha256": "ff5819e3a7b713c3bd3107b7de3d51fe0a347aa5d8444f0efdcf2345ef0a8b63"
   },
   "papers/generative-models/2016-pixelrnn.md": {
-    "source_url": "https://proceedings.mlr.press/v48/oord16.html",
-    "reason": "文件下载或版本核验中"
+    "path": "pdfs/generative-models/2016-pixelrnn.pdf",
+    "source_url": "https://arxiv.org/pdf/1601.06759",
+    "retrieved": "2026-11-21",
+    "version": "arXiv 1601.06759v3",
+    "pages": 11,
+    "bytes": 3015028,
+    "sha256": "0343b292f3378d0fccbc7cfe99188558ad8b51ba52e0e03ad4f14dac7aca37e6"
   },
   "papers/generative-models/2017-cyclegan.md": {
     "source_url": "https://arxiv.org/abs/1703.10593",
     "reason": "文件下载或版本核验中"
   },
   "papers/generative-models/2017-wgan-gp.md": {
-    "source_url": "https://arxiv.org/abs/1704.00028",
-    "reason": "文件下载或版本核验中"
+    "path": "pdfs/generative-models/2017-wgan-gp.pdf",
+    "source_url": "https://arxiv.org/pdf/1704.00028",
+    "retrieved": "2026-11-21",
+    "version": "arXiv 1704.00028v3",
+    "pages": 20,
+    "bytes": 6187582,
+    "sha256": "ee4c0bbfd2c2c2668ea802cad3e2bd96aeb8b2b7b643a55cd32e134b0de71958"
   },
   "papers/generative-models/2019-stylegan.md": {
     "source_url": "https://arxiv.org/abs/1812.04948",
@@ -570,8 +660,13 @@
     "reason": "文件下载或版本核验中"
   },
   "papers/generative-models/2023-consistency-models.md": {
-    "source_url": "https://proceedings.mlr.press/v202/song23a.html",
-    "reason": "文件下载或版本核验中"
+    "path": "pdfs/generative-models/2023-consistency-models.pdf",
+    "source_url": "https://proceedings.mlr.press/v202/song23a/song23a.pdf",
+    "retrieved": "2026-11-21",
+    "version": "PMLR 会议论文集版",
+    "pages": 42,
+    "bytes": 9793005,
+    "sha256": "8f65127c770a8e8994777010ed36dfcf64fc38f840042778eef7fe8ab2c12e10"
   },
   "papers/generative-models/2024-genie.md": {
     "source_url": "https://proceedings.mlr.press/v235/bruce24a.html",
@@ -582,8 +677,13 @@
     "reason": "文件下载或版本核验中"
   },
   "papers/generative-models/2026-online-class-posteriors.md": {
-    "source_url": "https://arxiv.org/abs/2611.03454",
-    "reason": "文件下载或版本核验中"
+    "path": "pdfs/generative-models/2026-online-class-posteriors.pdf",
+    "source_url": "https://arxiv.org/pdf/2611.03454v1",
+    "retrieved": "2026-11-21",
+    "version": "arXiv 2611.03454v1",
+    "pages": 43,
+    "bytes": 2174926,
+    "sha256": "c175fc9f94946da1d89ab033dcff659082cb0527a842f050202b9994427e3210"
   },
   "papers/graph-learning/2000-normalized-cuts.md": {
     "source_url": "https://people.eecs.berkeley.edu/~malik/papers/SM-ncut.pdf",
@@ -617,8 +717,13 @@
     "sha256": "e1f354eb12011cde24af1eb500d72463fc971b09d26b55688c7f918a86e31ce8"
   },
   "papers/graph-learning/2018-gat.md": {
-    "source_url": "https://arxiv.org/abs/1710.10903",
-    "reason": "文件下载或版本核验中"
+    "path": "pdfs/graph-learning/2018-gat.pdf",
+    "source_url": "https://arxiv.org/pdf/1710.10903",
+    "retrieved": "2026-11-21",
+    "version": "arXiv 1710.10903v3",
+    "pages": 12,
+    "bytes": 1637828,
+    "sha256": "a7d811a44e1c65bf27da3a01859f23a8edbe33b8f96114b4b5066aedb078f284"
   },
   "papers/graph-learning/2026-living-graph-leaderboard.md": {
     "path": "pdfs/graph-learning/2026-living-graph-leaderboard.pdf",
@@ -769,8 +874,13 @@
     "sha256": "a44d7e22d2005752271c9cc1929c6462d4c8270916b063977992a883e3a54362"
   },
   "papers/nlp/2014-glove.md": {
-    "source_url": "https://aclanthology.org/D14-1162/",
-    "reason": "文件下载或版本核验中"
+    "path": "pdfs/nlp/2014-glove.pdf",
+    "source_url": "https://aclanthology.org/D14-1162.pdf",
+    "retrieved": "2026-11-21",
+    "version": "ACL Anthology 论文集版",
+    "pages": 12,
+    "bytes": 2661778,
+    "sha256": "6631a1719122a89b3941d851a55ecf38c55971c36b30ae9c0cec617124056adf"
   },
   "papers/nlp/2014-seq2seq.md": {
     "path": "pdfs/nlp/2014-seq2seq.pdf",

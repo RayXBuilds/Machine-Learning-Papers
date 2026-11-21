@@ -21,6 +21,8 @@ updated: 2026-11-21
 - 原始来源：[ICML 会议版](https://proceedings.mlr.press/v139/koh21a) · [作者预印本](https://arxiv.org/abs/2012.07421)。
 - 官方代码：[作者项目](https://github.com/p-lambda/wilds)。
 
+- 仓库内 PDF：[打开全文](../../pdfs/evaluation/2021-wilds.pdf)（arXiv 2012.07421v3）。
+
 ## 解决的问题
 
 随机切分得到的分数能否反映跨医院、跨地区等实际部署差异？

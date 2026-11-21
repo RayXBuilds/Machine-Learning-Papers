@@ -12,7 +12,7 @@
 | --- | --- | --- | --- |
 | 2003 | [Latent Dirichlet Allocation](2003-lda.md) | [PDF](../../pdfs/nlp/2003-lda.pdf) | 一篇文档可能同时涉及多个主题，怎样从无标注词频中估计主题及其混合比例？ |
 | 2013 | [Efficient Estimation of Word Representations in Vector Space](2013-word2vec.md) | [PDF](../../pdfs/nlp/2013-word2vec.pdf) | 如何通过词预测任务学习分布式词表示？ |
-| 2014 | [GloVe: Global Vectors for Word Representation](2014-glove.md) | 文件下载或版本核验中 | 怎样把全语料的共现关系编码进低维向量，同时控制极常见词对对目标函数的影响？ |
+| 2014 | [GloVe: Global Vectors for Word Representation](2014-glove.md) | [PDF](../../pdfs/nlp/2014-glove.pdf) | 怎样把全语料的共现关系编码进低维向量，同时控制极常见词对对目标函数的影响？ |
 
 ## 序列建模与预训练
 

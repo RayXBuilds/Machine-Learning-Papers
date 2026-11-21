@@ -21,6 +21,8 @@ updated: 2026-11-21
 - 原始来源：[NIPS 会议版](https://papers.nips.cc/paper_files/paper/2017/hash/892c3b1c6dccd52936e27cbd0ff683d6-Abstract.html) · [作者预印本](https://arxiv.org/abs/1704.00028)。
 - 官方代码：[作者项目](https://github.com/igul222/improved_wgan_training)。
 
+- 仓库内 PDF：[打开全文](../../pdfs/generative-models/2017-wgan-gp.pdf)（arXiv 1704.00028v3）。
+
 ## 解决的问题
 
 Wasserstein GAN 对评论器权重做截断时，为何仍可能出现梯度和训练问题？

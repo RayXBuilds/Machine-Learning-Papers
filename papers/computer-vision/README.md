@@ -19,19 +19,19 @@
 | --- | --- | --- | --- |
 | 2012 | [ImageNet Classification with Deep Convolutional Neural Networks](2012-alexnet.md) | [PDF](../../pdfs/computer-vision/2012-alexnet.pdf) | 如何把卷积网络和训练方法组织成图像分类系统？ |
 | 2016 | [Deep Residual Learning for Image Recognition](2016-resnet.md) | [PDF](../../pdfs/computer-vision/2016-resnet.pdf) | 如何改善深层网络优化中的退化问题？ |
-| 2021 | [An Image is Worth 16x16 Words: Transformers for Image Recognition at Scale](2021-vit.md) | 文件下载或版本核验中 | 如何将图像转换为 Transformer 可处理的序列？ |
-| 2022 | [Masked Autoencoders Are Scalable Vision Learners](2022-mae.md) | 文件下载或版本核验中 | 遮掉大部分图像块后，重建像素能否提供有效且高效的视觉预训练信号？ |
+| 2021 | [An Image is Worth 16x16 Words: Transformers for Image Recognition at Scale](2021-vit.md) | [PDF](../../pdfs/computer-vision/2021-vit.pdf) | 如何将图像转换为 Transformer 可处理的序列？ |
+| 2022 | [Masked Autoencoders Are Scalable Vision Learners](2022-mae.md) | [PDF](../../pdfs/computer-vision/2022-mae.pdf) | 遮掉大部分图像块后，重建像素能否提供有效且高效的视觉预训练信号？ |
 | 2025 | [Perception Encoder: The best visual embeddings are not at the output of the network](2025-perception-encoder.md) | 文件下载或版本核验中 | 同一视觉编码器里，最适合全局检索和局部定位的特征是否来自同一层？ |
 
 ## 检测、分割与人体理解
 
 | 归档年 | 论文与导读 | PDF | 阅读问题 |
 | --- | --- | --- | --- |
-| 2014 | [Rich feature hierarchies for accurate object detection and semantic segmentation](2014-r-cnn.md) | 文件下载或版本核验中 | 如何把只输出整图类别的卷积网络用于定位多个目标，并利用数量有限的检测标注？ |
+| 2014 | [Rich feature hierarchies for accurate object detection and semantic segmentation](2014-r-cnn.md) | [PDF](../../pdfs/computer-vision/2014-r-cnn.pdf) | 如何把只输出整图类别的卷积网络用于定位多个目标，并利用数量有限的检测标注？ |
 | 2015 | [Fully Convolutional Networks for Semantic Segmentation](2015-fcn.md) | [PDF](../../pdfs/computer-vision/2015-fcn.pdf) | 分类网络不断下采样后保留了语义，怎样恢复到能给每个像素标注类别的空间尺度？ |
-| 2020 | [End-to-End Object Detection with Transformers](2020-detr.md) | 文件下载或版本核验中 | 怎样让检测器直接输出一组物体，减少对锚框设计和重复框后处理的依赖？ |
+| 2020 | [End-to-End Object Detection with Transformers](2020-detr.md) | [PDF](../../pdfs/computer-vision/2020-detr.pdf) | 怎样让检测器直接输出一组物体，减少对锚框设计和重复框后处理的依赖？ |
 | 2023 | [Segment Anything](2023-segment-anything.md) | 文件下载或版本核验中 | 同一张图里，一个点可能落在衣袖、衣服或人身上。分割模型如何响应含义不唯一的提示？ |
-| 2026 | [PACT: End-to-End Learning of Human Pose, Contacts, and Forces from Video](2026-pact.md) | 文件下载或版本核验中 | 从单目视频分阶段恢复姿态、接触和作用力容易传递误差。论文尝试让这些受共同物理规律约束的量联合估计。 |
+| 2026 | [PACT: End-to-End Learning of Human Pose, Contacts, and Forces from Video](2026-pact.md) | [PDF](../../pdfs/computer-vision/2026-pact.pdf) | 从单目视频分阶段恢复姿态、接触和作用力容易传递误差。论文尝试让这些受共同物理规律约束的量联合估计。 |
 
 ## 跨主题阅读
 

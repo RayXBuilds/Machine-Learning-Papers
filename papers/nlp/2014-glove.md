@@ -21,6 +21,8 @@ updated: 2026-11-21
 - 原始来源：[论文入口](https://aclanthology.org/D14-1162/)
 - 官方代码：[作者项目](https://github.com/stanfordnlp/GloVe)
 
+- 仓库内 PDF：[打开全文](../../pdfs/nlp/2014-glove.pdf)（ACL Anthology 论文集版）。
+
 ## 解决的问题
 
 怎样把全语料的共现关系编码进低维向量，同时控制极常见词对对目标函数的影响？

@@ -22,6 +22,8 @@ updated: 2026-11-21
 - 原始来源：[原文](https://proceedings.mlr.press/v119/chen20j.html)。
 - 官方代码：原导读未单独核实，本次编排未新增代码可用性声明。
 
+- 仓库内 PDF：[打开全文](../../pdfs/deep-learning/2020-simclr.pdf)（PMLR 会议论文集版）。
+
 ## 解决的问题
 
 如何通过增强视图和对比目标学习无标签视觉表示？

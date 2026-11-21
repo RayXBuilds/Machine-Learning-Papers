@@ -21,6 +21,8 @@ updated: 2026-11-21
 - 原始来源：[论文入口](https://proceedings.mlr.press/v48/oord16.html)
 - 官方代码：在本次核对的一手来源中未确认论文配套实现。
 
+- 仓库内 PDF：[打开全文](../../pdfs/generative-models/2016-pixelrnn.pdf)（arXiv 1601.06759v3）。
+
 ## 解决的问题
 
 怎样为整幅图像写出可直接计算的概率，同时利用远处像素与颜色通道之间的依赖？

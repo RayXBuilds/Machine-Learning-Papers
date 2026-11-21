@@ -20,6 +20,8 @@ updated: 2026-11-21
 - 年份采用预印本 v1 的 2026 年，首次提交于 2026-11-05（UTC）。当前核对版本为 v1，书目备注为 NeurIPS 2026 UniReps workshop 扩展摘要，正式接收状态待核实。[书目页](https://arxiv.org/abs/2611.07952)
 - 原始正文给出 EARL 框架、指标和对照实验。本次核对的书目页及正文未列出官方代码链接，代码可用性待核实。[正文](https://arxiv.org/html/2611.07952v1)
 
+- 仓库内 PDF：[打开全文](../../pdfs/deep-learning/2026-earl-invariance-before-structure.pdf)（arXiv 2611.07952v1）。
+
 ## 解决的问题
 
 不同参数的网络为何学到相似表征，这种一致性如何随任务学习形成？论文将表征对底层参数的不变性与其时间预测结构分别研究。[摘要](https://arxiv.org/abs/2611.07952)

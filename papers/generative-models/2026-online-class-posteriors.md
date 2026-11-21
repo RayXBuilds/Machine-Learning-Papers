@@ -21,6 +21,8 @@ updated: 2026-11-21
 - 原始正文提供后验估计、逻辑算子及实验附录。[arXiv HTML](https://arxiv.org/html/2611.03454v1)
 - 官方代码由原文附录 H 确认，README 按合成数据、MNIST、文本和抗体序列列出复现入口。已核对 README，权重及实验运行待验证。[作者仓库](https://github.com/Gianni-Van-de-Velde/Online-Class-Posteriors-for-Interpretable-and-Controllable-Discrete-Diffusion)
 
+- 仓库内 PDF：[打开全文](../../pdfs/generative-models/2026-online-class-posteriors.pdf)（arXiv 2611.03454v1）。
+
 ## 解决的问题
 
 离散扩散逐步生成 token 时，需要跟踪当前样本属于指定类别的概率，以解释生成轨迹，并按多个条件控制生成。[摘要](https://arxiv.org/abs/2611.03454)

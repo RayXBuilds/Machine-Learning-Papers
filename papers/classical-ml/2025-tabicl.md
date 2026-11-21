@@ -21,6 +21,8 @@ updated: 2026-11-21
 - 原始来源：[ICML 2025 书目](https://proceedings.mlr.press/v267/qu25d.html) · [arXiv 版本记录](https://arxiv.org/abs/2502.05564)。
 - 官方代码：已核对[作者项目仓库](https://github.com/soda-inria/tabicl)。
 
+- 仓库内 PDF：[打开全文](../../pdfs/classical-ml/2025-tabicl.pdf)（arXiv 2502.05564v2）。
+
 ## 解决的问题
 
 把已标注样本当上下文预测测试标签时，如何处理样本数较多的表格？

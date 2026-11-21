@@ -21,6 +21,8 @@ updated: 2026-11-21
 - 原始来源：[ICLR 会议版](https://openreview.net/forum?id=rJl-b3RcF7) · [作者预印本](https://arxiv.org/abs/1803.03635)。
 - 官方代码：[作者项目](https://github.com/google-research/lottery-ticket-hypothesis)（第一作者参与的 MNIST 重实现）。
 
+- 仓库内 PDF：[打开全文](../../pdfs/deep-learning/2019-lottery-ticket.pdf)（arXiv 1803.03635v5）。
+
 ## 解决的问题
 
 剪枝后的小网络如果从头训练，原来的哪些信息决定了它能否赶上稠密网络？

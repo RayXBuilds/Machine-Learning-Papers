@@ -9,6 +9,7 @@
 - [CLIP](2021-clip.md)
 
 - 2003 · [Modeling Annotated Data](2003-modeling-annotated-data.md)
+- 2015 · [图像描述中的视觉注意力](2015-show-attend-tell.md)
 
 ## 历史 PDF
 

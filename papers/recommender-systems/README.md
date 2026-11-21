@@ -14,6 +14,7 @@
 
 - 2007 · [Probabilistic Matrix Factorization](2007-probabilistic-matrix-factorization.md)
 - 2009 · [BPR: Bayesian Personalized Ranking from Implicit Feedback](2009-bpr.md)
+- 2010 · [FM · 稀疏特征交互](2010-factorization-machines.md)
 
 ## 历史 PDF
 

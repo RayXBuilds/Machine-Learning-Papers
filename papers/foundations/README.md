@@ -14,6 +14,8 @@
 
 - 1988 · [Local Computations with Probabilities on Graphical Structures and Their Application to Expert Systems](1988-local-probability-computations.md)
 - 1996 · [Regression Shrinkage and Selection Via the Lasso](1996-lasso.md)
+- 2011 · [AdaGrad · 自适应次梯度](2011-adagrad.md)
+- 2013 · [SVI · 随机变分推断](2013-stochastic-variational-inference.md)
 
 ## 历史 PDF
 

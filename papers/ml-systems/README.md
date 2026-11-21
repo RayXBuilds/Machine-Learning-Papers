@@ -10,6 +10,7 @@
 - [Phantom · 扩散模型时间缓存](2026-phantom-temporal-caching.md)
 
 - 2004 · [MapReduce: Simplified Data Processing on Large Clusters](2004-mapreduce.md)
+- 2016 · [EIE · 压缩网络推理硬件](2016-eie.md)
 
 ## 历史 PDF
 

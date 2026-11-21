@@ -10,6 +10,7 @@
 - [A Living Leaderboard for Graph Machine Learning](2026-living-graph-leaderboard.md)
 
 - 2000 · [Normalized Cuts and Image Segmentation](2000-normalized-cuts.md)
+- 2014 · [DeepWalk · 随机游走图嵌入](2014-deepwalk.md)
 
 ## 历史 PDF
 

@@ -26,6 +26,7 @@
 建议从 Temperature Scaling 入门，再比较 MOVAL 的性能估计与 LAPE 的局部校准。
 
 相关主题：[S-EDL 的语义校准](../nlp/2026-s-edl.md)（主文件在 NLP，不重复计数）。
+- 2012 · [随机超参数搜索](2012-random-search.md)
 
 ## 历史 PDF
 

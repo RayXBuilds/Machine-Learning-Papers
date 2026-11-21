@@ -14,6 +14,8 @@
 
 - 2004 · [Distinctive Image Features from Scale-Invariant Keypoints](2004-sift.md)
 - 2005 · [Histograms of Oriented Gradients for Human Detection](2005-hog.md)
+- 2014 · [R-CNN · 候选区域检测](2014-r-cnn.md)
+- 2015 · [FCN · 像素级语义分割](2015-fcn.md)
 
 ## 历史 PDF
 

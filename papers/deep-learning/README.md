@@ -15,6 +15,9 @@
 
 - 1986 · [Learning representations by back-propagating errors](1986-backpropagation.md)
 - 2006 · [Reducing the Dimensionality of Data with Neural Networks](2006-deep-autoencoder.md)
+- 2010 · [LISTA · 学习稀疏编码](2010-lista.md)
+- 2010 · [Glorot 初始化](2010-glorot-initialization.md)
+- 2011 · [整流激活与稀疏表示](2011-deep-sparse-rectifiers.md)
 
 ## 历史 PDF
 

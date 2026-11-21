@@ -18,6 +18,8 @@
 - [DUMP tokens · 检索表征前缀训练](2026-dump-retrieval-prefix-tokens.md)
 
 - 2003 · [Latent Dirichlet Allocation](2003-lda.md)
+- 2014 · [GloVe · 全局共现词向量](2014-glove.md)
+- 2015 · [机器翻译中的软对齐](2015-bahdanau-attention.md)
 
 ## 历史 PDF
 

@@ -13,6 +13,7 @@
 - [Latent Diffusion](2022-latent-diffusion.md)
 
 - 2002 · [Training Products of Experts by Minimizing Contrastive Divergence](2002-contrastive-divergence.md)
+- 2016 · [PixelRNN · 像素自回归模型](2016-pixelrnn.md)
 
 ## 历史 PDF
 

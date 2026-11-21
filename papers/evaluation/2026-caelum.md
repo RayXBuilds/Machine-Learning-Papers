@@ -21,6 +21,8 @@ updated: 2026-11-21
 - 官方项目页介绍 CAELUM 的语义预测集与覆盖界，并链接代码。[项目页](https://unco3892.github.io/caelum/)
 - 官方仓库包含生成、匹配、校准和缓存分析入口。已核对 README，运行验证待开展。[作者代码](https://github.com/Unco3892/caelum)
 
+- 仓库内 PDF：[打开全文](../../pdfs/evaluation/2026-caelum.pdf)（arXiv 2611.10738v1）。
+
 ## 解决的问题
 
 开放式生成的候选回答可能完全遗漏参考答案，导致语义预测集的实际覆盖受到候选支持集限制。论文研究这一限制如何进入共形预测保证。[摘要](https://arxiv.org/abs/2611.10738)

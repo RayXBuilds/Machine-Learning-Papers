@@ -8,26 +8,26 @@
 
 ## 协同过滤与交互建模
 
-| 归档年 | 论文与导读 | 阅读问题 |
-| --- | --- | --- |
-| 2007 | [Probabilistic Matrix Factorization](2007-probabilistic-matrix-factorization.md) | 用户与物品形成的评分矩阵大多为空，如何估计有用的低维因子而无需填满所有空格？ |
-| 2009 | [BPR: Bayesian Personalized Ranking from Implicit Feedback](2009-bpr.md) | 点击或购买只有正向观测，怎样让训练目标直接对应用户的物品排序？ |
-| 2010 | [Factorization Machines](2010-factorization-machines.md) | 用户、物品与上下文构成高维稀疏向量时，很多特征对几乎从未共同出现，怎样估计其交互？ |
-| 2017 | [Neural Collaborative Filtering](2017-ncf.md) | 如何用神经网络建模用户和物品交互？ |
-| 2020 | [LightGCN: Simplifying and Powering Graph Convolution Network for Recommendation](2020-lightgcn.md) | 只有用户和物品交互时，图卷积中的特征变换与非线性是否都对推荐有益？ |
+| 归档年 | 论文与导读 | PDF | 阅读问题 |
+| --- | --- | --- | --- |
+| 2007 | [Probabilistic Matrix Factorization](2007-probabilistic-matrix-factorization.md) | [PDF](../../pdfs/recommender-systems/2007-probabilistic-matrix-factorization.pdf) | 用户与物品形成的评分矩阵大多为空，如何估计有用的低维因子而无需填满所有空格？ |
+| 2009 | [BPR: Bayesian Personalized Ranking from Implicit Feedback](2009-bpr.md) | 文件下载或版本核验中 | 点击或购买只有正向观测，怎样让训练目标直接对应用户的物品排序？ |
+| 2010 | [Factorization Machines](2010-factorization-machines.md) | 文件下载或版本核验中 | 用户、物品与上下文构成高维稀疏向量时，很多特征对几乎从未共同出现，怎样估计其交互？ |
+| 2017 | [Neural Collaborative Filtering](2017-ncf.md) | [PDF](../../pdfs/recommender-systems/2017-ncf.pdf) | 如何用神经网络建模用户和物品交互？ |
+| 2020 | [LightGCN: Simplifying and Powering Graph Convolution Network for Recommendation](2020-lightgcn.md) | [PDF](../../pdfs/recommender-systems/2020-lightgcn.pdf) | 只有用户和物品交互时，图卷积中的特征变换与非线性是否都对推荐有益？ |
 
 ## 序列与语言模型推荐
 
-| 归档年 | 论文与导读 | 阅读问题 |
-| --- | --- | --- |
-| 2024 | [Actions Speak Louder than Words: Trillion-Parameter Sequential Transducers for Generative Recommendations](2024-hstu.md) | 用户历史由大量异构、稀疏且不断变化的事件组成，如何让推荐质量随计算规模提升？ |
-| 2026 | [ReflectRec: Cycle-Consistency Preference Verification for LLM-based Recommendation](2026-reflectrec.md) | 语言模型生成的用户偏好描述能否忠实反映交互历史？论文为推荐流程增加可检查的中间信号，避免直接信任偏好文本。会议摘要 |
+| 归档年 | 论文与导读 | PDF | 阅读问题 |
+| --- | --- | --- | --- |
+| 2024 | [Actions Speak Louder than Words: Trillion-Parameter Sequential Transducers for Generative Recommendations](2024-hstu.md) | [PDF](../../pdfs/recommender-systems/2024-hstu.pdf) | 用户历史由大量异构、稀疏且不断变化的事件组成，如何让推荐质量随计算规模提升？ |
+| 2026 | [ReflectRec: Cycle-Consistency Preference Verification for LLM-based Recommendation](2026-reflectrec.md) | [PDF](../../pdfs/recommender-systems/2026-reflectrec.pdf) | 语言模型生成的用户偏好描述能否忠实反映交互历史？论文为推荐流程增加可检查的中间信号，避免直接信任偏好文本。会议摘要 |
 
 ## 科研资源推荐
 
-| 归档年 | 论文与导读 | 阅读问题 |
-| --- | --- | --- |
-| 2026 | [Dataset Recommendation for Heterogeneous and Dynamic Scholarly Graphs via Multimodal Representation Learning](2026-mm-san.md) | 给定研究论文，如何在关系稀疏、描述缺失且不断加入新节点的学术知识图谱中推荐可用数据集。观测到的论文与数据集关联并不完整，相关资源可能缺少显式连接。原文 |
+| 归档年 | 论文与导读 | PDF | 阅读问题 |
+| --- | --- | --- | --- |
+| 2026 | [Dataset Recommendation for Heterogeneous and Dynamic Scholarly Graphs via Multimodal Representation Learning](2026-mm-san.md) | [PDF](../../pdfs/recommender-systems/2026-mm-san.pdf) | 给定研究论文，如何在关系稀疏、描述缺失且不断加入新节点的学术知识图谱中推荐可用数据集。观测到的论文与数据集关联并不完整，相关资源可能缺少显式连接。原文 |
 
 ## 跨主题阅读
 

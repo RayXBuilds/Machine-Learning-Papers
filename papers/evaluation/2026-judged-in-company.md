@@ -21,6 +21,8 @@ updated: 2026-11-21
 - 原始来源：[书目与摘要](https://arxiv.org/abs/2610.40241) · [v1 正文](https://arxiv.org/html/2610.40241v1)。
 - 官方代码：正文列出 [PX-CPS/Judged_in_company](https://github.com/PX-CPS/Judged_in_company)，并使用未来发布措辞；2026-11-02 打开仓库及读取 README 均返回 404，尚未核实公开可用实现，未复现。
 
+- 仓库内 PDF：[打开全文](../../pdfs/evaluation/2026-judged-in-company.pdf)（arXiv 2610.40241v1）。
+
 ## 解决的问题
 
 将独立条目合并进同一提示词可以减少重复指令，但某条内容的评分是否会随同批内容及位置改变？整体准确率接近，并不保证逐条判断稳定。

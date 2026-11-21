@@ -21,6 +21,8 @@ updated: 2026-11-21
 - 原始正文提供方法、实验及讨论章节。[arXiv HTML](https://arxiv.org/html/2611.02270v1)
 - 官方代码由原文链接确认，已核对 README 中的结果重绘和数据生成入口，实验运行待开展。[tatsu-lab/hinted-scaling-laws](https://github.com/tatsu-lab/hinted-scaling-laws)
 
+- 仓库内 PDF：[打开全文](../../pdfs/evaluation/2026-hinted-scaling-laws.pdf)（arXiv 2611.02270v1）。
+
 ## 解决的问题
 
 困难基准上，小模型准确率接近零，直接从这些得分外推大模型表现容易缺少有效信号。论文研究如何让低计算量实验提供下游准确率的预测依据。[摘要](https://arxiv.org/abs/2611.02270)

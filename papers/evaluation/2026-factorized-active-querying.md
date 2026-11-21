@@ -21,6 +21,8 @@ updated: 2026-11-21
 - 原始来源：[书目与摘要](https://arxiv.org/abs/2601.20251) · [v4 正文](https://arxiv.org/html/2601.20251v4)。
 - 官方代码：[skbwu/efficiently-evaluating-llms](https://github.com/skbwu/efficiently-evaluating-llms)；已核对代码与数据入口，未运行。
 
+- 仓库内 PDF：[打开全文](../../pdfs/evaluation/2026-factorized-active-querying.pdf)（arXiv 2601.20251v4）。
+
 ## 解决的问题
 
 给定固定题库和有限调用预算，如何估计语言模型准确率，并为估计值提供可信的置信区间？

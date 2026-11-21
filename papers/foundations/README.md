@@ -8,20 +8,20 @@
 
 ## 概率推断与图模型
 
-| 归档年 | 论文与导读 | 阅读问题 |
-| --- | --- | --- |
-| 1977 | [Maximum Likelihood from Incomplete Data Via the EM Algorithm](1977-em-algorithm.md) | 存在缺失数据或潜变量时，如何系统地计算最大似然估计？ |
-| 1988 | [Local Computations with Probabilities on Graphical Structures and Their Application to Expert Systems](1988-local-probability-computations.md) | 已知一些变量的取值后，怎样在含条件依赖的系统中更新其他变量的概率？ |
-| 2013 | [Stochastic Variational Inference](2013-stochastic-variational-inference.md) | 贝叶斯模型的全批量变分更新每轮都要遍历数据，大规模语料上怎样更新全局后验近似？ |
-| 2026 | [Posterior contraction rates for banded approximations of Gaussian processes](2026-banded-gaussian-processes.md) | 高斯过程回归的稠密矩阵计算限制了数据规模。论文研究按空间距离截断协方差后，需要保留多少邻域依赖，才能维持统计估计质量。摘要 |
+| 归档年 | 论文与导读 | PDF | 阅读问题 |
+| --- | --- | --- | --- |
+| 1977 | [Maximum Likelihood from Incomplete Data Via the EM Algorithm](1977-em-algorithm.md) | 文件下载或版本核验中 | 存在缺失数据或潜变量时，如何系统地计算最大似然估计？ |
+| 1988 | [Local Computations with Probabilities on Graphical Structures and Their Application to Expert Systems](1988-local-probability-computations.md) | 文件下载或版本核验中 | 已知一些变量的取值后，怎样在含条件依赖的系统中更新其他变量的概率？ |
+| 2013 | [Stochastic Variational Inference](2013-stochastic-variational-inference.md) | [PDF](../../pdfs/foundations/2013-stochastic-variational-inference.pdf) | 贝叶斯模型的全批量变分更新每轮都要遍历数据，大规模语料上怎样更新全局后验近似？ |
+| 2026 | [Posterior contraction rates for banded approximations of Gaussian processes](2026-banded-gaussian-processes.md) | 文件下载或版本核验中 | 高斯过程回归的稠密矩阵计算限制了数据规模。论文研究按空间距离截断协方差后，需要保留多少邻域依赖，才能维持统计估计质量。摘要 |
 
 ## 正则化、优化与学习理论
 
-| 归档年 | 论文与导读 | 阅读问题 |
-| --- | --- | --- |
-| 1996 | [Regression Shrinkage and Selection Via the Lasso](1996-lasso.md) | 回归变量较多时，能否一边压缩估计方差，一边得到变量子集？ |
-| 2011 | [Adaptive Subgradient Methods for Online Learning and Stochastic Optimization](2011-adagrad.md) | 在线更新中，不同坐标的出现频率与梯度尺度相差很大，统一步长可能淹没稀有特征。 |
-| 2026 | [A Matching Lower Bound for Online Smooth Calibration](2026-online-smooth-calibration-lower-bound.md) | 序贯二元预测中，平滑校准误差用 Lipschitz 测试函数度量预测残差。论文研究面对自适应对手时，任何预测器都无法避免多大的误差。摘要 |
+| 归档年 | 论文与导读 | PDF | 阅读问题 |
+| --- | --- | --- | --- |
+| 1996 | [Regression Shrinkage and Selection Via the Lasso](1996-lasso.md) | 文件下载或版本核验中 | 回归变量较多时，能否一边压缩估计方差，一边得到变量子集？ |
+| 2011 | [Adaptive Subgradient Methods for Online Learning and Stochastic Optimization](2011-adagrad.md) | [PDF](../../pdfs/foundations/2011-adagrad.pdf) | 在线更新中，不同坐标的出现频率与梯度尺度相差很大，统一步长可能淹没稀有特征。 |
+| 2026 | [A Matching Lower Bound for Online Smooth Calibration](2026-online-smooth-calibration-lower-bound.md) | 文件下载或版本核验中 | 序贯二元预测中，平滑校准误差用 Lipschitz 测试函数度量预测残差。论文研究面对自适应对手时，任何预测器都无法避免多大的误差。摘要 |
 
 ## 跨主题阅读
 

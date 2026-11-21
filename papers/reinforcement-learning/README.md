@@ -8,32 +8,32 @@
 
 ## 价值学习
 
-| 归档年 | 论文与导读 | 阅读问题 |
-| --- | --- | --- |
-| 1992 | [Q-learning](1992-q-learning.md) | 智能体只观测实际采取动作的收益和后继状态，能否学出最优动作价值？ |
-| 2015 | [Human-level control through deep reinforcement learning](2015-dqn.md) | 如何组合深度 Q 网络、经验回放与目标网络学习控制？ |
+| 归档年 | 论文与导读 | PDF | 阅读问题 |
+| --- | --- | --- | --- |
+| 1992 | [Q-learning](1992-q-learning.md) | [PDF](../../pdfs/reinforcement-learning/1992-q-learning.pdf) | 智能体只观测实际采取动作的收益和后继状态，能否学出最优动作价值？ |
+| 2015 | [Human-level control through deep reinforcement learning](2015-dqn.md) | 文件下载或版本核验中 | 如何组合深度 Q 网络、经验回放与目标网络学习控制？ |
 
 ## 策略优化与连续控制
 
-| 归档年 | 论文与导读 | 阅读问题 |
-| --- | --- | --- |
-| 2015 | [Trust Region Policy Optimization](2015-trpo.md) | 策略梯度沿好方向移动过远时，采样数据所代表的状态分布会失效，怎样控制一次更新的幅度？ |
-| 2017 | [Proximal Policy Optimization Algorithms](2017-ppo.md) | 如何在多轮小批量更新中控制策略变化？ |
-| 2018 | [Addressing Function Approximation Error in Actor-Critic Methods](2018-td3.md) | 当策略追逐近似价值函数的高点时，估值误差如何在连续控制中累积？ |
-| 2018 | [Soft Actor-Critic: Off-Policy Maximum Entropy Deep Reinforcement Learning with a Stochastic Actor](2018-sac.md) | 如何结合奖励与熵目标训练离策略随机控制策略？ |
+| 归档年 | 论文与导读 | PDF | 阅读问题 |
+| --- | --- | --- | --- |
+| 2015 | [Trust Region Policy Optimization](2015-trpo.md) | [PDF](../../pdfs/reinforcement-learning/2015-trpo.pdf) | 策略梯度沿好方向移动过远时，采样数据所代表的状态分布会失效，怎样控制一次更新的幅度？ |
+| 2017 | [Proximal Policy Optimization Algorithms](2017-ppo.md) | [PDF](../../pdfs/reinforcement-learning/2017-ppo.pdf) | 如何在多轮小批量更新中控制策略变化？ |
+| 2018 | [Addressing Function Approximation Error in Actor-Critic Methods](2018-td3.md) | [PDF](../../pdfs/reinforcement-learning/2018-td3.pdf) | 当策略追逐近似价值函数的高点时，估值误差如何在连续控制中累积？ |
+| 2018 | [Soft Actor-Critic: Off-Policy Maximum Entropy Deep Reinforcement Learning with a Stochastic Actor](2018-sac.md) | [PDF](../../pdfs/reinforcement-learning/2018-sac.pdf) | 如何结合奖励与熵目标训练离策略随机控制策略？ |
 
 ## 离线决策与语言推理
 
-| 归档年 | 论文与导读 | 阅读问题 |
-| --- | --- | --- |
-| 2021 | [Decision Transformer: Reinforcement Learning via Sequence Modeling](2021-decision-transformer.md) | 能否只用现成的轨迹，通过指定目标回报让模型生成动作？ |
-| 2025 | [DeepSeek-R1: Incentivizing Reasoning Capability in LLMs via Reinforcement Learning](2025-deepseek-r1.md) | 在答案可判定的任务上，只给结果奖励能否塑造更长的推理行为？ |
+| 归档年 | 论文与导读 | PDF | 阅读问题 |
+| --- | --- | --- | --- |
+| 2021 | [Decision Transformer: Reinforcement Learning via Sequence Modeling](2021-decision-transformer.md) | [PDF](../../pdfs/reinforcement-learning/2021-decision-transformer.pdf) | 能否只用现成的轨迹，通过指定目标回报让模型生成动作？ |
+| 2025 | [DeepSeek-R1: Incentivizing Reasoning Capability in LLMs via Reinforcement Learning](2025-deepseek-r1.md) | 文件下载或版本核验中 | 在答案可判定的任务上，只给结果奖励能否塑造更长的推理行为？ |
 
 ## 安全约束
 
-| 归档年 | 论文与导读 | 阅读问题 |
-| --- | --- | --- |
-| 2026 | [Accelerating Safe Reinforcement Learning with Massive Parallelism](2026-massively-parallel-safe-rl.md) | 大规模并行环境常以短轨迹更新策略，但安全约束通常衡量整回合累计代价，造成估计尺度与采样分布的不匹配。摘要 |
+| 归档年 | 论文与导读 | PDF | 阅读问题 |
+| --- | --- | --- | --- |
+| 2026 | [Accelerating Safe Reinforcement Learning with Massive Parallelism](2026-massively-parallel-safe-rl.md) | [PDF](../../pdfs/reinforcement-learning/2026-massively-parallel-safe-rl.pdf) | 大规模并行环境常以短轨迹更新策略，但安全约束通常衡量整回合累计代价，造成估计尺度与采样分布的不匹配。摘要 |
 
 ## 跨主题阅读
 

@@ -21,6 +21,8 @@ updated: 2026-11-21
 - 原始来源：[原文](https://research.monash.edu/en/publications/isolation-forest/)
 - 官方代码：核对的原始资料中未确认论文配套实现。
 
+- 仓库内 PDF：[打开全文](../../pdfs/data-mining/2008-isolation-forest.pdf)（作者机构公开稿（ICDM 2008））。
+
 ## 解决的问题
 
 在缺少异常标签时，能否直接判断一个点有多容易被隔离？

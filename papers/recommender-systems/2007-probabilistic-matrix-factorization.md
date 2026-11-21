@@ -21,6 +21,8 @@ updated: 2026-11-21
 - 原始来源：[原文](https://papers.nips.cc/paper/2007/file/d7322ed717dedf1eb4e6e52a37ea7bcd-Paper.pdf)
 - 官方代码：[作者的 MATLAB 软件包，含 pmf.m](https://www.cs.utoronto.ca/~rsalakhu/BPMF.html)
 
+- 仓库内 PDF：[打开全文](../../pdfs/recommender-systems/2007-probabilistic-matrix-factorization.pdf)（会议论文集版（papers.nips.cc））。
+
 ## 解决的问题
 
 用户与物品形成的评分矩阵大多为空，如何估计有用的低维因子而无需填满所有空格？

@@ -21,6 +21,8 @@ updated: 2026-11-21
 - 原始来源：[arXiv 书目页](https://arxiv.org/abs/2610.31275) · [v1 正文](https://arxiv.org/html/2610.31275v1)。
 - 官方代码：正文 VI-D 称接收后发布代码与数据；截至核对日，所核页面未提供已发布代码包。
 
+- 仓库内 PDF：[打开全文](../../pdfs/applications/2026-synthetic-robot-priors.pdf)（arXiv 2610.31275v1）。
+
 ## 解决的问题
 
 机器人行为数据收集成本高。能否先从不含真实机器人轨迹的程序化数据中学到有助于动作预测的结构？

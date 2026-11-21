@@ -21,6 +21,8 @@ updated: 2026-11-21
 - 原始来源：[论文入口](https://proceedings.mlr.press/v9/glorot10a.html)
 - 官方代码：在本次核对的一手来源中未确认论文配套实现。
 
+- 仓库内 PDF：[打开全文](../../pdfs/deep-learning/2010-glorot-initialization.pdf)（PMLR 会议论文集版）。
+
 ## 解决的问题
 
 随机初始化时，为什么深层网络的部分隐层很快饱和，学习随后陷入长时间停滞？

@@ -21,6 +21,8 @@ updated: 2026-11-21
 - 原始来源：[论文入口](https://jmlr.org/papers/v14/hoffman13a.html)
 - 官方代码：在本次核对的一手来源中未确认论文配套实现。
 
+- 仓库内 PDF：[打开全文](../../pdfs/foundations/2013-stochastic-variational-inference.pdf)（JMLR 期刊版）。
+
 ## 解决的问题
 
 贝叶斯模型的全批量变分更新每轮都要遍历数据，大规模语料上怎样更新全局后验近似？

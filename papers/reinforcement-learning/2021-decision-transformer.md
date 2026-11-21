@@ -21,6 +21,8 @@ updated: 2026-11-21
 - 原始来源：[NeurIPS 会议版](https://proceedings.neurips.cc/paper/2021/hash/7f489f642a0ddb10272b5c31057f0663-Abstract.html) · [作者预印本](https://arxiv.org/abs/2106.01345)。
 - 官方代码：[作者项目](https://github.com/kzl/decision-transformer)。
 
+- 仓库内 PDF：[打开全文](../../pdfs/reinforcement-learning/2021-decision-transformer.pdf)（arXiv 2106.01345v2）。
+
 ## 解决的问题
 
 能否只用现成的轨迹，通过指定目标回报让模型生成动作？

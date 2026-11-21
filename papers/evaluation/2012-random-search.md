@@ -21,6 +21,8 @@ updated: 2026-11-21
 - 原始来源：[论文入口](https://jmlr.org/papers/v13/bergstra12a.html)
 - 官方代码：在本次核对的一手来源中未确认论文配套实现。
 
+- 仓库内 PDF：[打开全文](../../pdfs/evaluation/2012-random-search.pdf)（JMLR 期刊版）。
+
 ## 解决的问题
 
 给定固定训练预算，当只有少数超参数强烈影响结果时，网格能试到多少种真正不同的配置？

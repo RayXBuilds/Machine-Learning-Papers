@@ -21,6 +21,8 @@ updated: 2026-11-21
 - 原始来源：[arXiv 书目](https://arxiv.org/abs/2611.20411) · [v1 正文](https://arxiv.org/pdf/2611.20411v1)。
 - 官方代码：未在上述原始来源中找到本论文的官方代码链接。
 
+- 仓库内 PDF：[打开全文](../../pdfs/classical-ml/2026-unaligned-ordinal-transfer.pdf)（arXiv 2611.20411v1）。
+
 ## 解决的问题
 
 源域和目标域可能采用不同等级数量或定义的有序标签。论文研究这种响应空间不对齐时，如何在高维回归中迁移信息。[摘要](https://arxiv.org/abs/2611.20411)

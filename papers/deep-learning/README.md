@@ -8,32 +8,32 @@
 
 ## 网络训练与优化
 
-| 归档年 | 论文与导读 | 阅读问题 |
-| --- | --- | --- |
-| 1986 | [Learning representations by back-propagating errors](1986-backpropagation.md) | 输出带有监督信号时，隐藏单元应怎样调整才能学到适合任务的表示？ |
-| 2010 | [Understanding the difficulty of training deep feedforward neural networks](2010-glorot-initialization.md) | 随机初始化时，为什么深层网络的部分隐层很快饱和，学习随后陷入长时间停滞？ |
-| 2011 | [Deep Sparse Rectifier Neural Networks](2011-deep-sparse-rectifiers.md) | 深层监督网络能否直接学到含大量精确零值的表示，并减少对无监督预训练的依赖？ |
-| 2014 | [Dropout: A Simple Way to Prevent Neural Networks from Overfitting](2014-dropout.md) | 如何在神经网络训练中使用随机丢弃进行正则化？ |
-| 2015 | [Adam: A Method for Stochastic Optimization](2015-adam.md) | 如何利用梯度的矩估计构造自适应更新步长？ |
-| 2015 | [Batch Normalization: Accelerating Deep Network Training by Reducing Internal Covariate Shift](2015-batch-normalization.md) | 如何在网络中计算和使用批归一化？ |
+| 归档年 | 论文与导读 | PDF | 阅读问题 |
+| --- | --- | --- | --- |
+| 1986 | [Learning representations by back-propagating errors](1986-backpropagation.md) | 文件下载或版本核验中 | 输出带有监督信号时，隐藏单元应怎样调整才能学到适合任务的表示？ |
+| 2010 | [Understanding the difficulty of training deep feedforward neural networks](2010-glorot-initialization.md) | [PDF](../../pdfs/deep-learning/2010-glorot-initialization.pdf) | 随机初始化时，为什么深层网络的部分隐层很快饱和，学习随后陷入长时间停滞？ |
+| 2011 | [Deep Sparse Rectifier Neural Networks](2011-deep-sparse-rectifiers.md) | [PDF](../../pdfs/deep-learning/2011-deep-sparse-rectifiers.pdf) | 深层监督网络能否直接学到含大量精确零值的表示，并减少对无监督预训练的依赖？ |
+| 2014 | [Dropout: A Simple Way to Prevent Neural Networks from Overfitting](2014-dropout.md) | [PDF](../../pdfs/deep-learning/2014-dropout.pdf) | 如何在神经网络训练中使用随机丢弃进行正则化？ |
+| 2015 | [Adam: A Method for Stochastic Optimization](2015-adam.md) | [PDF](../../pdfs/deep-learning/2015-adam.pdf) | 如何利用梯度的矩估计构造自适应更新步长？ |
+| 2015 | [Batch Normalization: Accelerating Deep Network Training by Reducing Internal Covariate Shift](2015-batch-normalization.md) | 文件下载或版本核验中 | 如何在网络中计算和使用批归一化？ |
 
 ## 表征与自监督
 
-| 归档年 | 论文与导读 | 阅读问题 |
-| --- | --- | --- |
-| 2006 | [Reducing the Dimensionality of Data with Neural Networks](2006-deep-autoencoder.md) | 怎样训练具有窄瓶颈的深层网络，使高维输入经压缩后仍可重构？ |
-| 2010 | [Learning Fast Approximations of Sparse Coding](2010-lista.md) | 每来一个样本都要迭代求解带 L1 惩罚的重构问题，在线提取稀疏特征的成本很高。 |
-| 2020 | [A Simple Framework for Contrastive Learning of Visual Representations](2020-simclr.md) | 如何通过增强视图和对比目标学习无标签视觉表示？ |
-| 2020 | [Momentum Contrast for Unsupervised Visual Representation Learning](2020-moco.md) | 对比学习需要大量负例，如何避免字典大小被单次训练的批量限制？ |
-| 2021 | [Emerging Properties in Self-Supervised Vision Transformers](2021-dino.md) | 缺乏类别标签时，视觉 Transformer 学到的表示是否保留物体区域信息？ |
-| 2026 | [Invariance before structure: two modes of emergent compression in representation learning](2026-earl-invariance-before-structure.md) | 不同参数的网络为何学到相似表征，这种一致性如何随任务学习形成？论文将表征对底层参数的不变性与其时间预测结构分别研究。摘要 |
+| 归档年 | 论文与导读 | PDF | 阅读问题 |
+| --- | --- | --- | --- |
+| 2006 | [Reducing the Dimensionality of Data with Neural Networks](2006-deep-autoencoder.md) | 文件下载或版本核验中 | 怎样训练具有窄瓶颈的深层网络，使高维输入经压缩后仍可重构？ |
+| 2010 | [Learning Fast Approximations of Sparse Coding](2010-lista.md) | [PDF](../../pdfs/deep-learning/2010-lista.pdf) | 每来一个样本都要迭代求解带 L1 惩罚的重构问题，在线提取稀疏特征的成本很高。 |
+| 2020 | [A Simple Framework for Contrastive Learning of Visual Representations](2020-simclr.md) | 文件下载或版本核验中 | 如何通过增强视图和对比目标学习无标签视觉表示？ |
+| 2020 | [Momentum Contrast for Unsupervised Visual Representation Learning](2020-moco.md) | [PDF](../../pdfs/deep-learning/2020-moco.pdf) | 对比学习需要大量负例，如何避免字典大小被单次训练的批量限制？ |
+| 2021 | [Emerging Properties in Self-Supervised Vision Transformers](2021-dino.md) | 文件下载或版本核验中 | 缺乏类别标签时，视觉 Transformer 学到的表示是否保留物体区域信息？ |
+| 2026 | [Invariance before structure: two modes of emergent compression in representation learning](2026-earl-invariance-before-structure.md) | 文件下载或版本核验中 | 不同参数的网络为何学到相似表征，这种一致性如何随任务学习形成？论文将表征对底层参数的不变性与其时间预测结构分别研究。摘要 |
 
 ## 结构与效率
 
-| 归档年 | 论文与导读 | 阅读问题 |
-| --- | --- | --- |
-| 2019 | [The Lottery Ticket Hypothesis: Finding Sparse, Trainable Neural Networks](2019-lottery-ticket.md) | 剪枝后的小网络如果从头训练，原来的哪些信息决定了它能否赶上稠密网络？ |
-| 2024 | [Transformers are SSMs: Generalized Models and Efficient Algorithms Through Structured State Space Duality](2024-mamba-2.md) | 状态空间递推擅长逐步推理，但训练如何利用矩阵乘法硬件？ |
+| 归档年 | 论文与导读 | PDF | 阅读问题 |
+| --- | --- | --- | --- |
+| 2019 | [The Lottery Ticket Hypothesis: Finding Sparse, Trainable Neural Networks](2019-lottery-ticket.md) | 文件下载或版本核验中 | 剪枝后的小网络如果从头训练，原来的哪些信息决定了它能否赶上稠密网络？ |
+| 2024 | [Transformers are SSMs: Generalized Models and Efficient Algorithms Through Structured State Space Duality](2024-mamba-2.md) | 文件下载或版本核验中 | 状态空间递推擅长逐步推理，但训练如何利用矩阵乘法硬件？ |
 
 ## 跨主题阅读
 

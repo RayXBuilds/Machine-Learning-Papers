@@ -2,7 +2,7 @@
 
 [首页](../README.md) · [按主题阅读](../papers/README.md) · [旧路径对照](../docs/migration.md)
 
-原库 147 份 PDF 已按主题迁移，保留每份文件的 Git blob SHA，内容没有改动。论文原文、译文和技术文档分别保留，不以文件数表示独立论文数。新增论文以原始来源链接收录；历史来源与译者信息仍需补充。
+原库 147 份 PDF 已按主题迁移，保留每份文件的 Git blob SHA，内容没有改动。论文原文、译文和技术文档分别保留，不以文件数表示独立论文数。导读配套原文见[PDF 对照表](../docs/pdf-index.md)；历史来源与译者信息仍需补充。
 
 - [数学、学习理论与概率模型](foundations/README.md)：9 份
 - [传统机器学习](classical-ml/README.md)：34 份

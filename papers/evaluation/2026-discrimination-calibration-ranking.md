@@ -21,6 +21,8 @@ updated: 2026-11-21
 - 原始来源：[书目与摘要](https://arxiv.org/abs/2611.02215) · [v1 正文](https://arxiv.org/html/2611.02215v1)。
 - 官方代码：[rcprati/discrimination-calibration-ranking](https://github.com/rcprati/discrimination-calibration-ranking)；已读取 README，确认 Lean 证明、实验脚本与结果文件的说明，未运行构建或实验。
 
+- 仓库内 PDF：[打开全文](../../pdfs/evaluation/2026-discrimination-calibration-ranking.pdf)（arXiv 2611.02215v1）。
+
 ## 解决的问题
 
 分类器的区分能力、概率质量和排序表现衡量不同性质。如何用一致的表示比较这些指标，并解释按类别、样本或全局聚合时的差异？

@@ -21,6 +21,8 @@ updated: 2026-11-21
 - 原始来源：[原文](https://www.gatsby.ucl.ac.uk/~dayan/papers/cjch.pdf)
 - 官方代码：核对的原始资料中未确认论文配套实现。
 
+- 仓库内 PDF：[打开全文](../../pdfs/reinforcement-learning/1992-q-learning.pdf)（Machine Learning 1992 期刊版）。
+
 ## 解决的问题
 
 智能体只观测实际采取动作的收益和后继状态，能否学出最优动作价值？

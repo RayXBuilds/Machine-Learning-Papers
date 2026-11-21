@@ -1,0 +1,797 @@
+{
+  "papers/applications/2024-openvla.md": {
+    "source_url": "https://proceedings.mlr.press/v270/kim25c.html",
+    "reason": "文件下载或版本核验中"
+  },
+  "papers/applications/2025-pi-zero.md": {
+    "source_url": "https://roboticsproceedings.org/rss21/p010.html",
+    "reason": "文件下载或版本核验中"
+  },
+  "papers/applications/2026-phipict.md": {
+    "source_url": "https://arxiv.org/abs/2611.18008",
+    "reason": "文件下载或版本核验中"
+  },
+  "papers/applications/2026-sempair.md": {
+    "source_url": "https://arxiv.org/abs/2611.13807",
+    "reason": "文件下载或版本核验中"
+  },
+  "papers/applications/2026-synthetic-robot-priors.md": {
+    "path": "pdfs/applications/2026-synthetic-robot-priors.pdf",
+    "source_url": "https://arxiv.org/pdf/2610.31275v1",
+    "retrieved": "2026-11-21",
+    "version": "arXiv 2610.31275v1",
+    "pages": 8,
+    "bytes": 1275903,
+    "sha256": "5c83a08a348ceed5eac1cb02f065e75645200075a74546c93097bdb7db79d312"
+  },
+  "papers/classical-ml/1958-perceptron.md": {
+    "source_url": "https://www.cs.cmu.edu/~epxing/Class/10715/reading/Rosenblatt.perceptron.pdf",
+    "reason": "文件下载或版本核验中"
+  },
+  "papers/classical-ml/1967-nearest-neighbor.md": {
+    "source_url": "https://isl.stanford.edu/~cover/papers/transIT/0021cove.pdf",
+    "reason": "文件下载或版本核验中"
+  },
+  "papers/classical-ml/1982-lloyd-quantization.md": {
+    "source_url": "https://web.stanford.edu/class/ee398a/handouts/papers/Lloyd%20-%20Least%20Squares%20Q%20in%20PCM.pdf",
+    "reason": "文件下载或版本核验中"
+  },
+  "papers/classical-ml/1986-id3.md": {
+    "source_url": "https://link.springer.com/article/10.1007/BF00116251",
+    "reason": "文件下载或版本核验中"
+  },
+  "papers/classical-ml/1995-support-vector-networks.md": {
+    "source_url": "https://link.springer.com/article/10.1007/BF00994018",
+    "reason": "文件下载或版本核验中"
+  },
+  "papers/classical-ml/1997-adaboost.md": {
+    "source_url": "https://doi.org/10.1006/jcss.1997.1504",
+    "reason": "文件下载或版本核验中"
+  },
+  "papers/classical-ml/2001-random-forests.md": {
+    "source_url": "https://link.springer.com/article/10.1023/A:1010933404324",
+    "reason": "文件下载或版本核验中"
+  },
+  "papers/classical-ml/2008-tsne.md": {
+    "path": "pdfs/classical-ml/2008-tsne.pdf",
+    "source_url": "https://www.jmlr.org/papers/volume9/vandermaaten08a/vandermaaten08a.pdf",
+    "retrieved": "2026-11-21",
+    "version": "JMLR 期刊版",
+    "pages": 27,
+    "bytes": 3716712,
+    "sha256": "f05922e427639a08cb5214cc4ef314689ecf2d87333cb5050003323d7631017f"
+  },
+  "papers/classical-ml/2016-xgboost.md": {
+    "path": "pdfs/classical-ml/2016-xgboost.pdf",
+    "source_url": "https://arxiv.org/pdf/1603.02754",
+    "retrieved": "2026-11-21",
+    "version": "arXiv 1603.02754v3",
+    "pages": 13,
+    "bytes": 944793,
+    "sha256": "52bc282c922a239134ee4d6f4367c58bf920a9bdd53acbb3b2aa3342e2bb7214"
+  },
+  "papers/classical-ml/2025-tabicl.md": {
+    "source_url": "https://proceedings.mlr.press/v267/qu25d.html",
+    "reason": "文件下载或版本核验中"
+  },
+  "papers/classical-ml/2026-ticl3.md": {
+    "source_url": "https://arxiv.org/abs/2610.39506",
+    "reason": "文件下载或版本核验中"
+  },
+  "papers/classical-ml/2026-unaligned-ordinal-transfer.md": {
+    "path": "pdfs/classical-ml/2026-unaligned-ordinal-transfer.pdf",
+    "source_url": "https://arxiv.org/pdf/2611.20411v1",
+    "retrieved": "2026-11-21",
+    "version": "arXiv 2611.20411v1",
+    "pages": 62,
+    "bytes": 686827,
+    "sha256": "3fb154b28cc3d1d8702f343f41a45652c21ce93600f49360b5498d3678b385ef"
+  },
+  "papers/computer-vision/2004-sift.md": {
+    "source_url": "https://www.cs.ubc.ca/~lowe/papers/ijcv04.pdf",
+    "reason": "文件下载或版本核验中"
+  },
+  "papers/computer-vision/2005-hog.md": {
+    "source_url": "https://lear.inrialpes.fr/people/triggs/pubs/Dalal-cvpr05.pdf",
+    "reason": "文件下载或版本核验中"
+  },
+  "papers/computer-vision/2012-alexnet.md": {
+    "source_url": "https://papers.nips.cc/paper_files/paper/2012/hash/c399862d3b9d6b76c8436e924a68c45b-Abstract.html",
+    "reason": "文件下载或版本核验中"
+  },
+  "papers/computer-vision/2014-r-cnn.md": {
+    "source_url": "https://arxiv.org/abs/1311.2524",
+    "reason": "文件下载或版本核验中"
+  },
+  "papers/computer-vision/2015-fcn.md": {
+    "source_url": "https://arxiv.org/abs/1411.4038",
+    "reason": "文件下载或版本核验中"
+  },
+  "papers/computer-vision/2016-resnet.md": {
+    "source_url": "https://arxiv.org/abs/1512.03385",
+    "reason": "文件下载或版本核验中"
+  },
+  "papers/computer-vision/2020-detr.md": {
+    "source_url": "https://arxiv.org/abs/2005.12872",
+    "reason": "文件下载或版本核验中"
+  },
+  "papers/computer-vision/2021-vit.md": {
+    "source_url": "https://arxiv.org/abs/2010.11929",
+    "reason": "文件下载或版本核验中"
+  },
+  "papers/computer-vision/2022-mae.md": {
+    "source_url": "https://arxiv.org/abs/2111.06377",
+    "reason": "文件下载或版本核验中"
+  },
+  "papers/computer-vision/2023-segment-anything.md": {
+    "source_url": "https://openaccess.thecvf.com/content/ICCV2023/html/Kirillov_Segment_Anything_ICCV_2023_paper.html",
+    "reason": "文件下载或版本核验中"
+  },
+  "papers/computer-vision/2025-perception-encoder.md": {
+    "source_url": "https://proceedings.neurips.cc/paper_files/paper/2025/hash/57bc0a850255e2041341bf74c7e2b9fa-Abstract-Conference.html",
+    "reason": "文件下载或版本核验中"
+  },
+  "papers/computer-vision/2026-pact.md": {
+    "source_url": "https://arxiv.org/abs/2610.00451",
+    "reason": "文件下载或版本核验中"
+  },
+  "papers/data-mining/2008-isolation-forest.md": {
+    "path": "pdfs/data-mining/2008-isolation-forest.pdf",
+    "source_url": "https://cs.nju.edu.cn/zhouzh/zhouzh.files/publication/icdm08b.pdf",
+    "retrieved": "2026-11-21",
+    "version": "作者机构公开稿（ICDM 2008）",
+    "pages": 10,
+    "bytes": 258040,
+    "sha256": "188a224c40786174ae6c9037d4a64e2ead1bf5bd1eb6da6334b42d3271021862"
+  },
+  "papers/data-mining/2026-imrouter.md": {
+    "path": "pdfs/data-mining/2026-imrouter.pdf",
+    "source_url": "https://arxiv.org/pdf/2610.39246v1",
+    "retrieved": "2026-11-21",
+    "version": "arXiv 2610.39246v1",
+    "pages": 13,
+    "bytes": 1457225,
+    "sha256": "e71feffbbdbd59ed2b1b4836dcc56a5295c3b113fbf14d6bdc6af0cc2b48f306"
+  },
+  "papers/data-mining/2026-series-wise-cross-validation.md": {
+    "path": "pdfs/data-mining/2026-series-wise-cross-validation.pdf",
+    "source_url": "https://arxiv.org/pdf/2611.08252v1",
+    "retrieved": "2026-11-21",
+    "version": "arXiv 2611.08252v1",
+    "pages": 22,
+    "bytes": 627633,
+    "sha256": "c17f5ef1be0fda5cebd919a70505845abf5e175cb733ff655d43a3b21cef7227"
+  },
+  "papers/deep-learning/1986-backpropagation.md": {
+    "source_url": "https://www.cs.toronto.edu/~hinton/absps/naturebp.pdf",
+    "reason": "文件下载或版本核验中"
+  },
+  "papers/deep-learning/2006-deep-autoencoder.md": {
+    "source_url": "https://www.cs.toronto.edu/~hinton/absps/science.pdf",
+    "reason": "文件下载或版本核验中"
+  },
+  "papers/deep-learning/2010-glorot-initialization.md": {
+    "path": "pdfs/deep-learning/2010-glorot-initialization.pdf",
+    "source_url": "https://proceedings.mlr.press/v9/glorot10a/glorot10a.pdf",
+    "retrieved": "2026-11-21",
+    "version": "PMLR 会议论文集版",
+    "pages": 8,
+    "bytes": 1647622,
+    "sha256": "6730d9803b376c61f0924930f74b3c38186b2570c2f8d88a4381730a3d8bde21"
+  },
+  "papers/deep-learning/2010-lista.md": {
+    "path": "pdfs/deep-learning/2010-lista.pdf",
+    "source_url": "https://icml.cc/2010/papers/449.pdf",
+    "retrieved": "2026-11-21",
+    "version": "ICML 2010 会议版",
+    "pages": 8,
+    "bytes": 239745,
+    "sha256": "858e5fba72650cfeb1b83191d6852d0b01c288bc8023cc732a085257a846a799"
+  },
+  "papers/deep-learning/2011-deep-sparse-rectifiers.md": {
+    "path": "pdfs/deep-learning/2011-deep-sparse-rectifiers.pdf",
+    "source_url": "https://proceedings.mlr.press/v15/glorot11a/glorot11a.pdf",
+    "retrieved": "2026-11-21",
+    "version": "PMLR 会议论文集版",
+    "pages": 9,
+    "bytes": 1025064,
+    "sha256": "a58d20ef28b21cf6dbfa7e15a007e6beb3eba947bf834740c1f62951cd4ffd29"
+  },
+  "papers/deep-learning/2014-dropout.md": {
+    "path": "pdfs/deep-learning/2014-dropout.pdf",
+    "source_url": "https://www.jmlr.org/papers/volume15/srivastava14a/srivastava14a.pdf",
+    "retrieved": "2026-11-21",
+    "version": "JMLR 期刊版",
+    "pages": 30,
+    "bytes": 2869095,
+    "sha256": "9c196ccbe6c6a595a1adba6cd030d35f7c2e548bbf5e7f1278b0109d8dd9ebaa"
+  },
+  "papers/deep-learning/2015-adam.md": {
+    "path": "pdfs/deep-learning/2015-adam.pdf",
+    "source_url": "https://arxiv.org/pdf/1412.6980",
+    "retrieved": "2026-11-21",
+    "version": "arXiv 1412.6980v9",
+    "pages": 15,
+    "bytes": 584641,
+    "sha256": "eab9c73ae2ceda884b94830bda99312254bac4806f6c9f045cbab90721ecda31"
+  },
+  "papers/deep-learning/2015-batch-normalization.md": {
+    "source_url": "https://proceedings.mlr.press/v37/ioffe15.html",
+    "reason": "文件下载或版本核验中"
+  },
+  "papers/deep-learning/2019-lottery-ticket.md": {
+    "source_url": "https://arxiv.org/abs/1803.03635",
+    "reason": "文件下载或版本核验中"
+  },
+  "papers/deep-learning/2020-moco.md": {
+    "path": "pdfs/deep-learning/2020-moco.pdf",
+    "source_url": "https://arxiv.org/pdf/1911.05722",
+    "retrieved": "2026-11-21",
+    "version": "arXiv 1911.05722v3",
+    "pages": 12,
+    "bytes": 593470,
+    "sha256": "ad31ea26ed2d9ba3e2f767a2dcb0961a5b70ff505b1c3fb18d07201140e4e1fe"
+  },
+  "papers/deep-learning/2020-simclr.md": {
+    "source_url": "https://proceedings.mlr.press/v119/chen20j.html",
+    "reason": "文件下载或版本核验中"
+  },
+  "papers/deep-learning/2021-dino.md": {
+    "source_url": "https://arxiv.org/abs/2104.14294",
+    "reason": "文件下载或版本核验中"
+  },
+  "papers/deep-learning/2024-mamba-2.md": {
+    "source_url": "https://proceedings.mlr.press/v235/dao24a.html",
+    "reason": "文件下载或版本核验中"
+  },
+  "papers/deep-learning/2026-earl-invariance-before-structure.md": {
+    "source_url": "https://arxiv.org/abs/2611.07952",
+    "reason": "文件下载或版本核验中"
+  },
+  "papers/evaluation/2012-random-search.md": {
+    "path": "pdfs/evaluation/2012-random-search.pdf",
+    "source_url": "https://www.jmlr.org/papers/volume13/bergstra12a/bergstra12a.pdf",
+    "retrieved": "2026-11-21",
+    "version": "JMLR 期刊版",
+    "pages": 25,
+    "bytes": 728274,
+    "sha256": "01e88a175a36afa399e05dc97dce9c5de980130445269cc0e5100d0471887029"
+  },
+  "papers/evaluation/2017-temperature-scaling.md": {
+    "path": "pdfs/evaluation/2017-temperature-scaling.pdf",
+    "source_url": "https://proceedings.mlr.press/v70/guo17a/guo17a.pdf",
+    "retrieved": "2026-11-21",
+    "version": "PMLR 会议论文集版",
+    "pages": 10,
+    "bytes": 828420,
+    "sha256": "df7c93f97204f8a3c2b10f6d5bf5265baac25f00c1ae3b473a3e1dbc102dacb2"
+  },
+  "papers/evaluation/2019-imagenetv2.md": {
+    "source_url": "https://arxiv.org/abs/1902.10811",
+    "reason": "文件下载或版本核验中"
+  },
+  "papers/evaluation/2021-wilds.md": {
+    "source_url": "https://arxiv.org/abs/2012.07421",
+    "reason": "文件下载或版本核验中"
+  },
+  "papers/evaluation/2024-swe-bench.md": {
+    "source_url": "https://proceedings.iclr.cc/paper_files/paper/2024/hash/edac78c3e300629acfe6cbe9ca88fb84-Abstract-Conference.html",
+    "reason": "文件下载或版本核验中"
+  },
+  "papers/evaluation/2026-auditing-ai-peer-reviewers.md": {
+    "path": "pdfs/evaluation/2026-auditing-ai-peer-reviewers.pdf",
+    "source_url": "https://arxiv.org/pdf/2611.17052v1",
+    "retrieved": "2026-11-21",
+    "version": "arXiv 2611.17052v1",
+    "pages": 31,
+    "bytes": 878452,
+    "sha256": "eb2bee890a619aaa8240c515d8b19e316ba3e69a57b325e3900a126d83a29800"
+  },
+  "papers/evaluation/2026-caelum.md": {
+    "path": "pdfs/evaluation/2026-caelum.pdf",
+    "source_url": "https://arxiv.org/pdf/2611.10738v1",
+    "retrieved": "2026-11-21",
+    "version": "arXiv 2611.10738v1",
+    "pages": 39,
+    "bytes": 785186,
+    "sha256": "0a47d897b5d311de372bd5c523a2ba28f5fbd10b6841632c43054d9388f0b623"
+  },
+  "papers/evaluation/2026-claimnov.md": {
+    "path": "pdfs/evaluation/2026-claimnov.pdf",
+    "source_url": "https://arxiv.org/pdf/2610.36511v1",
+    "retrieved": "2026-11-21",
+    "version": "arXiv 2610.36511v1",
+    "pages": 26,
+    "bytes": 1391530,
+    "sha256": "5af0af20c9f7104ef574c9531c470fe635274a233e8296ab7c5c649977e83a85"
+  },
+  "papers/evaluation/2026-discrimination-calibration-ranking.md": {
+    "path": "pdfs/evaluation/2026-discrimination-calibration-ranking.pdf",
+    "source_url": "https://arxiv.org/pdf/2611.02215v1",
+    "retrieved": "2026-11-21",
+    "version": "arXiv 2611.02215v1",
+    "pages": 88,
+    "bytes": 1276997,
+    "sha256": "8ea98738a1b1d2e2b8c5f53ec48850600bdc194fce313adb37295fa45a76b7cb"
+  },
+  "papers/evaluation/2026-docxeval.md": {
+    "source_url": "https://arxiv.org/abs/2610.36929",
+    "reason": "文件下载或版本核验中"
+  },
+  "papers/evaluation/2026-elliptic-leakage.md": {
+    "path": "pdfs/evaluation/2026-elliptic-leakage.pdf",
+    "source_url": "https://arxiv.org/pdf/2611.04000v1",
+    "retrieved": "2026-11-21",
+    "version": "arXiv 2611.04000v1",
+    "pages": 10,
+    "bytes": 624828,
+    "sha256": "c8bd9767cb2335d99584a25130705556c772d7b42aba5c44ab76d617c7248119"
+  },
+  "papers/evaluation/2026-evalalloc.md": {
+    "path": "pdfs/evaluation/2026-evalalloc.pdf",
+    "source_url": "https://arxiv.org/pdf/2610.37276v1",
+    "retrieved": "2026-11-21",
+    "version": "arXiv 2610.37276v1",
+    "pages": 9,
+    "bytes": 1264769,
+    "sha256": "0d40f710c1ee6fb293fdcd36b18694a30269f1108f2e18663ae5ec2fa272b2a7"
+  },
+  "papers/evaluation/2026-factorized-active-querying.md": {
+    "path": "pdfs/evaluation/2026-factorized-active-querying.pdf",
+    "source_url": "https://arxiv.org/pdf/2601.20251v4",
+    "retrieved": "2026-11-21",
+    "version": "arXiv 2601.20251v4",
+    "pages": 31,
+    "bytes": 1671816,
+    "sha256": "57135ac3ab32296153bae2e8ef7df2d5912869a084019dd6b0ab22ca44491503"
+  },
+  "papers/evaluation/2026-hinted-scaling-laws.md": {
+    "path": "pdfs/evaluation/2026-hinted-scaling-laws.pdf",
+    "source_url": "https://arxiv.org/pdf/2611.02270v1",
+    "retrieved": "2026-11-21",
+    "version": "arXiv 2611.02270v1",
+    "pages": 37,
+    "bytes": 1823419,
+    "sha256": "0ea3412cf5fe5618e2be8655637bb1e144177bf9d26a0bcab93159385fea5c94"
+  },
+  "papers/evaluation/2026-judged-in-company.md": {
+    "path": "pdfs/evaluation/2026-judged-in-company.pdf",
+    "source_url": "https://arxiv.org/pdf/2610.40241v1",
+    "retrieved": "2026-11-21",
+    "version": "arXiv 2610.40241v1",
+    "pages": 33,
+    "bytes": 523488,
+    "sha256": "f625b72e4cafde69e291f6da9141b083efb548a9e92c405e20cc93ca11b20486"
+  },
+  "papers/evaluation/2026-lape.md": {
+    "path": "pdfs/evaluation/2026-lape.pdf",
+    "source_url": "https://arxiv.org/pdf/2610.30652v1",
+    "retrieved": "2026-11-21",
+    "version": "arXiv 2610.30652v1",
+    "pages": 47,
+    "bytes": 901610,
+    "sha256": "84e34bd7525d8135bc18bb51898d3361deffda081d0f910270023d775a2e5a50"
+  },
+  "papers/evaluation/2026-moval.md": {
+    "source_url": "https://arxiv.org/abs/2610.29262",
+    "reason": "文件下载或版本核验中"
+  },
+  "papers/evaluation/2026-pretraining-disclosure.md": {
+    "path": "pdfs/evaluation/2026-pretraining-disclosure.pdf",
+    "source_url": "https://arxiv.org/pdf/2610.37465v1",
+    "retrieved": "2026-11-21",
+    "version": "arXiv 2610.37465v1",
+    "pages": 29,
+    "bytes": 282855,
+    "sha256": "5582cd1e6c067fb0e19e3d24d98afbec23c4c8b8bfe378c13ae0a465a0ad2f92"
+  },
+  "papers/foundations/1977-em-algorithm.md": {
+    "source_url": "https://academic.oup.com/jrsssb/article-abstract/39/1/1/7027539",
+    "reason": "文件下载或版本核验中"
+  },
+  "papers/foundations/1988-local-probability-computations.md": {
+    "source_url": "https://doi.org/10.1111/j.2517-6161.1988.tb01721.x",
+    "reason": "文件下载或版本核验中"
+  },
+  "papers/foundations/1996-lasso.md": {
+    "source_url": "https://academic.oup.com/jrsssb/article/58/1/267/7027929",
+    "reason": "文件下载或版本核验中"
+  },
+  "papers/foundations/2011-adagrad.md": {
+    "path": "pdfs/foundations/2011-adagrad.pdf",
+    "source_url": "https://www.jmlr.org/papers/volume12/duchi11a/duchi11a.pdf",
+    "retrieved": "2026-11-21",
+    "version": "JMLR 期刊版",
+    "pages": 39,
+    "bytes": 307882,
+    "sha256": "691043712c05c19c98223fba52507beff0480afb11fa17ea40a2a032d6f0bf3c"
+  },
+  "papers/foundations/2013-stochastic-variational-inference.md": {
+    "path": "pdfs/foundations/2013-stochastic-variational-inference.pdf",
+    "source_url": "https://www.jmlr.org/papers/volume14/hoffman13a/hoffman13a.pdf",
+    "retrieved": "2026-11-21",
+    "version": "JMLR 期刊版",
+    "pages": 45,
+    "bytes": 397775,
+    "sha256": "a483f73549205c1928474f517cc1286e233410837c8be0e916e6befc89e9b14d"
+  },
+  "papers/foundations/2026-banded-gaussian-processes.md": {
+    "source_url": "https://arxiv.org/abs/2611.16482",
+    "reason": "文件下载或版本核验中"
+  },
+  "papers/foundations/2026-online-smooth-calibration-lower-bound.md": {
+    "source_url": "https://arxiv.org/abs/2611.16097",
+    "reason": "文件下载或版本核验中"
+  },
+  "papers/generative-models/2002-contrastive-divergence.md": {
+    "source_url": "https://doi.org/10.1162/089976602760128018",
+    "reason": "文件下载或版本核验中"
+  },
+  "papers/generative-models/2013-vae.md": {
+    "source_url": "https://arxiv.org/abs/1312.6114",
+    "reason": "文件下载或版本核验中"
+  },
+  "papers/generative-models/2014-gan.md": {
+    "path": "pdfs/generative-models/2014-gan.pdf",
+    "source_url": "https://arxiv.org/pdf/1406.2661",
+    "retrieved": "2026-11-21",
+    "version": "arXiv 1406.2661v1，PDF 首页题名为 Generative Adversarial Nets",
+    "pages": 9,
+    "bytes": 530482,
+    "sha256": "ff5819e3a7b713c3bd3107b7de3d51fe0a347aa5d8444f0efdcf2345ef0a8b63"
+  },
+  "papers/generative-models/2016-pixelrnn.md": {
+    "source_url": "https://proceedings.mlr.press/v48/oord16.html",
+    "reason": "文件下载或版本核验中"
+  },
+  "papers/generative-models/2017-cyclegan.md": {
+    "source_url": "https://arxiv.org/abs/1703.10593",
+    "reason": "文件下载或版本核验中"
+  },
+  "papers/generative-models/2017-wgan-gp.md": {
+    "source_url": "https://arxiv.org/abs/1704.00028",
+    "reason": "文件下载或版本核验中"
+  },
+  "papers/generative-models/2019-stylegan.md": {
+    "source_url": "https://arxiv.org/abs/1812.04948",
+    "reason": "文件下载或版本核验中"
+  },
+  "papers/generative-models/2020-ddpm.md": {
+    "source_url": "https://arxiv.org/abs/2006.11239",
+    "reason": "文件下载或版本核验中"
+  },
+  "papers/generative-models/2022-latent-diffusion.md": {
+    "source_url": "https://arxiv.org/abs/2112.10752",
+    "reason": "文件下载或版本核验中"
+  },
+  "papers/generative-models/2023-consistency-models.md": {
+    "source_url": "https://proceedings.mlr.press/v202/song23a.html",
+    "reason": "文件下载或版本核验中"
+  },
+  "papers/generative-models/2024-genie.md": {
+    "source_url": "https://proceedings.mlr.press/v235/bruce24a.html",
+    "reason": "文件下载或版本核验中"
+  },
+  "papers/generative-models/2025-meanflow.md": {
+    "source_url": "https://proceedings.neurips.cc/paper_files/paper/2025/hash/6d13e085b79d454da5910e4ca82a3d9d-Abstract-Conference.html",
+    "reason": "文件下载或版本核验中"
+  },
+  "papers/generative-models/2026-online-class-posteriors.md": {
+    "source_url": "https://arxiv.org/abs/2611.03454",
+    "reason": "文件下载或版本核验中"
+  },
+  "papers/graph-learning/2000-normalized-cuts.md": {
+    "source_url": "https://people.eecs.berkeley.edu/~malik/papers/SM-ncut.pdf",
+    "reason": "文件下载或版本核验中"
+  },
+  "papers/graph-learning/2014-deepwalk.md": {
+    "path": "pdfs/graph-learning/2014-deepwalk.pdf",
+    "source_url": "https://arxiv.org/pdf/1403.6652",
+    "retrieved": "2026-11-21",
+    "version": "arXiv 1403.6652v2",
+    "pages": 10,
+    "bytes": 820979,
+    "sha256": "e6eb3ab840009222976c228c9da0a96964ef8d87237db582871647f37735b2eb"
+  },
+  "papers/graph-learning/2017-gcn.md": {
+    "path": "pdfs/graph-learning/2017-gcn.pdf",
+    "source_url": "https://arxiv.org/pdf/1609.02907",
+    "retrieved": "2026-11-21",
+    "version": "arXiv 1609.02907v4",
+    "pages": 14,
+    "bytes": 873897,
+    "sha256": "a654f884db04a317b0f2414a83f2ba32a9f8442d29bcf1cb5f73f7af78a98070"
+  },
+  "papers/graph-learning/2017-graphsage.md": {
+    "path": "pdfs/graph-learning/2017-graphsage.pdf",
+    "source_url": "https://arxiv.org/pdf/1706.02216",
+    "retrieved": "2026-11-21",
+    "version": "arXiv 1706.02216v4",
+    "pages": 19,
+    "bytes": 1086007,
+    "sha256": "e1f354eb12011cde24af1eb500d72463fc971b09d26b55688c7f918a86e31ce8"
+  },
+  "papers/graph-learning/2018-gat.md": {
+    "source_url": "https://arxiv.org/abs/1710.10903",
+    "reason": "文件下载或版本核验中"
+  },
+  "papers/graph-learning/2026-living-graph-leaderboard.md": {
+    "path": "pdfs/graph-learning/2026-living-graph-leaderboard.pdf",
+    "source_url": "https://arxiv.org/pdf/2611.03433v1",
+    "retrieved": "2026-11-21",
+    "version": "arXiv 2611.03433v1",
+    "pages": 10,
+    "bytes": 584083,
+    "sha256": "413533694e0717a2b448603820afcd712a5f9f6b40d1cb56814b34401ba77032"
+  },
+  "papers/ml-systems/2004-mapreduce.md": {
+    "source_url": "https://www.usenix.org/conference/osdi-04/mapreduce-simplified-data-processing-large-clusters",
+    "reason": "文件下载或版本核验中"
+  },
+  "papers/ml-systems/2016-eie.md": {
+    "source_url": "https://arxiv.org/abs/1602.01528",
+    "reason": "文件下载或版本核验中"
+  },
+  "papers/ml-systems/2018-tvm.md": {
+    "source_url": "https://arxiv.org/abs/1802.04799",
+    "reason": "文件下载或版本核验中"
+  },
+  "papers/ml-systems/2022-flashattention.md": {
+    "source_url": "https://arxiv.org/abs/2205.14135",
+    "reason": "文件下载或版本核验中"
+  },
+  "papers/ml-systems/2023-pagedattention.md": {
+    "source_url": "https://doi.org/10.1145/3600006.3613165",
+    "reason": "文件下载或版本核验中"
+  },
+  "papers/ml-systems/2023-qlora.md": {
+    "source_url": "https://proceedings.neurips.cc/paper_files/paper/2023/hash/1feb87871436031bdc0f2beaa62a049b-Abstract.html",
+    "reason": "文件下载或版本核验中"
+  },
+  "papers/ml-systems/2024-flashattention-3.md": {
+    "source_url": "https://proceedings.neurips.cc/paper/2024/hash/7ede97c3e082c6df10a8d6103a2eebd2-Abstract-Conference.html",
+    "reason": "文件下载或版本核验中"
+  },
+  "papers/ml-systems/2026-jaxnasium.md": {
+    "source_url": "https://arxiv.org/abs/2610.36075",
+    "reason": "文件下载或版本核验中"
+  },
+  "papers/ml-systems/2026-phantom-temporal-caching.md": {
+    "source_url": "https://arxiv.org/abs/2611.06019",
+    "reason": "文件下载或版本核验中"
+  },
+  "papers/multimodal/2003-modeling-annotated-data.md": {
+    "source_url": "https://www.cs.columbia.edu/~blei/papers/BleiJordan2003.pdf",
+    "reason": "文件下载或版本核验中"
+  },
+  "papers/multimodal/2015-show-attend-tell.md": {
+    "source_url": "https://proceedings.mlr.press/v37/xuc15.html",
+    "reason": "文件下载或版本核验中"
+  },
+  "papers/multimodal/2021-clip.md": {
+    "source_url": "https://proceedings.mlr.press/v139/radford21a.html",
+    "reason": "文件下载或版本核验中"
+  },
+  "papers/multimodal/2022-blip.md": {
+    "source_url": "https://arxiv.org/abs/2201.12086",
+    "reason": "文件下载或版本核验中"
+  },
+  "papers/multimodal/2023-siglip.md": {
+    "source_url": "https://openaccess.thecvf.com/content/ICCV2023/html/Zhai_Sigmoid_Loss_for_Language_Image_Pre-Training_ICCV_2023_paper.html",
+    "reason": "文件下载或版本核验中"
+  },
+  "papers/nlp/2003-lda.md": {
+    "path": "pdfs/nlp/2003-lda.pdf",
+    "source_url": "https://www.jmlr.org/papers/volume3/blei03a/blei03a.pdf",
+    "retrieved": "2026-11-21",
+    "version": "JMLR 期刊版",
+    "pages": 30,
+    "bytes": 417996,
+    "sha256": "4667de63545b57d55d6c43e5af6f3429edfaac9472ed9eff68fdf43572735dd9"
+  },
+  "papers/nlp/2013-word2vec.md": {
+    "source_url": "https://arxiv.org/abs/1301.3781",
+    "reason": "文件下载或版本核验中"
+  },
+  "papers/nlp/2014-glove.md": {
+    "source_url": "https://aclanthology.org/D14-1162/",
+    "reason": "文件下载或版本核验中"
+  },
+  "papers/nlp/2014-seq2seq.md": {
+    "path": "pdfs/nlp/2014-seq2seq.pdf",
+    "source_url": "https://arxiv.org/pdf/1409.3215",
+    "retrieved": "2026-11-21",
+    "version": "arXiv 1409.3215v3",
+    "pages": 9,
+    "bytes": 112084,
+    "sha256": "5c74e1db863e2d61b869c9b0603494b34c41fb05db1a4fa7f9a83d5a42b7350f"
+  },
+  "papers/nlp/2015-bahdanau-attention.md": {
+    "source_url": "https://arxiv.org/abs/1409.0473",
+    "reason": "文件下载或版本核验中"
+  },
+  "papers/nlp/2017-transformer.md": {
+    "path": "pdfs/nlp/2017-transformer.pdf",
+    "source_url": "https://papers.nips.cc/paper/2017/file/3f5ee243547dee91fbd053c1c4a845aa-Paper.pdf",
+    "retrieved": "2026-11-21",
+    "version": "会议论文集版（papers.nips.cc）",
+    "pages": 11,
+    "bytes": 569417,
+    "sha256": "d87d482d5ae7960e2e43d7dd6d21377e60e73e8fce1bf2a01aff7aca8a08c537"
+  },
+  "papers/nlp/2019-bert.md": {
+    "source_url": "https://aclanthology.org/N19-1423/",
+    "reason": "文件下载或版本核验中"
+  },
+  "papers/nlp/2020-rag.md": {
+    "path": "pdfs/nlp/2020-rag.pdf",
+    "source_url": "https://arxiv.org/pdf/2005.11401",
+    "retrieved": "2026-11-21",
+    "version": "arXiv 2005.11401v4",
+    "pages": 19,
+    "bytes": 885323,
+    "sha256": "23e3249e9a1e75418d82efecab0ea8c4d033b89c93742f63208d47ce01f21233"
+  },
+  "papers/nlp/2021-lora.md": {
+    "source_url": "https://arxiv.org/abs/2106.09685",
+    "reason": "文件下载或版本核验中"
+  },
+  "papers/nlp/2022-instructgpt.md": {
+    "source_url": "https://arxiv.org/abs/2203.02155",
+    "reason": "文件下载或版本核验中"
+  },
+  "papers/nlp/2023-dpo.md": {
+    "source_url": "https://proceedings.neurips.cc/paper_files/paper/2023/hash/a85b405ed65c6477a4fe8302b5e06ce7-Abstract-Conference.html",
+    "reason": "文件下载或版本核验中"
+  },
+  "papers/nlp/2025-s1.md": {
+    "source_url": "https://aclanthology.org/2025.emnlp-main.1025/",
+    "reason": "文件下载或版本核验中"
+  },
+  "papers/nlp/2026-dump-retrieval-prefix-tokens.md": {
+    "path": "pdfs/nlp/2026-dump-retrieval-prefix-tokens.pdf",
+    "source_url": "https://arxiv.org/pdf/2611.07298v1",
+    "retrieved": "2026-11-21",
+    "version": "arXiv 2611.07298v1",
+    "pages": 6,
+    "bytes": 584036,
+    "sha256": "bbc322eee1ff5046a586aa9a6bf69a6ebdbaf5638a1ea21f84a1f5c223216e24"
+  },
+  "papers/nlp/2026-s-edl.md": {
+    "source_url": "https://arxiv.org/abs/2610.29832",
+    "reason": "文件下载或版本核验中"
+  },
+  "papers/recommender-systems/2007-probabilistic-matrix-factorization.md": {
+    "path": "pdfs/recommender-systems/2007-probabilistic-matrix-factorization.pdf",
+    "source_url": "https://papers.nips.cc/paper/2007/file/d7322ed717dedf1eb4e6e52a37ea7bcd-Paper.pdf",
+    "retrieved": "2026-11-21",
+    "version": "会议论文集版（papers.nips.cc）",
+    "pages": 8,
+    "bytes": 85557,
+    "sha256": "af659c29c6a28e529fd6c72d16a1cab4009e4f51cd5d6a6761e4179f5aaaf7ec"
+  },
+  "papers/recommender-systems/2009-bpr.md": {
+    "source_url": "https://proceedings.mlr.press/r7/rendle09a.html",
+    "reason": "文件下载或版本核验中"
+  },
+  "papers/recommender-systems/2010-factorization-machines.md": {
+    "source_url": "https://doi.org/10.1109/ICDM.2010.127",
+    "reason": "文件下载或版本核验中"
+  },
+  "papers/recommender-systems/2017-ncf.md": {
+    "path": "pdfs/recommender-systems/2017-ncf.pdf",
+    "source_url": "https://arxiv.org/pdf/1708.05031",
+    "retrieved": "2026-11-21",
+    "version": "arXiv 1708.05031v2",
+    "pages": 10,
+    "bytes": 1520085,
+    "sha256": "45177d4c9b98cc30eef4c8fdf3795ba790192e85a0c350ca597666342bb85b7d"
+  },
+  "papers/recommender-systems/2020-lightgcn.md": {
+    "path": "pdfs/recommender-systems/2020-lightgcn.pdf",
+    "source_url": "https://arxiv.org/pdf/2002.02126",
+    "retrieved": "2026-11-21",
+    "version": "arXiv 2002.02126v4",
+    "pages": 10,
+    "bytes": 1294898,
+    "sha256": "e48e4c27e4dc9ffd50f531b69682da0a500ae9a8190c629aeff223b40b555306"
+  },
+  "papers/recommender-systems/2024-hstu.md": {
+    "path": "pdfs/recommender-systems/2024-hstu.pdf",
+    "source_url": "https://arxiv.org/pdf/2402.17152",
+    "retrieved": "2026-11-21",
+    "version": "arXiv 2402.17152v3",
+    "pages": 26,
+    "bytes": 1621291,
+    "sha256": "e4f953031df9cd67514bee657a6a342b6bdaad2a8cc9fccb3b0c3ce8a74591cf"
+  },
+  "papers/recommender-systems/2026-mm-san.md": {
+    "path": "pdfs/recommender-systems/2026-mm-san.pdf",
+    "source_url": "https://arxiv.org/pdf/2611.05071v1",
+    "retrieved": "2026-11-21",
+    "version": "arXiv 2611.05071v1",
+    "pages": 35,
+    "bytes": 1443012,
+    "sha256": "673062a60e95d1305a0c3a8fed9b4842c06b0ee79a21d32c60ae49362f62a6c0"
+  },
+  "papers/recommender-systems/2026-reflectrec.md": {
+    "path": "pdfs/recommender-systems/2026-reflectrec.pdf",
+    "source_url": "https://aclanthology.org/2026.emnlp-main.1591.pdf",
+    "retrieved": "2026-11-21",
+    "version": "ACL Anthology 论文集版",
+    "pages": 15,
+    "bytes": 693741,
+    "sha256": "eaa8e771f6febe9d3c0e7070242707e645c2bc43dc2fc13a657a68f6f250a5b8"
+  },
+  "papers/reinforcement-learning/1992-q-learning.md": {
+    "path": "pdfs/reinforcement-learning/1992-q-learning.pdf",
+    "source_url": "https://www.gatsby.ucl.ac.uk/~dayan/papers/cjch.pdf",
+    "retrieved": "2026-11-21",
+    "version": "Machine Learning 1992 期刊版",
+    "pages": 14,
+    "bytes": 685568,
+    "sha256": "3f1938a6001991f3171e13a93196fc8fc27978f18c87445321bb25058f35776f"
+  },
+  "papers/reinforcement-learning/2015-dqn.md": {
+    "source_url": "https://doi.org/10.1038/nature14236",
+    "reason": "文件下载或版本核验中"
+  },
+  "papers/reinforcement-learning/2015-trpo.md": {
+    "path": "pdfs/reinforcement-learning/2015-trpo.pdf",
+    "source_url": "https://proceedings.mlr.press/v37/schulman15.pdf",
+    "retrieved": "2026-11-21",
+    "version": "PMLR 会议论文集版",
+    "pages": 9,
+    "bytes": 987863,
+    "sha256": "8e959ae88caeb6d8bdcc92763bc3ff766edff826aa4eb5b96b58a4a56b56ce47"
+  },
+  "papers/reinforcement-learning/2017-ppo.md": {
+    "path": "pdfs/reinforcement-learning/2017-ppo.pdf",
+    "source_url": "https://arxiv.org/pdf/1707.06347",
+    "retrieved": "2026-11-21",
+    "version": "arXiv 1707.06347v2",
+    "pages": 12,
+    "bytes": 2923532,
+    "sha256": "e78feadadbdbb0b601b3c2bcc81404722cd431a489b307545f9b7bea1e8c4f5b"
+  },
+  "papers/reinforcement-learning/2018-sac.md": {
+    "path": "pdfs/reinforcement-learning/2018-sac.pdf",
+    "source_url": "https://proceedings.mlr.press/v80/haarnoja18b/haarnoja18b.pdf",
+    "retrieved": "2026-11-21",
+    "version": "PMLR 会议论文集版",
+    "pages": 10,
+    "bytes": 2407011,
+    "sha256": "b071079b67ced375ad88cbbbfd2fc363b3b8ccd894766fb5d329e7ee30d843f5"
+  },
+  "papers/reinforcement-learning/2018-td3.md": {
+    "path": "pdfs/reinforcement-learning/2018-td3.pdf",
+    "source_url": "https://arxiv.org/pdf/1802.09477",
+    "retrieved": "2026-11-21",
+    "version": "arXiv 1802.09477v3",
+    "pages": 15,
+    "bytes": 2744342,
+    "sha256": "429a584222ffc9c318fde085f6558fd0d3a94dcba8ffe368caab8cf5dc3b6ae5"
+  },
+  "papers/reinforcement-learning/2021-decision-transformer.md": {
+    "path": "pdfs/reinforcement-learning/2021-decision-transformer.pdf",
+    "source_url": "https://arxiv.org/pdf/2106.01345",
+    "retrieved": "2026-11-21",
+    "version": "arXiv 2106.01345v2",
+    "pages": 21,
+    "bytes": 704784,
+    "sha256": "6ff675a7b8286ca7bf8e01e4b90a41bf5c90f4c3c007e17fdb4d24e26fd05e28"
+  },
+  "papers/reinforcement-learning/2025-deepseek-r1.md": {
+    "source_url": "https://www.nature.com/articles/s41586-025-09422-z",
+    "reason": "文件下载或版本核验中"
+  },
+  "papers/reinforcement-learning/2026-massively-parallel-safe-rl.md": {
+    "path": "pdfs/reinforcement-learning/2026-massively-parallel-safe-rl.pdf",
+    "source_url": "https://arxiv.org/pdf/2611.08273v1",
+    "retrieved": "2026-11-21",
+    "version": "arXiv 2611.08273v1",
+    "pages": 19,
+    "bytes": 1726338,
+    "sha256": "9221fa1e8ec52bcb899386c344a900181909b63d13a0d5cfdcfc85a2d4fc6164"
+  }
+}

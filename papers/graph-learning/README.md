@@ -8,24 +8,24 @@
 
 ## 图划分与嵌入
 
-| 归档年 | 论文与导读 | 阅读问题 |
-| --- | --- | --- |
-| 2000 | [Normalized Cuts and Image Segmentation](2000-normalized-cuts.md) | 在带权像素图上怎样划分区域，才能减少单纯最小割切出孤立小块的倾向？ |
-| 2014 | [DeepWalk: Online Learning of Social Representations](2014-deepwalk.md) | 只有网络连接与少量节点标签时，怎样为分类器提取邻域信息？ |
+| 归档年 | 论文与导读 | PDF | 阅读问题 |
+| --- | --- | --- | --- |
+| 2000 | [Normalized Cuts and Image Segmentation](2000-normalized-cuts.md) | 文件下载或版本核验中 | 在带权像素图上怎样划分区域，才能减少单纯最小割切出孤立小块的倾向？ |
+| 2014 | [DeepWalk: Online Learning of Social Representations](2014-deepwalk.md) | [PDF](../../pdfs/graph-learning/2014-deepwalk.pdf) | 只有网络连接与少量节点标签时，怎样为分类器提取邻域信息？ |
 
 ## 图神经网络
 
-| 归档年 | 论文与导读 | 阅读问题 |
-| --- | --- | --- |
-| 2017 | [Inductive Representation Learning on Large Graphs](2017-graphsage.md) | 图中加入新节点时，按节点编号学习的向量无法直接用于预测。 |
-| 2017 | [Semi-Supervised Classification with Graph Convolutional Networks](2017-gcn.md) | 如何结合节点特征与图连接进行半监督学习？ |
-| 2018 | [Graph Attention Networks](2018-gat.md) | 聚合邻居信息时，同一节点的不同邻边应该获得多大权重？ |
+| 归档年 | 论文与导读 | PDF | 阅读问题 |
+| --- | --- | --- | --- |
+| 2017 | [Inductive Representation Learning on Large Graphs](2017-graphsage.md) | [PDF](../../pdfs/graph-learning/2017-graphsage.pdf) | 图中加入新节点时，按节点编号学习的向量无法直接用于预测。 |
+| 2017 | [Semi-Supervised Classification with Graph Convolutional Networks](2017-gcn.md) | [PDF](../../pdfs/graph-learning/2017-gcn.pdf) | 如何结合节点特征与图连接进行半监督学习？ |
+| 2018 | [Graph Attention Networks](2018-gat.md) | 文件下载或版本核验中 | 聚合邻居信息时，同一节点的不同邻边应该获得多大权重？ |
 
 ## 图学习评估
 
-| 归档年 | 论文与导读 | 阅读问题 |
-| --- | --- | --- |
-| 2026 | [A Living Leaderboard for Graph Machine Learning](2026-living-graph-leaderboard.md) | 图学习论文使用的数据集、基线及调参方式各异，分散的结果使读者难以判断新模型的优势是否经得起已有强基线的比较。 |
+| 归档年 | 论文与导读 | PDF | 阅读问题 |
+| --- | --- | --- | --- |
+| 2026 | [A Living Leaderboard for Graph Machine Learning](2026-living-graph-leaderboard.md) | [PDF](../../pdfs/graph-learning/2026-living-graph-leaderboard.pdf) | 图学习论文使用的数据集、基线及调参方式各异，分散的结果使读者难以判断新模型的优势是否经得起已有强基线的比较。 |
 
 ## 跨主题阅读
 

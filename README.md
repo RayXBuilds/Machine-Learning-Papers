@@ -36,10 +36,13 @@
 
 截至 2026-11-21：135 篇独立导读、147 份历史 PDF。PDF 包含译文与技术资料，不代表 147 篇独立论文。后续收录同步维护目录和数量。
 
+<!-- pdf-count -->导读配套 PDF：新增文件区 51 份，复用历史文件 0 篇，尚无本地 PDF 的条目 84 篇。[逐篇查看](docs/pdf-index.md)。
+
 ## 存放方式
 
 ```text
 papers/<主题>/<年份>-<英文短名>.md       每篇论文或文章的唯一导读
+pdfs/<主题>/<年份>-<英文短名>.pdf       中文导读对应的原文 PDF
 library/<主题>/<子主题>/*.pdf           迁移后的历史资料
 docs/classics.md                      经典阅读路线（保留原锚点）
 docs/daily/YYYY/MM/YYYY-MM-DD.md       每日新增/修订链接
@@ -68,4 +71,4 @@ docs/migration.md                     旧文件路径对照
 
 ## 资料归属
 
-论文与译文权利归各自权利人。新增内容使用原文链接与原创简短导读，不上传新的论文副本。本库整理不构成对第三方材料的重新授权。欢迎通过 [Issues](https://github.com/RayXBuilds/Machine-Learning-Papers/issues) 推荐文章或纠正信息，并附原始来源。
+论文与译文权利归各自权利人。中文导读附原始来源和已核验的仓库内 PDF；无可用文件时在 PDF 对照表注明原因。本库整理不构成对第三方材料的重新授权。欢迎通过 [Issues](https://github.com/RayXBuilds/Machine-Learning-Papers/issues) 推荐文章或纠正信息，并附原始来源。

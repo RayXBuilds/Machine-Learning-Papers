@@ -21,6 +21,8 @@ updated: 2026-11-21
 - 原始来源：[arXiv 书目](https://arxiv.org/abs/2611.17052) · [v1 正文](https://arxiv.org/html/2611.17052v1)。
 - 官方代码：[Skepthical Benchmark](https://github.com/inigozubeldia/skepthical-benchmark)，含评估流程、错误清单及裁判日志。本库未运行代码。
 
+- 仓库内 PDF：[打开全文](../../pdfs/evaluation/2026-auditing-ai-peer-reviewers.pdf)（arXiv 2611.17052v1）。
+
 ## 解决的问题
 
 AI 审稿系统能否检出客观错误，又会产生多少误报？论文将审稿能力拆成可定位的缺陷检测任务。[摘要](https://arxiv.org/abs/2611.17052)

@@ -22,6 +22,8 @@ updated: 2026-11-21
 - 原始来源：[原文](https://papers.nips.cc/paper/2017/hash/3f5ee243547dee91fbd053c1c4a845aa-Abstract.html)。
 - 官方代码：原导读未单独核实，本次编排未新增代码可用性声明。
 
+- 仓库内 PDF：[打开全文](../../pdfs/nlp/2017-transformer.pdf)（会议论文集版（papers.nips.cc））。
+
 ## 解决的问题
 
 如何利用注意力进行不依赖递归的序列建模？

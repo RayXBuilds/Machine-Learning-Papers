@@ -21,6 +21,8 @@ updated: 2026-11-21
 - 原始来源：[论文入口](https://arxiv.org/abs/1403.6652)
 - 官方代码：[作者项目](https://github.com/phanein/deepwalk)
 
+- 仓库内 PDF：[打开全文](../../pdfs/graph-learning/2014-deepwalk.pdf)（arXiv 1403.6652v2）。
+
 ## 解决的问题
 
 只有网络连接与少量节点标签时，怎样为分类器提取邻域信息？

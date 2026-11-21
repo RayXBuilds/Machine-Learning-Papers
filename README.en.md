@@ -38,10 +38,13 @@ Browse subtopics within each field, use the full-library year index, or follow a
 
 As of November 21, 2026: **135 independent reading guides and 147 archived PDFs**. The PDFs include translations and technical documents, so the file count does not represent 147 distinct papers. Indexes and counts are maintained as new entries are added.
 
+<!-- pdf-count -->Guide PDFs: 51 files in the new collection, 0 guides linked to archived files, 84 entries without a local PDF. [PDF index](docs/pdf-index.md).
+
 ## Repository layout
 
 ```text
 papers/<topic>/<year>-<slug>.md       One canonical reading guide per paper or article
+pdfs/<topic>/<year>-<slug>.pdf        Verified full text for a reading guide
 library/<topic>/<subtopic>/*.pdf     Existing archival materials, organized by topic
 docs/classics.md                     Classic reading paths, with original anchors preserved
 docs/daily/YYYY/MM/YYYY-MM-DD.md      Links to daily additions and revisions
@@ -70,4 +73,4 @@ Original-paper guides for SVMs, EM, and boosting have been added. Priorities inc
 
 ## Attribution and rights
 
-Papers and translations remain the property of their respective rights holders. New entries provide original-source links and short, original reading guides rather than additional copies of papers. Organizing this collection does not grant new rights to third-party materials. Suggestions and corrections are welcome through [Issues](https://github.com/RayXBuilds/Machine-Learning-Papers/issues); please include the original source.
+Papers and translations remain the property of their respective rights holders. Reading guides link to the original source and the verified PDF in this repository. The PDF index records missing files and their availability. Organizing this collection does not grant new rights to third-party materials. Suggestions and corrections are welcome through [Issues](https://github.com/RayXBuilds/Machine-Learning-Papers/issues); please include the original source.

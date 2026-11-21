@@ -21,6 +21,8 @@ updated: 2026-11-21
 - 原始来源：[NIPS 会议版](https://papers.nips.cc/paper/2017/hash/5dd9db5e033da9c6fb5ba83c7a7ebea9-Abstract.html) · [作者预印本](https://arxiv.org/abs/1706.02216)。
 - 官方代码：[作者项目](https://github.com/williamleif/GraphSAGE)。
 
+- 仓库内 PDF：[打开全文](../../pdfs/graph-learning/2017-graphsage.pdf)（arXiv 1706.02216v4）。
+
 ## 解决的问题
 
 图中加入新节点时，按节点编号学习的向量无法直接用于预测。

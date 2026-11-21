@@ -22,6 +22,8 @@ updated: 2026-11-21
 - 原始来源：[原文](https://jmlr.org/papers/v15/srivastava14a.html)。
 - 官方代码：原导读未单独核实，本次编排未新增代码可用性声明。
 
+- 仓库内 PDF：[打开全文](../../pdfs/deep-learning/2014-dropout.pdf)（JMLR 期刊版）。
+
 ## 解决的问题
 
 如何在神经网络训练中使用随机丢弃进行正则化？

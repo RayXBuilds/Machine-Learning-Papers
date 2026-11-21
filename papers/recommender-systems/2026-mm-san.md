@@ -21,6 +21,8 @@ updated: 2026-11-21
 - 原始来源为 [arXiv 书目页](https://arxiv.org/abs/2611.05071)与[正文](https://arxiv.org/html/2611.05071v1)。
 - 官方代码为 [OrnellaIrrera/MM-SAN](https://github.com/OrnellaIrrera/MM-SAN)，由原文链接确认。已核对仓库 README，训练、基线及消融运行待开展。
 
+- 仓库内 PDF：[打开全文](../../pdfs/recommender-systems/2026-mm-san.pdf)（arXiv 2611.05071v1）。
+
 ## 解决的问题
 
 给定研究论文，如何在关系稀疏、描述缺失且不断加入新节点的学术知识图谱中推荐可用数据集。观测到的论文与数据集关联并不完整，相关资源可能缺少显式连接。[原文](https://arxiv.org/abs/2611.05071)

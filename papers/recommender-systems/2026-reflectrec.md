@@ -21,6 +21,8 @@ updated: 2026-11-21
 - 原始来源：[会议书目](https://aclanthology.org/2026.emnlp-main.1591/) · [arXiv 书目](https://arxiv.org/abs/2611.23969) · [v1 正文](https://arxiv.org/html/2611.23969v1)。
 - 官方代码：本次未核实可用的官方代码仓库。
 
+- 仓库内 PDF：[打开全文](../../pdfs/recommender-systems/2026-reflectrec.pdf)（ACL Anthology 论文集版）。
+
 ## 解决的问题
 
 语言模型生成的用户偏好描述能否忠实反映交互历史？论文为推荐流程增加可检查的中间信号，避免直接信任偏好文本。[会议摘要](https://aclanthology.org/2026.emnlp-main.1591/)

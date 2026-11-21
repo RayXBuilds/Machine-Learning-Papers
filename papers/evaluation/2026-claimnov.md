@@ -21,6 +21,8 @@ updated: 2026-11-21
 - 原始来源：[书目与摘要](https://arxiv.org/abs/2610.36511) · [正文](https://arxiv.org/html/2610.36511v1)。
 - 官方代码：[ClaimNov 作者仓库](https://github.com/emmatliu/claimnov)，已见源码、数据与评估目录；本次未安装运行。
 
+- 仓库内 PDF：[打开全文](../../pdfs/evaluation/2026-claimnov.pdf)（arXiv 2610.36511v1）。
+
 ## 解决的问题
 
 AI 科研系统如何识别重复想法，同时保留含有新贡献的研究提案？整篇判定容易把局部已有成果误当作整项研究缺乏新意。

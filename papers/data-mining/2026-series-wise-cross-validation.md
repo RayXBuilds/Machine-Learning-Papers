@@ -21,6 +21,8 @@ updated: 2026-11-21
 - 原始来源：[arXiv 书目](https://arxiv.org/abs/2611.08252) · [v1 正文](https://arxiv.org/html/2611.08252v1)。
 - 官方代码：[experiments-tscv](https://github.com/vcerqueira/experiments-tscv)，论文提供的实验仓库。本库未运行代码。
 
+- 仓库内 PDF：[打开全文](../../pdfs/data-mining/2026-series-wise-cross-validation.pdf)（arXiv 2611.08252v1）。
+
 ## 解决的问题
 
 全局预测模型同时学习多条时间序列。仅沿时间切分，能否反映模型对新序列的泛化能力？论文研究按序列及时间双重划分的交叉验证。[摘要](https://arxiv.org/abs/2611.08252)

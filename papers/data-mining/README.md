@@ -8,16 +8,16 @@
 
 ## 异常检测
 
-| 归档年 | 论文与导读 | 阅读问题 |
-| --- | --- | --- |
-| 2008 | [Isolation Forest](2008-isolation-forest.md) | 在缺少异常标签时，能否直接判断一个点有多容易被隔离？ |
+| 归档年 | 论文与导读 | PDF | 阅读问题 |
+| --- | --- | --- | --- |
+| 2008 | [Isolation Forest](2008-isolation-forest.md) | [PDF](../../pdfs/data-mining/2008-isolation-forest.pdf) | 在缺少异常标签时，能否直接判断一个点有多容易被隔离？ |
 
 ## 时序预测与验证
 
-| 归档年 | 论文与导读 | 阅读问题 |
-| --- | --- | --- |
-| 2026 | [IMRouter: Imbalance-aware Temporal Pattern Routing for LLM-based Time Series Forecasting](2026-imrouter.md) | 平均预测误差可能掩盖低频时序模式上的较大误差。IMRouter 研究不同局部模式出现频率不均时，如何减少高频模式对表示学习及语言模型对齐过程的支配。 |
-| 2026 | [Series-wise Cross-validation for Global Time Series Forecasting](2026-series-wise-cross-validation.md) | 全局预测模型同时学习多条时间序列。仅沿时间切分，能否反映模型对新序列的泛化能力？论文研究按序列及时间双重划分的交叉验证。摘要 |
+| 归档年 | 论文与导读 | PDF | 阅读问题 |
+| --- | --- | --- | --- |
+| 2026 | [IMRouter: Imbalance-aware Temporal Pattern Routing for LLM-based Time Series Forecasting](2026-imrouter.md) | [PDF](../../pdfs/data-mining/2026-imrouter.pdf) | 平均预测误差可能掩盖低频时序模式上的较大误差。IMRouter 研究不同局部模式出现频率不均时，如何减少高频模式对表示学习及语言模型对齐过程的支配。 |
+| 2026 | [Series-wise Cross-validation for Global Time Series Forecasting](2026-series-wise-cross-validation.md) | [PDF](../../pdfs/data-mining/2026-series-wise-cross-validation.pdf) | 全局预测模型同时学习多条时间序列。仅沿时间切分，能否反映模型对新序列的泛化能力？论文研究按序列及时间双重划分的交叉验证。摘要 |
 
 ## 跨主题阅读
 

@@ -9,6 +9,8 @@ import sys
 from pathlib import Path
 from urllib.parse import unquote, urlsplit
 
+from check_pdfs import check_pdfs
+
 ROOT = Path(__file__).resolve().parents[1]
 
 def git(*args):
@@ -28,6 +30,10 @@ def main():
             meta, path = entry.split(b'\t', 1)
             mode, kind, sha = meta.decode().split()
             tree[path.decode()] = dict(mode=mode, type=kind, sha=sha)
+        check_pdfs()
+        for path in (ROOT / 'pdfs').rglob('*.pdf'):
+            tree.setdefault(path.relative_to(ROOT).as_posix(), {})
+        tree.setdefault('docs/pdfs.json', {})
         # Include unstaged/untracked text edits for normal contribution checks.
         for folder in ('docs', 'papers', 'library'):
             for path in (ROOT / folder).rglob('*.md'):

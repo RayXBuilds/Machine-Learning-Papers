@@ -21,6 +21,8 @@ updated: 2026-11-21
 - 原始来源：[论文入口](https://proceedings.mlr.press/v15/glorot11a.html)
 - 官方代码：在本次核对的一手来源中未确认论文配套实现。
 
+- 仓库内 PDF：[打开全文](../../pdfs/deep-learning/2011-deep-sparse-rectifiers.pdf)（PMLR 会议论文集版）。
+
 ## 解决的问题
 
 深层监督网络能否直接学到含大量精确零值的表示，并减少对无监督预训练的依赖？

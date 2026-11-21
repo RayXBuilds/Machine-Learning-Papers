@@ -21,6 +21,8 @@ updated: 2026-11-21
 - 原始来源：[SIGIR 会议版](https://doi.org/10.1145/3397271.3401063) · [作者预印本](https://arxiv.org/abs/2002.02126)。
 - 官方代码：[作者项目](https://github.com/kuandeng/LightGCN)。
 
+- 仓库内 PDF：[打开全文](../../pdfs/recommender-systems/2020-lightgcn.pdf)（arXiv 2002.02126v4）。
+
 ## 解决的问题
 
 只有用户和物品交互时，图卷积中的特征变换与非线性是否都对推荐有益？

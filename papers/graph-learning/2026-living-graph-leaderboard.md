@@ -21,6 +21,8 @@ updated: 2026-11-21
 - 原始来源包含书目页和 v1 正文。[书目与摘要](https://arxiv.org/abs/2611.03433) · [正文](https://arxiv.org/html/2611.03433v1)
 - 官方代码仓库及榜单均可访问。本次核对了仓库 README 和站点首页，运行验证与实验复现待开展。[代码](https://github.com/martinalex000/benchmarking_website) · [榜单](https://graphlearningbenchmarks.github.io/)
 
+- 仓库内 PDF：[打开全文](../../pdfs/graph-learning/2026-living-graph-leaderboard.pdf)（arXiv 2611.03433v1）。
+
 ## 解决的问题
 
 图学习论文使用的数据集、基线及调参方式各异，分散的结果使读者难以判断新模型的优势是否经得起已有强基线的比较。

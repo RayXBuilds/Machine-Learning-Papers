@@ -20,6 +20,8 @@ updated: 2026-11-21
 - 年份采用 2026 年，arXiv v1 首次提交于 2026-11-05（UTC）。当前核对版本为 v1，作者书目备注注明已被 NeurIPS 2026 接收，正式会议出版页待核实。[书目页](https://arxiv.org/abs/2611.08273)
 - 官方代码由原文链接确认，README 提供 MJX、MuJoCo Warp 的训练与评估入口。本次已核对说明，运行验证待开展。[作者仓库](https://github.com/ingyuh1015/Accelerating-Safe-RL-with-Massive-Parallelism)
 
+- 仓库内 PDF：[打开全文](../../pdfs/reinforcement-learning/2026-massively-parallel-safe-rl.pdf)（arXiv 2611.08273v1）。
+
 ## 解决的问题
 
 大规模并行环境常以短轨迹更新策略，但安全约束通常衡量整回合累计代价，造成估计尺度与采样分布的不匹配。[摘要](https://arxiv.org/abs/2611.08273)

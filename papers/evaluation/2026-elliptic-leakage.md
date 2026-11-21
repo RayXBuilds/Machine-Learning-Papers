@@ -21,6 +21,8 @@ updated: 2026-11-21
 - 原始来源：[arXiv 书目](https://arxiv.org/abs/2611.04000) · [v1 正文](https://arxiv.org/html/2611.04000v1)。
 - 官方代码：[论文提供的代码仓库](https://github.com/DukHaanYumCha/Leakage-Resistant-Elliptic_pp)，正文注明为评审匿名链接。本库未运行代码。
 
+- 仓库内 PDF：[打开全文](../../pdfs/evaluation/2026-elliptic-leakage.pdf)（arXiv 2611.04000v1）。
+
 ## 解决的问题
 
 Elliptic++ 地址分类的高分是否受到未来信息影响？作者检查原有样本划分与特征时间范围，识别可能夸大泛化表现的泄漏。[摘要](https://arxiv.org/abs/2611.04000)

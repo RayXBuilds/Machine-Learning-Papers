@@ -24,6 +24,8 @@ updated: 2026-11-21
 - 官方代码：[作者实现](https://github.com/gpleiss/temperature_scaling)；作者标注已停止维护，适合作为方法示例。
 - 核对日期：2026-10-26；本条为摘要与指定章节导读，未宣称全文精读。
 
+- 仓库内 PDF：[打开全文](../../pdfs/evaluation/2017-temperature-scaling.pdf)（PMLR 会议论文集版）。
+
 ## 解决的问题
 
 分类准确率高，并不代表输出概率能反映真实正确率。本文研究神经网络的置信度校准。

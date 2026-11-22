@@ -4,15 +4,17 @@
 
 [全部主题](../README.md) · [年份导航](../../docs/years/README.md) · [学习路线](../../docs/reading-paths.md) · [首页](../../README.md)
 
-范围：实验设计、A/B 测试、验证与指标。本主题 18 篇独立导读；按子方向分组，组内按归档年份升序排列。
+范围：实验设计、A/B 测试、验证与指标。本主题 20 篇独立导读；按子方向分组，组内按归档年份升序排列。
 
 ## 实验设计与数据有效性
 
 | 归档年 | 论文与导读 | PDF | 阅读问题 |
 | --- | --- | --- | --- |
+| 2012 | [Practical Bayesian Optimization of Machine Learning Algorithms](2012-practical-bayesian-optimization.md) | [PDF](../../pdfs/evaluation/2012-practical-bayesian-optimization.pdf) | 一次训练可能占用数小时。已经知道几组超参数的验证误差后，下一次训练该试哪里？如果不同配置的耗时相差很大，怎样让同样的机器时间带来更多改进？ |
 | 2012 | [Random Search for Hyper-Parameter Optimization](2012-random-search.md) | [PDF](../../pdfs/evaluation/2012-random-search.pdf) | 给定固定训练预算，当只有少数超参数强烈影响结果时，网格能试到多少种真正不同的配置？ |
 | 2019 | [Do ImageNet Classifiers Generalize to ImageNet?](2019-imagenetv2.md) | [PDF](../../pdfs/evaluation/2019-imagenetv2.pdf) | 多年反复使用同一测试集后，模型进步能否在重新采集的图像上重现？ |
 | 2021 | [WILDS: A Benchmark of in-the-Wild Distribution Shifts](2021-wilds.md) | [PDF](../../pdfs/evaluation/2021-wilds.pdf) | 随机切分得到的分数能否反映跨医院、跨地区等实际部署差异？ |
+| 2026 | [Do Embedding-Map Distances Guide LLM Ideation? Four Tests Against What Came Next](2026-embedding-map-ideation.md) | [PDF](../../pdfs/evaluation/2026-embedding-map-ideation.pdf) | 把已有研究映射为向量后，离已知工作较远的区域是否值得探索？要把这个想法用作选题依据，至少需要证明两件事：模型能写出落在目标区域的文本，而且该区域能预示后续发展。 |
 | 2026 | [Revisiting Elliptic++ for Bitcoin Forensics: Feature Reconstruction and Leakage-Resistant Evaluation](2026-elliptic-leakage.md) | [PDF](../../pdfs/evaluation/2026-elliptic-leakage.pdf) | Elliptic++ 地址分类的高分是否受到未来信息影响？作者检查原有样本划分与特征时间范围，识别可能夸大泛化表现的泄漏。摘要 |
 | 2026 | [What Carries Forward? Pretraining Disclosure Across Language Model Releases](2026-pretraining-disclosure.md) | [PDF](../../pdfs/evaluation/2026-pretraining-disclosure.pdf) | 语言模型不断发布新版本，但关于预训练数据、处理过程和算力的披露是否得到延续？总分能否掩盖具体信息的缺失？ |
 

@@ -4,9 +4,9 @@
 
 [首页](../../README.md) · [主题目录](../../papers/README.md) · [学习路线](../reading-paths.md)
 
-全库 135 篇独立导读。归档年沿用各条目明确说明的会议、出版或预印本口径，并非统一的首次发表年份；具体版本差异请查看导读的“年份与版本”。收录日期和核实日期不用于论文年份排序。
+全库 137 篇独立导读。归档年沿用各条目明确说明的会议、出版或预印本口径，并非统一的首次发表年份；具体版本差异请查看导读的“年份与版本”。收录日期和核实日期不用于论文年份排序。
 
-[1958（1）](#year-1958) · [1967（1）](#year-1967) · [1977（1）](#year-1977) · [1982（1）](#year-1982) · [1986（2）](#year-1986) · [1988（1）](#year-1988) · [1992（1）](#year-1992) · [1995（1）](#year-1995) · [1996（1）](#year-1996) · [1997（1）](#year-1997) · [2000（1）](#year-2000) · [2001（1）](#year-2001) · [2002（1）](#year-2002) · [2003（2）](#year-2003) · [2004（2）](#year-2004) · [2005（1）](#year-2005) · [2006（1）](#year-2006) · [2007（1）](#year-2007) · [2008（2）](#year-2008) · [2009（1）](#year-2009) · [2010（3）](#year-2010) · [2011（2）](#year-2011) · [2012（2）](#year-2012) · [2013（3）](#year-2013) · [2014（6）](#year-2014) · [2015（7）](#year-2015) · [2016（4）](#year-2016) · [2017（8）](#year-2017) · [2018（4）](#year-2018) · [2019（4）](#year-2019) · [2020（6）](#year-2020) · [2021（6）](#year-2021) · [2022（5）](#year-2022) · [2023（6）](#year-2023) · [2024（6）](#year-2024) · [2025（6）](#year-2025) · [2026（33）](#year-2026)
+[1958（1）](#year-1958) · [1967（1）](#year-1967) · [1977（1）](#year-1977) · [1982（1）](#year-1982) · [1986（2）](#year-1986) · [1988（1）](#year-1988) · [1992（1）](#year-1992) · [1995（1）](#year-1995) · [1996（1）](#year-1996) · [1997（1）](#year-1997) · [2000（1）](#year-2000) · [2001（1）](#year-2001) · [2002（1）](#year-2002) · [2003（2）](#year-2003) · [2004（2）](#year-2004) · [2005（1）](#year-2005) · [2006（1）](#year-2006) · [2007（1）](#year-2007) · [2008（2）](#year-2008) · [2009（1）](#year-2009) · [2010（3）](#year-2010) · [2011（2）](#year-2011) · [2012（3）](#year-2012) · [2013（3）](#year-2013) · [2014（6）](#year-2014) · [2015（7）](#year-2015) · [2016（4）](#year-2016) · [2017（8）](#year-2017) · [2018（4）](#year-2018) · [2019（4）](#year-2019) · [2020（6）](#year-2020) · [2021（6）](#year-2021) · [2022（5）](#year-2022) · [2023（6）](#year-2023) · [2024（6）](#year-2024) · [2025（6）](#year-2025) · [2026（34）](#year-2026)
 
 <a id="year-1958"></a>
 
@@ -198,6 +198,7 @@
 | 主主题 | 论文与导读 |
 | --- | --- |
 | 计算机视觉 | [ImageNet Classification with Deep Convolutional Neural Networks](../../papers/computer-vision/2012-alexnet.md) |
+| 评估与实验方法 | [Practical Bayesian Optimization of Machine Learning Algorithms](../../papers/evaluation/2012-practical-bayesian-optimization.md) |
 | 评估与实验方法 | [Random Search for Hyper-Parameter Optimization](../../papers/evaluation/2012-random-search.md) |
 
 <a id="year-2013"></a>
@@ -380,6 +381,7 @@
 | 评估与实验方法 | [Auditing AI peer reviewers: a benchmark on real scientific papers](../../papers/evaluation/2026-auditing-ai-peer-reviewers.md) |
 | 评估与实验方法 | [Discrimination, Calibration, and Ranking: A Unified Matrix Framework](../../papers/evaluation/2026-discrimination-calibration-ranking.md) |
 | 评估与实验方法 | [Do AI Scientists Know What's New?](../../papers/evaluation/2026-claimnov.md) |
+| 评估与实验方法 | [Do Embedding-Map Distances Guide LLM Ideation? Four Tests Against What Came Next](../../papers/evaluation/2026-embedding-map-ideation.md) |
 | 评估与实验方法 | [DocXEval: A Systematic Evaluation of Explainability in Multimodal Document Understanding](../../papers/evaluation/2026-docxeval.md) |
 | 评估与实验方法 | [Efficient Evaluation of LLM Performance with Statistical Guarantees](../../papers/evaluation/2026-factorized-active-querying.md) |
 | 评估与实验方法 | [Estimating Performance for Safe Deployment of Machine Learning Models](../../papers/evaluation/2026-moval.md) |

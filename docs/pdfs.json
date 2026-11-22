@@ -413,6 +413,15 @@
     "bytes": 1555753,
     "sha256": "be8d7d109954d7f488fb8b94b4c6e14bfebdef68b0ca2af3b0c149cfeffbc1f7"
   },
+  "papers/evaluation/2012-practical-bayesian-optimization.md": {
+    "path": "pdfs/evaluation/2012-practical-bayesian-optimization.pdf",
+    "source_url": "https://proceedings.neurips.cc/paper_files/paper/2012/file/05311655a15b75fab86956663e1819cd-Paper.pdf",
+    "retrieved": "2026-11-22",
+    "version": "NIPS 2012 会议论文集版",
+    "pages": 9,
+    "bytes": 521672,
+    "sha256": "218a2ffbff18a6bf45132b9137f3a389f60ad4bd164fab5f4805a06b397a2255"
+  },
   "papers/evaluation/2012-random-search.md": {
     "path": "pdfs/evaluation/2012-random-search.pdf",
     "source_url": "https://www.jmlr.org/papers/volume13/bergstra12a/bergstra12a.pdf",
@@ -511,6 +520,15 @@
     "pages": 10,
     "bytes": 624828,
     "sha256": "c8bd9767cb2335d99584a25130705556c772d7b42aba5c44ab76d617c7248119"
+  },
+  "papers/evaluation/2026-embedding-map-ideation.md": {
+    "path": "pdfs/evaluation/2026-embedding-map-ideation.pdf",
+    "source_url": "https://arxiv.org/pdf/2611.21408v1",
+    "retrieved": "2026-11-22",
+    "version": "arXiv 2611.21408v1",
+    "pages": 48,
+    "bytes": 1096132,
+    "sha256": "a77a95b1a5f0463290e52de9c8002df198e8ab25f107a672342e4a0a8e38b0fc"
   },
   "papers/evaluation/2026-evalalloc.md": {
     "path": "pdfs/evaluation/2026-evalalloc.pdf",

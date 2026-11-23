@@ -1178,6 +1178,15 @@
     "bytes": 987863,
     "sha256": "8e959ae88caeb6d8bdcc92763bc3ff766edff826aa4eb5b96b58a4a56b56ce47"
   },
+  "papers/reinforcement-learning/2016-doubly-robust-off-policy-evaluation.md": {
+    "path": "pdfs/reinforcement-learning/2016-doubly-robust-off-policy-evaluation.pdf",
+    "source_url": "https://proceedings.mlr.press/v48/jiang16.pdf",
+    "retrieved": "2026-11-23",
+    "version": "ICML 2016，PMLR 第 48 卷会议论文集版",
+    "pages": 10,
+    "bytes": 422940,
+    "sha256": "8798c38e5fa642c646d074ffeac7c3ebe309b92ec7619d33eab687b758084278"
+  },
   "papers/reinforcement-learning/2017-ppo.md": {
     "path": "pdfs/reinforcement-learning/2017-ppo.pdf",
     "source_url": "https://arxiv.org/pdf/1707.06347",

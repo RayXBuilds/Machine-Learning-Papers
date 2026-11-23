@@ -4,7 +4,7 @@
 
 [全部主题](../README.md) · [年份导航](../../docs/years/README.md) · [学习路线](../../docs/reading-paths.md) · [首页](../../README.md)
 
-范围：策略/价值学习、Bandit、规划。本主题 9 篇独立导读；按子方向分组，组内按归档年份升序排列。
+范围：策略/价值学习、Bandit、规划。本主题 10 篇独立导读；按子方向分组，组内按归档年份升序排列。
 
 ## 价值学习
 
@@ -26,6 +26,7 @@
 
 | 归档年 | 论文与导读 | PDF | 阅读问题 |
 | --- | --- | --- | --- |
+| 2016 | [Doubly Robust Off-policy Value Evaluation for Reinforcement Learning](2016-doubly-robust-off-policy-evaluation.md) | [PDF](../../pdfs/reinforcement-learning/2016-doubly-robust-off-policy-evaluation.pdf) | 只有旧策略产生的轨迹时，怎样估计换用新策略后的平均回报？直接在拟合的环境模型里模拟，模型误差可能累积；按新旧策略选择动作的概率之比给日志加权，又可能让少数轨迹主导估计。 |
 | 2021 | [Decision Transformer: Reinforcement Learning via Sequence Modeling](2021-decision-transformer.md) | [PDF](../../pdfs/reinforcement-learning/2021-decision-transformer.pdf) | 能否只用现成的轨迹，通过指定目标回报让模型生成动作？ |
 | 2025 | [DeepSeek-R1: Incentivizing Reasoning Capability in LLMs via Reinforcement Learning](2025-deepseek-r1.md) | [PDF](../../pdfs/reinforcement-learning/2025-deepseek-r1.pdf) | 在答案可判定的任务上，只给结果奖励能否塑造更长的推理行为？ |
 

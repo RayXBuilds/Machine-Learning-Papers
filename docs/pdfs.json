@@ -269,6 +269,15 @@
     "bytes": 258040,
     "sha256": "188a224c40786174ae6c9037d4a64e2ead1bf5bd1eb6da6334b42d3271021862"
   },
+  "papers/data-mining/2026-falsifiable-compositional-forecasting.md": {
+    "path": "pdfs/data-mining/2026-falsifiable-compositional-forecasting.pdf",
+    "source_url": "https://arxiv.org/pdf/2611.25388v1",
+    "retrieved": "2026-11-24",
+    "version": "arXiv 2611.25388v1",
+    "pages": 10,
+    "bytes": 515872,
+    "sha256": "4d89cf390afe2a4212c377937fa39e191bce1bd149c02b9eb308875c04d3b1fc"
+  },
   "papers/data-mining/2026-imrouter.md": {
     "path": "pdfs/data-mining/2026-imrouter.pdf",
     "source_url": "https://arxiv.org/pdf/2610.39246v1",
@@ -277,6 +286,15 @@
     "pages": 13,
     "bytes": 1457225,
     "sha256": "e71feffbbdbd59ed2b1b4836dcc56a5295c3b113fbf14d6bdc6af0cc2b48f306"
+  },
+  "papers/data-mining/2026-loki-event-effects.md": {
+    "path": "pdfs/data-mining/2026-loki-event-effects.pdf",
+    "source_url": "https://arxiv.org/pdf/2611.27191v1",
+    "retrieved": "2026-11-24",
+    "version": "arXiv 2611.27191v1",
+    "pages": 39,
+    "bytes": 1409345,
+    "sha256": "e79be1543d385d2705ae276d406b61809703b4178c70f035f3d83ca881219d4f"
   },
   "papers/data-mining/2026-series-wise-cross-validation.md": {
     "path": "pdfs/data-mining/2026-series-wise-cross-validation.pdf",

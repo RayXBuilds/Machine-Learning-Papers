@@ -4,7 +4,7 @@
 
 [全部主题](../README.md) · [年份导航](../../docs/years/README.md) · [学习路线](../../docs/reading-paths.md) · [首页](../../README.md)
 
-范围：异常检测、时序、流数据、模式挖掘与数据管理。本主题 3 篇独立导读；按子方向分组，组内按归档年份升序排列。
+范围：异常检测、时序、流数据、模式挖掘与数据管理。本主题 5 篇独立导读；按子方向分组，组内按归档年份升序排列。
 
 ## 异常检测
 
@@ -16,7 +16,9 @@
 
 | 归档年 | 论文与导读 | PDF | 阅读问题 |
 | --- | --- | --- | --- |
+| 2026 | [Falsifiable Compositional Reasoning in Time Series Forecasting](2026-falsifiable-compositional-forecasting.md) | [PDF](../../pdfs/data-mining/2026-falsifiable-compositional-forecasting.pdf) | 若两个影响价格的因素在整段历史中总是一起变化，模型即使通过按时间切分的验证，也可能无法区分哪个因素在起作用。等到两者分开变化，原本得分最好的模型还可靠吗？ |
 | 2026 | [IMRouter: Imbalance-aware Temporal Pattern Routing for LLM-based Time Series Forecasting](2026-imrouter.md) | [PDF](../../pdfs/data-mining/2026-imrouter.pdf) | 平均预测误差可能掩盖低频时序模式上的较大误差。IMRouter 研究不同局部模式出现频率不均时，如何减少高频模式对表示学习及语言模型对齐过程的支配。 |
+| 2026 | [Lift Out, Kick In: Decoupling Event Effects for Time Series Forecasting](2026-loki-event-effects.md) | [PDF](../../pdfs/data-mining/2026-loki-event-effects.pdf) | 节日带来的客流高峰可能落在训练窗口里，也可能落在预测窗口里。若模型把上一次高峰当成持续趋势，或者忽略下一次节日，两种情况下都会预测失准。 |
 | 2026 | [Series-wise Cross-validation for Global Time Series Forecasting](2026-series-wise-cross-validation.md) | [PDF](../../pdfs/data-mining/2026-series-wise-cross-validation.pdf) | 全局预测模型同时学习多条时间序列。仅沿时间切分，能否反映模型对新序列的泛化能力？论文研究按序列及时间双重划分的交叉验证。摘要 |
 
 ## 跨主题阅读

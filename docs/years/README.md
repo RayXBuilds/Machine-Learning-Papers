@@ -4,9 +4,9 @@
 
 [首页](../../README.md) · [主题目录](../../papers/README.md) · [学习路线](../reading-paths.md)
 
-全库 138 篇独立导读。归档年沿用各条目明确说明的会议、出版或预印本口径，并非统一的首次发表年份；具体版本差异请查看导读的“年份与版本”。收录日期和核实日期不用于论文年份排序。
+全库 140 篇独立导读。归档年沿用各条目明确说明的会议、出版或预印本口径，并非统一的首次发表年份；具体版本差异请查看导读的“年份与版本”。收录日期和核实日期不用于论文年份排序。
 
-[1958（1）](#year-1958) · [1967（1）](#year-1967) · [1977（1）](#year-1977) · [1982（1）](#year-1982) · [1986（2）](#year-1986) · [1988（1）](#year-1988) · [1992（1）](#year-1992) · [1995（1）](#year-1995) · [1996（1）](#year-1996) · [1997（1）](#year-1997) · [2000（1）](#year-2000) · [2001（1）](#year-2001) · [2002（1）](#year-2002) · [2003（2）](#year-2003) · [2004（2）](#year-2004) · [2005（1）](#year-2005) · [2006（1）](#year-2006) · [2007（1）](#year-2007) · [2008（2）](#year-2008) · [2009（1）](#year-2009) · [2010（3）](#year-2010) · [2011（2）](#year-2011) · [2012（3）](#year-2012) · [2013（3）](#year-2013) · [2014（6）](#year-2014) · [2015（7）](#year-2015) · [2016（5）](#year-2016) · [2017（8）](#year-2017) · [2018（4）](#year-2018) · [2019（4）](#year-2019) · [2020（6）](#year-2020) · [2021（6）](#year-2021) · [2022（5）](#year-2022) · [2023（6）](#year-2023) · [2024（6）](#year-2024) · [2025（6）](#year-2025) · [2026（34）](#year-2026)
+[1958（1）](#year-1958) · [1967（1）](#year-1967) · [1977（1）](#year-1977) · [1982（1）](#year-1982) · [1986（2）](#year-1986) · [1988（1）](#year-1988) · [1992（1）](#year-1992) · [1995（1）](#year-1995) · [1996（1）](#year-1996) · [1997（1）](#year-1997) · [2000（1）](#year-2000) · [2001（1）](#year-2001) · [2002（1）](#year-2002) · [2003（2）](#year-2003) · [2004（2）](#year-2004) · [2005（1）](#year-2005) · [2006（1）](#year-2006) · [2007（1）](#year-2007) · [2008（2）](#year-2008) · [2009（1）](#year-2009) · [2010（3）](#year-2010) · [2011（2）](#year-2011) · [2012（3）](#year-2012) · [2013（3）](#year-2013) · [2014（6）](#year-2014) · [2015（7）](#year-2015) · [2016（5）](#year-2016) · [2017（8）](#year-2017) · [2018（4）](#year-2018) · [2019（4）](#year-2019) · [2020（6）](#year-2020) · [2021（6）](#year-2021) · [2022（5）](#year-2022) · [2023（6）](#year-2023) · [2024（6）](#year-2024) · [2025（6）](#year-2025) · [2026（36）](#year-2026)
 
 <a id="year-1958"></a>
 
@@ -376,7 +376,9 @@
 | 传统机器学习 | [High-dimensional transfer learning with unaligned ordinal responses](../../papers/classical-ml/2026-unaligned-ordinal-transfer.md) |
 | 传统机器学习 | [Interpretable by Design Tabular Prediction via In-Context Local Linear Learning](../../papers/classical-ml/2026-ticl3.md) |
 | 计算机视觉 | [PACT: End-to-End Learning of Human Pose, Contacts, and Forces from Video](../../papers/computer-vision/2026-pact.md) |
+| 数据挖掘与数据管理 | [Falsifiable Compositional Reasoning in Time Series Forecasting](../../papers/data-mining/2026-falsifiable-compositional-forecasting.md) |
 | 数据挖掘与数据管理 | [IMRouter: Imbalance-aware Temporal Pattern Routing for LLM-based Time Series Forecasting](../../papers/data-mining/2026-imrouter.md) |
+| 数据挖掘与数据管理 | [Lift Out, Kick In: Decoupling Event Effects for Time Series Forecasting](../../papers/data-mining/2026-loki-event-effects.md) |
 | 数据挖掘与数据管理 | [Series-wise Cross-validation for Global Time Series Forecasting](../../papers/data-mining/2026-series-wise-cross-validation.md) |
 | 深度学习与表征学习 | [Invariance before structure: two modes of emergent compression in representation learning](../../papers/deep-learning/2026-earl-invariance-before-structure.md) |
 | 评估与实验方法 | [Auditing AI peer reviewers: a benchmark on real scientific papers](../../papers/evaluation/2026-auditing-ai-peer-reviewers.md) |

@@ -32,13 +32,13 @@ Browse subtopics within each field, use the full-library year index, or follow a
 | [Graph Learning & Network Analysis](papers/graph-learning/README.md) | Graph neural networks, community detection, link mining | 6 | 9 |
 | [Recommender Systems](papers/recommender-systems/README.md) | Collaborative filtering, matrix factorization, ALS, neural recommendation | 8 | 6 |
 | [Machine Learning Systems](papers/ml-systems/README.md) | Distributed data processing, compilers, efficient training, inference and environment interfaces | 9 | 10 |
-| [Data Mining & Data Management](papers/data-mining/README.md) | Anomaly detection, time series, data streams, pattern mining and data management | 3 | 25 |
+| [Data Mining & Data Management](papers/data-mining/README.md) | Anomaly detection, time series, data streams, pattern mining and data management | 5 | 25 |
 | [Domain Applications](papers/applications/README.md) | Robotics, bioinformatics, finance, sustainability, business applications | 5 | 20 |
 | [Evaluation & Experimental Methods](papers/evaluation/README.md) | Experimental design, A/B testing, validation, metrics | 20 | 3 |
 
-As of November 23, 2026: **138 independent reading guides and 147 archived PDFs**. The PDFs include translations and technical documents, so the file count does not represent 147 distinct papers. Indexes and counts are maintained as new entries are added.
+As of November 24, 2026: **140 independent reading guides and 147 archived PDFs**. The PDFs include translations and technical documents, so the file count does not represent 147 distinct papers. Indexes and counts are maintained as new entries are added.
 
-<!-- pdf-count -->Guide PDFs: 138 files in the new collection, 0 guides linked to archived files, 0 entries without a local PDF. [PDF index](docs/pdf-index.md).
+<!-- pdf-count -->Guide PDFs: 140 files in the new collection, 0 guides linked to archived files, 0 entries without a local PDF. [PDF index](docs/pdf-index.md).
 
 ## Repository layout
 
@@ -65,7 +65,7 @@ PDF paths have changed. The [migration guide](docs/migration.md) provides a comp
 
 ## Ongoing maintenance
 
-The four historical batches added 72 guides. The [year index](docs/backfill/README.md) lists the counts and remaining gaps. On November 23 we added a guide to doubly robust estimation of a new policy’s value from trajectories collected by another policy. [Daily guide and PDF](docs/daily/2026/11/2026-11-23.md).
+The four historical batches added 72 guides. The [year index](docs/backfill/README.md) lists the counts and remaining gaps. On November 24 we added two guides on time series forecasting: using known event schedules and testing assumptions behind historical backtests. [Daily guides and PDFs](docs/daily/2026/11/2026-11-24.md).
 
 A Codex automation runs daily at **11:00 Beijing time (Asia/Shanghai, UTC+8)** to search for, verify, and select up to five machine learning papers or technical articles. New guides are stored by topic and linked from the [daily records](docs/daily/README.md). No empty record is created when there are no suitable additions. Scheduling is handled by the Codex task; this repository does not currently contain a GitHub Actions scheduler.
 

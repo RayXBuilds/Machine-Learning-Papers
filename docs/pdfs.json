@@ -836,6 +836,15 @@
     "bytes": 1637828,
     "sha256": "a7d811a44e1c65bf27da3a01859f23a8edbe33b8f96114b4b5066aedb078f284"
   },
+  "papers/graph-learning/2026-graph-aware-diffusion.md": {
+    "path": "pdfs/graph-learning/2026-graph-aware-diffusion.pdf",
+    "source_url": "https://arxiv.org/pdf/2611.27826v1",
+    "retrieved": "2026-11-25",
+    "version": "arXiv 2611.27826v1",
+    "pages": 19,
+    "bytes": 784257,
+    "sha256": "edea72091be2d6232a403d2166cd3dd1d7289ba9bef91cac7a77690e86cd9e15"
+  },
   "papers/graph-learning/2026-living-graph-leaderboard.md": {
     "path": "pdfs/graph-learning/2026-living-graph-leaderboard.pdf",
     "source_url": "https://arxiv.org/pdf/2611.03433v1",

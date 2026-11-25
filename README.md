@@ -27,16 +27,16 @@
 | [生成模型](papers/generative-models/README.md) | 能量模型、VAE、GAN、自回归、扩散、流与世界模型 | 13 | 0 |
 | [多模态学习](papers/multimodal/README.md) | 图文对齐、图像描述与跨模态表示 | 5 | 0 |
 | [强化学习与决策](papers/reinforcement-learning/README.md) | 策略/价值学习、Bandit、规划 | 10 | 6 |
-| [图学习与网络分析](papers/graph-learning/README.md) | 图神经网络、社区发现、链接挖掘 | 6 | 9 |
+| [图学习与网络分析](papers/graph-learning/README.md) | 图神经网络、社区发现、链接挖掘 | 7 | 9 |
 | [推荐系统](papers/recommender-systems/README.md) | 协同过滤、矩阵分解、ALS、神经推荐 | 8 | 6 |
 | [机器学习系统](papers/ml-systems/README.md) | 分布式数据处理、编译、高效训练、推理加速与环境接口 | 9 | 10 |
 | [数据挖掘与数据管理](papers/data-mining/README.md) | 异常检测、时序、流数据、模式挖掘与数据管理 | 5 | 25 |
 | [领域应用](papers/applications/README.md) | 机器人、生物信息、金融、可持续发展、业务应用 | 5 | 20 |
 | [评估与实验方法](papers/evaluation/README.md) | 实验设计、A/B 测试、验证与指标 | 20 | 3 |
 
-截至 2026-11-24：140 篇独立导读、147 份历史 PDF。PDF 包含译文与技术资料，不代表 147 篇独立论文。后续收录同步维护目录和数量。
+截至 2026-11-25：141 篇独立导读、147 份历史 PDF。PDF 包含译文与技术资料，不代表 147 篇独立论文。后续收录同步维护目录和数量。
 
-<!-- pdf-count -->导读配套 PDF：新增文件区 140 份，复用历史文件 0 篇，尚无本地 PDF 的条目 0 篇。[逐篇查看](docs/pdf-index.md)。
+<!-- pdf-count -->导读配套 PDF：新增文件区 141 份，复用历史文件 0 篇，尚无本地 PDF 的条目 0 篇。[逐篇查看](docs/pdf-index.md)。
 
 ## 存放方式
 
@@ -63,7 +63,7 @@ docs/migration.md                     旧文件路径对照
 
 ## 持续维护
 
-四批历史补录已完成，共新增 72 篇导读。各年份篇数与未覆盖的问题见[分年总览](docs/backfill/README.md)。11 月 24 日新增两篇时序预测导读，分别讨论怎样利用已知事件日程，以及怎样检验历史回测中的假设。[当日导读与 PDF](docs/daily/2026/11/2026-11-24.md)
+四批历史补录已完成，共新增 72 篇导读。各年份篇数与未覆盖的问题见[分年总览](docs/backfill/README.md)。11 月 25 日新增图学习导读，讨论如何在扩散过程中保留不同图频率的信息，用于信号生成与缺测补全。[当日导读与 PDF](docs/daily/2026/11/2026-11-25.md)
 
 每天北京时间 11:00 由 Codex 自动任务检索、核实并精选最多 5 篇机器学习论文或技术文章。新增内容按主题存放，并登记到[每日收录](docs/daily/README.md)。没有合格新增时不生成空记录。此计划由 Codex 任务执行，仓库本身未配置 GitHub Actions 定时器。
 

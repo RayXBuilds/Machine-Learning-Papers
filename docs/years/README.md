@@ -4,9 +4,9 @@
 
 [首页](../../README.md) · [主题目录](../../papers/README.md) · [学习路线](../reading-paths.md)
 
-全库 140 篇独立导读。归档年沿用各条目明确说明的会议、出版或预印本口径，并非统一的首次发表年份；具体版本差异请查看导读的“年份与版本”。收录日期和核实日期不用于论文年份排序。
+全库 141 篇独立导读。归档年沿用各条目明确说明的会议、出版或预印本口径，并非统一的首次发表年份；具体版本差异请查看导读的“年份与版本”。收录日期和核实日期不用于论文年份排序。
 
-[1958（1）](#year-1958) · [1967（1）](#year-1967) · [1977（1）](#year-1977) · [1982（1）](#year-1982) · [1986（2）](#year-1986) · [1988（1）](#year-1988) · [1992（1）](#year-1992) · [1995（1）](#year-1995) · [1996（1）](#year-1996) · [1997（1）](#year-1997) · [2000（1）](#year-2000) · [2001（1）](#year-2001) · [2002（1）](#year-2002) · [2003（2）](#year-2003) · [2004（2）](#year-2004) · [2005（1）](#year-2005) · [2006（1）](#year-2006) · [2007（1）](#year-2007) · [2008（2）](#year-2008) · [2009（1）](#year-2009) · [2010（3）](#year-2010) · [2011（2）](#year-2011) · [2012（3）](#year-2012) · [2013（3）](#year-2013) · [2014（6）](#year-2014) · [2015（7）](#year-2015) · [2016（5）](#year-2016) · [2017（8）](#year-2017) · [2018（4）](#year-2018) · [2019（4）](#year-2019) · [2020（6）](#year-2020) · [2021（6）](#year-2021) · [2022（5）](#year-2022) · [2023（6）](#year-2023) · [2024（6）](#year-2024) · [2025（6）](#year-2025) · [2026（36）](#year-2026)
+[1958（1）](#year-1958) · [1967（1）](#year-1967) · [1977（1）](#year-1977) · [1982（1）](#year-1982) · [1986（2）](#year-1986) · [1988（1）](#year-1988) · [1992（1）](#year-1992) · [1995（1）](#year-1995) · [1996（1）](#year-1996) · [1997（1）](#year-1997) · [2000（1）](#year-2000) · [2001（1）](#year-2001) · [2002（1）](#year-2002) · [2003（2）](#year-2003) · [2004（2）](#year-2004) · [2005（1）](#year-2005) · [2006（1）](#year-2006) · [2007（1）](#year-2007) · [2008（2）](#year-2008) · [2009（1）](#year-2009) · [2010（3）](#year-2010) · [2011（2）](#year-2011) · [2012（3）](#year-2012) · [2013（3）](#year-2013) · [2014（6）](#year-2014) · [2015（7）](#year-2015) · [2016（5）](#year-2016) · [2017（8）](#year-2017) · [2018（4）](#year-2018) · [2019（4）](#year-2019) · [2020（6）](#year-2020) · [2021（6）](#year-2021) · [2022（5）](#year-2022) · [2023（6）](#year-2023) · [2024（6）](#year-2024) · [2025（6）](#year-2025) · [2026（37）](#year-2026)
 
 <a id="year-1958"></a>
 
@@ -399,6 +399,7 @@
 | 数学、学习理论与概率模型 | [Posterior contraction rates for banded approximations of Gaussian processes](../../papers/foundations/2026-banded-gaussian-processes.md) |
 | 生成模型 | [Online Class Posteriors for Interpretable and Controllable Discrete Diffusion](../../papers/generative-models/2026-online-class-posteriors.md) |
 | 图学习与网络分析 | [A Living Leaderboard for Graph Machine Learning](../../papers/graph-learning/2026-living-graph-leaderboard.md) |
+| 图学习与网络分析 | [Graph Signal Generation via Graph-Aware Diffusion Models](../../papers/graph-learning/2026-graph-aware-diffusion.md) |
 | 机器学习系统 | [Jaxnasium: Embracing PyTrees For Any-Agent, Cross-Suite Reinforcement Learning](../../papers/ml-systems/2026-jaxnasium.md) |
 | 机器学习系统 | [Phantom: Temporal Caching for Diffusion Models](../../papers/ml-systems/2026-phantom-temporal-caching.md) |
 | 自然语言处理与大语言模型 | [Reducing Representational Interference in Retrieval Embeddings with Trainable Prefix Tokens](../../papers/nlp/2026-dump-retrieval-prefix-tokens.md) |

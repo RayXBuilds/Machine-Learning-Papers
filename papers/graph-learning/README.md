@@ -4,7 +4,7 @@
 
 [全部主题](../README.md) · [年份导航](../../docs/years/README.md) · [学习路线](../../docs/reading-paths.md) · [首页](../../README.md)
 
-范围：图神经网络、社区发现、链接挖掘。本主题 6 篇独立导读；按子方向分组，组内按归档年份升序排列。
+范围：图神经网络、社区发现、链接挖掘。本主题 7 篇独立导读；按子方向分组，组内按归档年份升序排列。
 
 ## 图划分与嵌入
 
@@ -20,6 +20,7 @@
 | 2017 | [Inductive Representation Learning on Large Graphs](2017-graphsage.md) | [PDF](../../pdfs/graph-learning/2017-graphsage.pdf) | 图中加入新节点时，按节点编号学习的向量无法直接用于预测。 |
 | 2017 | [Semi-Supervised Classification with Graph Convolutional Networks](2017-gcn.md) | [PDF](../../pdfs/graph-learning/2017-gcn.pdf) | 如何结合节点特征与图连接进行半监督学习？ |
 | 2018 | [Graph Attention Networks](2018-gat.md) | [PDF](../../pdfs/graph-learning/2018-gat.pdf) | 聚合邻居信息时，同一节点的不同邻边应该获得多大权重？ |
+| 2026 | [Graph Signal Generation via Graph-Aware Diffusion Models](2026-graph-aware-diffusion.md) | [PDF](../../pdfs/graph-learning/2026-graph-aware-diffusion.pdf) | 两处相邻的道路传感器有时会同时记录到拥堵，有时读数又会明显分开。要补全缺测值，模型既要学会相邻节点的共同变化，也要保留局部差异。若用图上的热扩散逐步破坏训练信号，局部差异会比… |
 
 ## 图学习评估
 

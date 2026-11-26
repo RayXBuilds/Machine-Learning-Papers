@@ -4,7 +4,7 @@
 
 [全部主题](../README.md) · [年份导航](../../docs/years/README.md) · [学习路线](../../docs/reading-paths.md) · [首页](../../README.md)
 
-范围：协同过滤、矩阵分解、ALS、神经推荐。本主题 8 篇独立导读；按子方向分组，组内按归档年份升序排列。
+范围：协同过滤、矩阵分解、ALS、神经推荐。本主题 9 篇独立导读；按子方向分组，组内按归档年份升序排列。
 
 ## 协同过滤与交互建模
 
@@ -13,6 +13,7 @@
 | 2007 | [Probabilistic Matrix Factorization](2007-probabilistic-matrix-factorization.md) | [PDF](../../pdfs/recommender-systems/2007-probabilistic-matrix-factorization.pdf) | 用户与物品形成的评分矩阵大多为空，如何估计有用的低维因子而无需填满所有空格？ |
 | 2009 | [BPR: Bayesian Personalized Ranking from Implicit Feedback](2009-bpr.md) | [PDF](../../pdfs/recommender-systems/2009-bpr.pdf) | 点击或购买只有正向观测，怎样让训练目标直接对应用户的物品排序？ |
 | 2010 | [Factorization Machines](2010-factorization-machines.md) | [PDF](../../pdfs/recommender-systems/2010-factorization-machines.pdf) | 用户、物品与上下文构成高维稀疏向量时，很多特征对几乎从未共同出现，怎样估计其交互？ |
+| 2010 | [Spectral Regularization Algorithms for Learning Large Incomplete Matrices](2010-soft-impute.md) | [PDF](../../pdfs/recommender-systems/2010-soft-impute.pdf) | 一张用户与电影的评分表里，每个人只评过少数电影。直接把空格填成零再做矩阵分解，会把“没看过”当作真实评分。作者研究如何只用已观测位置衡量拟合误差，同时利用整张表的低秩结构估计… |
 | 2017 | [Neural Collaborative Filtering](2017-ncf.md) | [PDF](../../pdfs/recommender-systems/2017-ncf.pdf) | 如何用神经网络建模用户和物品交互？ |
 | 2020 | [LightGCN: Simplifying and Powering Graph Convolution Network for Recommendation](2020-lightgcn.md) | [PDF](../../pdfs/recommender-systems/2020-lightgcn.pdf) | 只有用户和物品交互时，图卷积中的特征变换与非线性是否都对推荐有益？ |
 

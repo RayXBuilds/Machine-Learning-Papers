@@ -1133,6 +1133,15 @@
     "bytes": 191641,
     "sha256": "82c8b38b84aceb8300ae2140e2aebd459b86cd631c7d58c378d45b983bdaad1a"
   },
+  "papers/recommender-systems/2010-soft-impute.md": {
+    "path": "pdfs/recommender-systems/2010-soft-impute.pdf",
+    "source_url": "https://www.jmlr.org/papers/volume11/mazumder10a/mazumder10a.pdf",
+    "retrieved": "2026-11-26",
+    "version": "JMLR 2010 年 8 月期刊版",
+    "pages": 36,
+    "bytes": 569199,
+    "sha256": "86e08b09025411e0e287c5699812caa3158e2f8901bc1d2f036584061a2816dd"
+  },
   "papers/recommender-systems/2017-ncf.md": {
     "path": "pdfs/recommender-systems/2017-ncf.pdf",
     "source_url": "https://arxiv.org/pdf/1708.05031",

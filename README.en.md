@@ -30,15 +30,15 @@ Browse subtopics within each field, use the full-library year index, or follow a
 | [Multimodal Learning](papers/multimodal/README.md) | Image–text alignment, captioning and cross-modal representations | 5 | 0 |
 | [Reinforcement Learning & Decision-Making](papers/reinforcement-learning/README.md) | Policy and value learning, bandits, planning | 10 | 6 |
 | [Graph Learning & Network Analysis](papers/graph-learning/README.md) | Graph neural networks, community detection, link mining | 7 | 9 |
-| [Recommender Systems](papers/recommender-systems/README.md) | Collaborative filtering, matrix factorization, ALS, neural recommendation | 8 | 6 |
+| [Recommender Systems](papers/recommender-systems/README.md) | Collaborative filtering, matrix factorization, ALS, neural recommendation | 9 | 6 |
 | [Machine Learning Systems](papers/ml-systems/README.md) | Distributed data processing, compilers, efficient training, inference and environment interfaces | 9 | 10 |
 | [Data Mining & Data Management](papers/data-mining/README.md) | Anomaly detection, time series, data streams, pattern mining and data management | 5 | 25 |
 | [Domain Applications](papers/applications/README.md) | Robotics, bioinformatics, finance, sustainability, business applications | 5 | 20 |
 | [Evaluation & Experimental Methods](papers/evaluation/README.md) | Experimental design, A/B testing, validation, metrics | 20 | 3 |
 
-As of November 25, 2026: **141 independent reading guides and 147 archived PDFs**. The PDFs include translations and technical documents, so the file count does not represent 147 distinct papers. Indexes and counts are maintained as new entries are added.
+As of November 26, 2026: **142 independent reading guides and 147 archived PDFs**. The PDFs include translations and technical documents, so the file count does not represent 147 distinct papers. Indexes and counts are maintained as new entries are added.
 
-<!-- pdf-count -->Guide PDFs: 141 files in the new collection, 0 guides linked to archived files, 0 entries without a local PDF. [PDF index](docs/pdf-index.md).
+<!-- pdf-count -->Guide PDFs: 142 files in the new collection, 0 guides linked to archived files, 0 entries without a local PDF. [PDF index](docs/pdf-index.md).
 
 ## Repository layout
 
@@ -65,7 +65,7 @@ PDF paths have changed. The [migration guide](docs/migration.md) provides a comp
 
 ## Ongoing maintenance
 
-The four historical batches added 72 guides. The [year index](docs/backfill/README.md) lists the counts and remaining gaps. On November 25 we added a guide to graph-aware diffusion and how frequency-specific noise schedules affect signal generation and missing-value imputation. [Daily guide and PDF](docs/daily/2026/11/2026-11-25.md).
+The four historical batches added 72 guides. The [year index](docs/backfill/README.md) lists the counts and remaining gaps. On November 26 we added Soft-Impute, a guide to estimating missing movie ratings by shrinking singular values. [Daily guide and PDF](docs/daily/2026/11/2026-11-26.md).
 
 A Codex automation runs daily at **11:00 Beijing time (Asia/Shanghai, UTC+8)** to search for, verify, and select up to five machine learning papers or technical articles. New guides are stored by topic and linked from the [daily records](docs/daily/README.md). No empty record is created when there are no suitable additions. Scheduling is handled by the Codex task; this repository does not currently contain a GitHub Actions scheduler.
 

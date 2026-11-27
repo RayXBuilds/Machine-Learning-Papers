@@ -1025,6 +1025,15 @@
     "bytes": 444482,
     "sha256": "84801c8410da51b449d379d2fa4939a416123f2c93991077a680f863026022a7"
   },
+  "papers/nlp/2015-listen-attend-and-spell.md": {
+    "path": "pdfs/nlp/2015-listen-attend-and-spell.pdf",
+    "source_url": "https://arxiv.org/pdf/1508.01211v2",
+    "retrieved": "2026-11-27",
+    "version": "arXiv:1508.01211v2",
+    "pages": 16,
+    "bytes": 2290560,
+    "sha256": "e5939004a507edfbbc50075d4fd30beab12c64720b844f6b5950c05c94ff466f"
+  },
   "papers/nlp/2017-transformer.md": {
     "path": "pdfs/nlp/2017-transformer.pdf",
     "source_url": "https://papers.nips.cc/paper/2017/file/3f5ee243547dee91fbd053c1c4a845aa-Paper.pdf",

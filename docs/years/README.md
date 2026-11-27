@@ -4,9 +4,9 @@
 
 [首页](../../README.md) · [主题目录](../../papers/README.md) · [学习路线](../reading-paths.md)
 
-全库 142 篇独立导读。归档年沿用各条目明确说明的会议、出版或预印本口径，并非统一的首次发表年份；具体版本差异请查看导读的“年份与版本”。收录日期和核实日期不用于论文年份排序。
+全库 143 篇独立导读。归档年沿用各条目明确说明的会议、出版或预印本口径，并非统一的首次发表年份；具体版本差异请查看导读的“年份与版本”。收录日期和核实日期不用于论文年份排序。
 
-[1958（1）](#year-1958) · [1967（1）](#year-1967) · [1977（1）](#year-1977) · [1982（1）](#year-1982) · [1986（2）](#year-1986) · [1988（1）](#year-1988) · [1992（1）](#year-1992) · [1995（1）](#year-1995) · [1996（1）](#year-1996) · [1997（1）](#year-1997) · [2000（1）](#year-2000) · [2001（1）](#year-2001) · [2002（1）](#year-2002) · [2003（2）](#year-2003) · [2004（2）](#year-2004) · [2005（1）](#year-2005) · [2006（1）](#year-2006) · [2007（1）](#year-2007) · [2008（2）](#year-2008) · [2009（1）](#year-2009) · [2010（4）](#year-2010) · [2011（2）](#year-2011) · [2012（3）](#year-2012) · [2013（3）](#year-2013) · [2014（6）](#year-2014) · [2015（7）](#year-2015) · [2016（5）](#year-2016) · [2017（8）](#year-2017) · [2018（4）](#year-2018) · [2019（4）](#year-2019) · [2020（6）](#year-2020) · [2021（6）](#year-2021) · [2022（5）](#year-2022) · [2023（6）](#year-2023) · [2024（6）](#year-2024) · [2025（6）](#year-2025) · [2026（37）](#year-2026)
+[1958（1）](#year-1958) · [1967（1）](#year-1967) · [1977（1）](#year-1977) · [1982（1）](#year-1982) · [1986（2）](#year-1986) · [1988（1）](#year-1988) · [1992（1）](#year-1992) · [1995（1）](#year-1995) · [1996（1）](#year-1996) · [1997（1）](#year-1997) · [2000（1）](#year-2000) · [2001（1）](#year-2001) · [2002（1）](#year-2002) · [2003（2）](#year-2003) · [2004（2）](#year-2004) · [2005（1）](#year-2005) · [2006（1）](#year-2006) · [2007（1）](#year-2007) · [2008（2）](#year-2008) · [2009（1）](#year-2009) · [2010（4）](#year-2010) · [2011（2）](#year-2011) · [2012（3）](#year-2012) · [2013（3）](#year-2013) · [2014（6）](#year-2014) · [2015（8）](#year-2015) · [2016（5）](#year-2016) · [2017（8）](#year-2017) · [2018（4）](#year-2018) · [2019（4）](#year-2019) · [2020（6）](#year-2020) · [2021（6）](#year-2021) · [2022（5）](#year-2022) · [2023（6）](#year-2023) · [2024（6）](#year-2024) · [2025（6）](#year-2025) · [2026（37）](#year-2026)
 
 <a id="year-1958"></a>
 
@@ -235,6 +235,7 @@
 | 深度学习与表征学习 | [Adam: A Method for Stochastic Optimization](../../papers/deep-learning/2015-adam.md) |
 | 深度学习与表征学习 | [Batch Normalization: Accelerating Deep Network Training by Reducing Internal Covariate Shift](../../papers/deep-learning/2015-batch-normalization.md) |
 | 多模态学习 | [Show, Attend and Tell: Neural Image Caption Generation with Visual Attention](../../papers/multimodal/2015-show-attend-tell.md) |
+| 自然语言处理与大语言模型 | [Listen, Attend and Spell](../../papers/nlp/2015-listen-attend-and-spell.md) |
 | 自然语言处理与大语言模型 | [Neural Machine Translation by Jointly Learning to Align and Translate](../../papers/nlp/2015-bahdanau-attention.md) |
 | 强化学习与决策 | [Human-level control through deep reinforcement learning](../../papers/reinforcement-learning/2015-dqn.md) |
 | 强化学习与决策 | [Trust Region Policy Optimization](../../papers/reinforcement-learning/2015-trpo.md) |

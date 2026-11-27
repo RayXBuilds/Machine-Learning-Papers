@@ -4,7 +4,7 @@
 
 [全部主题](../README.md) · [年份导航](../../docs/years/README.md) · [学习路线](../../docs/reading-paths.md) · [首页](../../README.md)
 
-范围：文本、序列、语言模型、检索增强、适配与对齐。本主题 14 篇独立导读；按子方向分组，组内按归档年份升序排列。
+范围：文本、序列、语言模型、检索增强、适配与对齐。本主题 15 篇独立导读；按子方向分组，组内按归档年份升序排列。
 
 ## 词表示与主题模型
 
@@ -19,6 +19,7 @@
 | 归档年 | 论文与导读 | PDF | 阅读问题 |
 | --- | --- | --- | --- |
 | 2014 | [Sequence to Sequence Learning with Neural Networks](2014-seq2seq.md) | [PDF](../../pdfs/nlp/2014-seq2seq.pdf) | 如何用编码器与解码器处理变长序列？ |
+| 2015 | [Listen, Attend and Spell](2015-listen-attend-and-spell.md) | [PDF](../../pdfs/nlp/2015-listen-attend-and-spell.pdf) | 一段语音有数百帧，转写却可能只有几十个字符，训练数据通常也没有标出每个字符从哪一帧开始。能否只用录音和对应文本，让模型同时学会对齐和拼写？ |
 | 2015 | [Neural Machine Translation by Jointly Learning to Align and Translate](2015-bahdanau-attention.md) | [PDF](../../pdfs/nlp/2015-bahdanau-attention.pdf) | 把整句压缩成单一向量后，译到句末时解码器如何找回与当前目标词有关的信息？ |
 | 2017 | [Attention Is All You Need](2017-transformer.md) | [PDF](../../pdfs/nlp/2017-transformer.pdf) | 如何利用注意力进行不依赖递归的序列建模？ |
 | 2019 | [BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding](2019-bert.md) | [PDF](../../pdfs/nlp/2019-bert.pdf) | 如何学习双向上下文表示并用于下游微调？ |

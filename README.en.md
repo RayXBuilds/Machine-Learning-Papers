@@ -25,7 +25,7 @@ Browse subtopics within each field, use the full-library year index, or follow a
 | [Classical Machine Learning](papers/classical-ml/README.md) | Classification, regression, ensembles, clustering, feature selection, active/online/transfer learning | 12 | 34 |
 | [Deep Learning & Representation Learning](papers/deep-learning/README.md) | Training, initialization, optimization, self-supervised representations and efficient architectures | 14 | 3 |
 | [Computer Vision](papers/computer-vision/README.md) | Image classification, detection, tracking, human motion, visual encoders | 12 | 7 |
-| [Natural Language Processing & Large Language Models](papers/nlp/README.md) | Text, sequences, language models, retrieval augmentation, adaptation, alignment | 14 | 15 |
+| [Natural Language Processing & Large Language Models](papers/nlp/README.md) | Text, sequences, language models, retrieval augmentation, adaptation, alignment | 15 | 15 |
 | [Generative Models](papers/generative-models/README.md) | Energy models, VAEs, GANs, autoregression, diffusion, flows and world models | 13 | 0 |
 | [Multimodal Learning](papers/multimodal/README.md) | Image–text alignment, captioning and cross-modal representations | 5 | 0 |
 | [Reinforcement Learning & Decision-Making](papers/reinforcement-learning/README.md) | Policy and value learning, bandits, planning | 10 | 6 |
@@ -36,9 +36,9 @@ Browse subtopics within each field, use the full-library year index, or follow a
 | [Domain Applications](papers/applications/README.md) | Robotics, bioinformatics, finance, sustainability, business applications | 5 | 20 |
 | [Evaluation & Experimental Methods](papers/evaluation/README.md) | Experimental design, A/B testing, validation, metrics | 20 | 3 |
 
-As of November 26, 2026: **142 independent reading guides and 147 archived PDFs**. The PDFs include translations and technical documents, so the file count does not represent 147 distinct papers. Indexes and counts are maintained as new entries are added.
+As of November 27, 2026: **143 independent reading guides and 147 archived PDFs**. The PDFs include translations and technical documents, so the file count does not represent 147 distinct papers. Indexes and counts are maintained as new entries are added.
 
-<!-- pdf-count -->Guide PDFs: 142 files in the new collection, 0 guides linked to archived files, 0 entries without a local PDF. [PDF index](docs/pdf-index.md).
+<!-- pdf-count -->Guide PDFs: 143 files in the new collection, 0 guides linked to archived files, 0 entries without a local PDF. [PDF index](docs/pdf-index.md).
 
 ## Repository layout
 
@@ -65,7 +65,7 @@ PDF paths have changed. The [migration guide](docs/migration.md) provides a comp
 
 ## Ongoing maintenance
 
-The four historical batches added 72 guides. The [year index](docs/backfill/README.md) lists the counts and remaining gaps. On November 26 we added Soft-Impute, a guide to estimating missing movie ratings by shrinking singular values. [Daily guide and PDF](docs/daily/2026/11/2026-11-26.md).
+The four historical batches added 72 guides. The [year index](docs/backfill/README.md) lists the counts and remaining gaps. On November 27 we added *Listen, Attend and Spell*, a guide to using attention to align speech with characters in a transcript. [Daily guide and PDF](docs/daily/2026/11/2026-11-27.md).
 
 A Codex automation runs daily at **11:00 Beijing time (Asia/Shanghai, UTC+8)** to search for, verify, and select up to five machine learning papers or technical articles. New guides are stored by topic and linked from the [daily records](docs/daily/README.md). No empty record is created when there are no suitable additions. Scheduling is handled by the Codex task; this repository does not currently contain a GitHub Actions scheduler.
 

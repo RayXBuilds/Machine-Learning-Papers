@@ -125,13 +125,14 @@
 
 1. [Q-learning](../papers/reinforcement-learning/1992-q-learning.md)（1992，强化学习与决策）
 2. [Human-level control through deep reinforcement learning](../papers/reinforcement-learning/2015-dqn.md)（2015，强化学习与决策）
-3. [Trust Region Policy Optimization](../papers/reinforcement-learning/2015-trpo.md)（2015，强化学习与决策）
-4. [Proximal Policy Optimization Algorithms](../papers/reinforcement-learning/2017-ppo.md)（2017，强化学习与决策）
-5. [Soft Actor-Critic: Off-Policy Maximum Entropy Deep Reinforcement Learning with a Stochastic Actor](../papers/reinforcement-learning/2018-sac.md)（2018，强化学习与决策）
-6. [Addressing Function Approximation Error in Actor-Critic Methods](../papers/reinforcement-learning/2018-td3.md)（2018，强化学习与决策）
-7. [Decision Transformer: Reinforcement Learning via Sequence Modeling](../papers/reinforcement-learning/2021-decision-transformer.md)（2021，强化学习与决策）
-8. [OpenVLA: An Open-Source Vision-Language-Action Model](../papers/applications/2024-openvla.md)（2024，领域应用）
-9. [π₀: A Vision-Language-Action Flow Model for General Robot Control](../papers/applications/2025-pi-zero.md)（2025，领域应用）
+3. [Policy Gradient Methods for Reinforcement Learning with Function Approximation](../papers/reinforcement-learning/1999-policy-gradient-function-approximation.md)（1999，强化学习与决策）
+4. [Trust Region Policy Optimization](../papers/reinforcement-learning/2015-trpo.md)（2015，强化学习与决策）
+5. [Proximal Policy Optimization Algorithms](../papers/reinforcement-learning/2017-ppo.md)（2017，强化学习与决策）
+6. [Soft Actor-Critic: Off-Policy Maximum Entropy Deep Reinforcement Learning with a Stochastic Actor](../papers/reinforcement-learning/2018-sac.md)（2018，强化学习与决策）
+7. [Addressing Function Approximation Error in Actor-Critic Methods](../papers/reinforcement-learning/2018-td3.md)（2018，强化学习与决策）
+8. [Decision Transformer: Reinforcement Learning via Sequence Modeling](../papers/reinforcement-learning/2021-decision-transformer.md)（2021，强化学习与决策）
+9. [OpenVLA: An Open-Source Vision-Language-Action Model](../papers/applications/2024-openvla.md)（2024，领域应用）
+10. [π₀: A Vision-Language-Action Flow Model for General Robot Control](../papers/applications/2025-pi-zero.md)（2025，领域应用）
 
 ## 系统、部署与推理效率
 

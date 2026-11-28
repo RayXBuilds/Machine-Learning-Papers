@@ -4,7 +4,7 @@
 
 [全部主题](../README.md) · [年份导航](../../docs/years/README.md) · [学习路线](../../docs/reading-paths.md) · [首页](../../README.md)
 
-范围：策略/价值学习、Bandit、规划。本主题 10 篇独立导读；按子方向分组，组内按归档年份升序排列。
+范围：策略/价值学习、Bandit、规划。本主题 11 篇独立导读；按子方向分组，组内按归档年份升序排列。
 
 ## 价值学习
 
@@ -17,6 +17,7 @@
 
 | 归档年 | 论文与导读 | PDF | 阅读问题 |
 | --- | --- | --- | --- |
+| 1999 | [Policy Gradient Methods for Reinforcement Learning with Function Approximation](1999-policy-gradient-function-approximation.md) | [PDF](../../pdfs/reinforcement-learning/1999-policy-gradient-function-approximation.pdf) | 假设智能体可以向左或向右走。稍微调高向右走的概率，会改变眼前的动作选择，也会改变之后更常到达的状态。要判断这次调整能否提高长期回报，是否还得知道环境如何响应，并对每个状态的访… |
 | 2015 | [Trust Region Policy Optimization](2015-trpo.md) | [PDF](../../pdfs/reinforcement-learning/2015-trpo.pdf) | 策略梯度沿好方向移动过远时，采样数据所代表的状态分布会失效，怎样控制一次更新的幅度？ |
 | 2017 | [Proximal Policy Optimization Algorithms](2017-ppo.md) | [PDF](../../pdfs/reinforcement-learning/2017-ppo.pdf) | 如何在多轮小批量更新中控制策略变化？ |
 | 2018 | [Addressing Function Approximation Error in Actor-Critic Methods](2018-td3.md) | [PDF](../../pdfs/reinforcement-learning/2018-td3.pdf) | 当策略追逐近似价值函数的高点时，估值误差如何在连续控制中累积？ |

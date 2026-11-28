@@ -24,4 +24,4 @@
 
 ## 仍未覆盖的问题
 
-早期学习理论与实验方法仍缺 PAC 学习和策略梯度的原始工作。2010–2016 年已补入[贝叶斯优化](../../papers/evaluation/2012-practical-bayesian-optimization.md)、[矩阵补全](../../papers/recommender-systems/2010-soft-impute.md)和[端到端语音识别](../../papers/nlp/2015-listen-attend-and-spell.md)；2017–2022 年仍可补充离线策略评估和分布式训练。近期时序预测已补入[事件响应](../../papers/data-mining/2026-loki-event-effects.md)和[分布变化下的回测](../../papers/data-mining/2026-falsifiable-compositional-forecasting.md)，图学习已补入[图信号扩散与缺测补全](../../papers/graph-learning/2026-graph-aware-diffusion.md)，跨平台机器人安全评估仍待补充。各阶段记录保留了具体范围和版本判断。
+早期工作已补入[策略梯度与函数近似](../../papers/reinforcement-learning/1999-policy-gradient-function-approximation.md)，仍缺 PAC 学习的原始论文。2010–2016 年已补入[贝叶斯优化](../../papers/evaluation/2012-practical-bayesian-optimization.md)、[矩阵补全](../../papers/recommender-systems/2010-soft-impute.md)和[端到端语音识别](../../papers/nlp/2015-listen-attend-and-spell.md)；2017–2022 年仍可补充离线策略评估和分布式训练。近期时序预测已补入[事件响应](../../papers/data-mining/2026-loki-event-effects.md)和[分布变化下的回测](../../papers/data-mining/2026-falsifiable-compositional-forecasting.md)，图学习已补入[图信号扩散与缺测补全](../../papers/graph-learning/2026-graph-aware-diffusion.md)，跨平台机器人安全评估仍待补充。各阶段记录保留了具体范围和版本判断。

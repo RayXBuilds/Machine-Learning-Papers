@@ -127,6 +127,7 @@
     "ids": [
       "q-learning",
       "dqn",
+      "policy-gradient-function-approximation",
       "trpo",
       "ppo",
       "sac",

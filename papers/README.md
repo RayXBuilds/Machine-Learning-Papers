@@ -13,7 +13,7 @@
 | [自然语言处理与大语言模型](nlp/README.md) | 文本、序列、语言模型、检索增强、适配与对齐 | 15 | 15 |
 | [生成模型](generative-models/README.md) | 能量模型、VAE、GAN、自回归、扩散、流与世界模型 | 13 | 0 |
 | [多模态学习](multimodal/README.md) | 图文对齐、图像描述与跨模态表示 | 5 | 0 |
-| [强化学习与决策](reinforcement-learning/README.md) | 策略/价值学习、Bandit、规划 | 10 | 6 |
+| [强化学习与决策](reinforcement-learning/README.md) | 策略/价值学习、Bandit、规划 | 11 | 6 |
 | [图学习与网络分析](graph-learning/README.md) | 图神经网络、社区发现、链接挖掘 | 7 | 9 |
 | [推荐系统](recommender-systems/README.md) | 协同过滤、矩阵分解、ALS、神经推荐 | 9 | 6 |
 | [机器学习系统](ml-systems/README.md) | 分布式数据处理、编译、高效训练、推理加速与环境接口 | 9 | 10 |
@@ -21,4 +21,4 @@
 | [领域应用](applications/README.md) | 机器人、生物信息、金融、可持续发展、业务应用 | 5 | 20 |
 | [评估与实验方法](evaluation/README.md) | 实验设计、A/B 测试、验证与指标 | 20 | 3 |
 
-共 143 篇独立导读、147 份历史 PDF。交叉主题链接不重复计数。
+共 144 篇独立导读、147 份历史 PDF。交叉主题链接不重复计数。

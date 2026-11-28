@@ -1205,6 +1205,15 @@
     "bytes": 685568,
     "sha256": "3f1938a6001991f3171e13a93196fc8fc27978f18c87445321bb25058f35776f"
   },
+  "papers/reinforcement-learning/1999-policy-gradient-function-approximation.md": {
+    "path": "pdfs/reinforcement-learning/1999-policy-gradient-function-approximation.pdf",
+    "source_url": "https://proceedings.neurips.cc/paper_files/paper/1999/file/464d828b85b0bed98e80ade0a5c43b0f-Paper.pdf",
+    "retrieved": "2026-11-28",
+    "version": "NIPS 1999 会议论文集版",
+    "pages": 7,
+    "bytes": 1541309,
+    "sha256": "a7b400e47be17013611cc945455e03e4b973d52cca6bc487bcfe03fe64514a77"
+  },
   "papers/reinforcement-learning/2015-dqn.md": {
     "path": "pdfs/reinforcement-learning/2015-dqn.pdf",
     "source_url": "https://storage.googleapis.com/deepmind-media/dqn/DQNNaturePaper.pdf",
